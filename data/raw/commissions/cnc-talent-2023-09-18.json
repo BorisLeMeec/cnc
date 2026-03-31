@@ -1,0 +1,226 @@
+{
+  "id": "cnc-talent-2023-09-18",
+  "fund_name": "CNC Talent",
+  "date": "2023-09-18",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-18-septembre-2023_2053517",
+  "jury": [
+    {
+      "person_id": "",
+      "raw_name": "Nora Hamzawi",
+      "role": "président"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Laureline Amanieux",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Frédéric Carpentier",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Jeanne Ezvan",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Gaspard Guermonprez",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Benjamin Hoguet",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Constance Lescouarnec",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Anis Rhali",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2023-09-18-a-la-recherche-du-thon-a-la-catalane",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-09-18",
+      "talent_raw": "Sophie Marie Larrouy",
+      "beneficiary_raw": "Calme Toi",
+      "amount": 10500,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-09-18-j-ai-16-ans",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-09-18",
+      "talent_raw": "Camille Courcy",
+      "beneficiary_raw": "Pip's Studio",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-09-18-slexno-saison-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-09-18",
+      "talent_raw": "Alexandre Marinelli alias Slexno",
+      "beneficiary_raw": "FRENSCH TOAST",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-09-18-philosopher-view-saison-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-09-18",
+      "talent_raw": "Monsieur Phi",
+      "beneficiary_raw": "Nerd Entertainment System",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-09-18-afro-titre-provisoire",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-09-18",
+      "talent_raw": "Rachel Kwarteng \u0026 Nicolas Jalu",
+      "beneficiary_raw": "BKE",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-09-18-saison-speciale-jeux-olympiques-de-le-nouveau-programme",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-09-18",
+      "talent_raw": "Le Nouveau Programme",
+      "beneficiary_raw": "Le Nouveau Programme",
+      "amount": 23000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-09-18-face-b",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-09-18",
+      "talent_raw": "Loïc Adrien",
+      "beneficiary_raw": "Phénomènes Films",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-09-18-fleur-bleue",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-09-18",
+      "talent_raw": "Enya Baroux",
+      "beneficiary_raw": "CARNAVAL PRODUCTIONS",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-09-18-kops-foot-politique-et-radicalites-en-europe",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-09-18",
+      "talent_raw": "StreetPress",
+      "beneficiary_raw": "StreetPress",
+      "amount": 27000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-09-18-gymel",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-09-18",
+      "talent_raw": "Dayan D.Oualid",
+      "beneficiary_raw": "Trois Jours De Marche",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-09-18-mercure",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-09-18",
+      "talent_raw": "Tommy-Lee Baïk",
+      "beneficiary_raw": "Tommy-Lee Baïk",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-09-18-les-madeleines-de-plouc",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-09-18",
+      "talent_raw": "Pierre-Emmanuel Urcun, Bertrand Basset Sébastien",
+      "beneficiary_raw": "STANK",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-09-18-artisans-de-demain",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-09-18",
+      "talent_raw": "Camille Hinas \u0026 Illiès Boussaha",
+      "beneficiary_raw": "Bengaluncia Production",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-09-18-off-investigation-saison-2-developpement-du-media",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-09-18",
+      "talent_raw": "Off Investigation",
+      "beneficiary_raw": "Off Investigation",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-09-18-the-good-goods-le-media-de-la-mode-fondee-sur-des-preuves",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-09-18",
+      "talent_raw": "The Good Goods",
+      "beneficiary_raw": "THE GOOD GOODS",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-09-18-thomas-gauthier",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-09-18",
+      "talent_raw": "Thomas Gauthier",
+      "beneficiary_raw": "Cairn Productions",
+      "amount": 30000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

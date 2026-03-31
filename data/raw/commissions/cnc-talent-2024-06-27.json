@@ -1,0 +1,242 @@
+{
+  "id": "cnc-talent-2024-06-27",
+  "fund_name": "CNC Talent",
+  "date": "2024-06-27",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-27-juin-2024_2230544",
+  "jury": [
+    {
+      "person_id": "",
+      "raw_name": "Jeanne Ezvan",
+      "role": "président suppléant"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Anis Rhali",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Constance LE SCOUARNEC",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Victor HABCHY",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Romain DUPOUY",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Benjamin HOGUET",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Marianne TOSTIVINT",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Benjamin BONNET",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Laureline AMANIEUX",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2024-06-27-le-piratage-c-est-du-vol",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-06-27",
+      "talent_raw": "Nicolas Delage",
+      "beneficiary_raw": "FFS Production",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-06-27-le-mystere-bourbaki",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-06-27",
+      "talent_raw": "Marie Durrieu",
+      "beneficiary_raw": "narrative",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-06-27-focus",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-06-27",
+      "talent_raw": "Ysaora Thibus",
+      "beneficiary_raw": "La Barone",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-06-27-les-groos",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-06-27",
+      "talent_raw": "David MIRAILLES",
+      "beneficiary_raw": "David MIRAILLES",
+      "amount": 8807,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-06-27-fleur-bleue-saison-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-06-27",
+      "talent_raw": "ENYA BAROUX",
+      "beneficiary_raw": "CARNAVAL PRODUCTIONS",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-06-27-les-archives-rouges",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-06-27",
+      "talent_raw": "Jonas Brisé",
+      "beneficiary_raw": "Wašté Films",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-06-27-friendcast",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-06-27",
+      "talent_raw": "Raphael MARRIQ - ARTOUS",
+      "beneficiary_raw": "ARTOUS",
+      "amount": 28600,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-06-27-re-inventer-l-enfance",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-06-27",
+      "talent_raw": "Eve Simonet",
+      "beneficiary_raw": "SOEURCIERES",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-06-27-micmac",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-06-27",
+      "talent_raw": "Micmac_Officiel (Charles Falanga \u0026 Dorian Hays)",
+      "beneficiary_raw": "Mauvaises Herbes",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-06-27-c-est-ton-rayon",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-06-27",
+      "talent_raw": "Sophie-Helene Zaimi",
+      "beneficiary_raw": "vorace media",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-06-27-memoires-komune",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-06-27",
+      "talent_raw": "Komune",
+      "beneficiary_raw": "Komune Media",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-06-27-cinemascu",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-06-27",
+      "talent_raw": "Juliette Todisco",
+      "beneficiary_raw": "Crush",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-06-27-coucou",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-06-27",
+      "talent_raw": "Alix Martineau et Kalindi Ramphul",
+      "beneficiary_raw": "Trois Jours De Marche",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-06-27-c-est-qui-ce-pedro",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-06-27",
+      "talent_raw": "Jean PEBEREAU",
+      "beneficiary_raw": "Jean PEBEREAU",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-06-27-charles-villa-demande-d-aide-cnc",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-06-27",
+      "talent_raw": "Charles Villa",
+      "beneficiary_raw": "Mycélium",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-06-27-aide-au-developpement-de-la-chaine-ici-amy-plant",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-06-27",
+      "talent_raw": "ici Amy Plant",
+      "beneficiary_raw": "ici Amy Plant",
+      "amount": 45000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-06-27-on-fabrique-le-meilleur-simulateur-dynamique",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-06-27",
+      "talent_raw": "Les Frères Poulain",
+      "beneficiary_raw": "Baptiste Poulain",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "standard",
+      "result": "accepted"
+    }
+  ]
+}

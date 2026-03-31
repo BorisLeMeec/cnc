@@ -1,0 +1,215 @@
+{
+  "id": "cnc-talent-2024-03-15",
+  "fund_name": "CNC Talent",
+  "date": "2024-03-15",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-15-mars-2024_2190044",
+  "jury": [
+    {
+      "person_id": "",
+      "raw_name": "Jeanne Ezvan",
+      "role": "président"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Léa Bordier",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Romain Dupouy",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Frédéric Carpentier",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Benjamin Hoguet",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Anis Rhali",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Constance Le Scouarnec",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Charlie Danger",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2024-03-15-etymotheque",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-03-15",
+      "talent_raw": "Aliciane Guitard et Pierre Kerner",
+      "beneficiary_raw": "Cairn Productions",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-03-15-le-pouvoir-des-autrices-de-shojo-manga",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-03-15",
+      "talent_raw": "Lapeint",
+      "beneficiary_raw": "Lapeint",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-03-15-tulip",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-03-15",
+      "talent_raw": "Judi Tudisco",
+      "beneficiary_raw": "Avec ou sans Vous",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-03-15-riad-contre-la-fin-du-monde",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-03-15",
+      "talent_raw": "Benoit Blanc \u0026 Riad Gahmi",
+      "beneficiary_raw": "OUPS Prod",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-03-15-degourdie-saison-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-03-15",
+      "talent_raw": "Inas Chanti",
+      "beneficiary_raw": "Dobro Films",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-03-15-l-etoffe-des-athletes",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-03-15",
+      "talent_raw": "Julien Magalaës",
+      "beneficiary_raw": "Urbania Productions",
+      "amount": 25000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-03-15-virago-les-sportives-x-tv5-mondes",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-03-15",
+      "talent_raw": "Aude GG",
+      "beneficiary_raw": "Make Change",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-03-15-les-geant-e-s",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-03-15",
+      "talent_raw": "Antoine Salaün",
+      "beneficiary_raw": "Antoine Salaün",
+      "amount": 28000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-03-15-l-histoire-de-guerre-de-jean-moulin",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-03-15",
+      "talent_raw": "Mamytwink",
+      "beneficiary_raw": "Dix Dix-Neuf Production SAS",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-03-15-on-a-vole-ma-vf",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-03-15",
+      "talent_raw": "Lucas Stoll",
+      "beneficiary_raw": "Lucas Stoll",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-03-15-mario-le-plombier-qui-voulait-dethroner-mickey",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-03-15",
+      "talent_raw": "La chaîne de P.A.U.L",
+      "beneficiary_raw": "PANDORA Création",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-03-15-generations-carbone",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-03-15",
+      "talent_raw": "Laura Ghazal",
+      "beneficiary_raw": "La Féline",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-03-15-mecreantes-studios",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-03-15",
+      "talent_raw": "Léane Alestra, Apolline Bazin",
+      "beneficiary_raw": "Manifesto XXI",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-03-15-la-manie-du-cinema",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-03-15",
+      "talent_raw": "Mélanie Toubeau",
+      "beneficiary_raw": "Mano Pictures",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-03-15-bricomax",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-03-15",
+      "talent_raw": "Marion séclin et Elvire Duvelle-Charles",
+      "beneficiary_raw": "Clit Révolution",
+      "amount": 5000,
+      "aid_section": "aide_chaine",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "id": "cnc-talent-2025-07-03",
+  "fund_name": "CNC Talent",
+  "date": "2025-07-03",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-3-juillet-2025_2431454",
+  "jury": [
+    {
+      "person_id": "",
+      "raw_name": "Benjamin Bonnet",
+      "role": "président"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Marie-Camille Soyer",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Victor Habchy",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Kloé Lang",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Léa Bordier",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Romain Filstroff",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Julien Aubert",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Déborah Hankey",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Anis Rhali",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2025-07-03-a-musee-vous-a-musee-moi",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "Fouzia KECHKECH",
+      "beneficiary_raw": "DADA MEDIA",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-07-03-la-curieuse-soiree-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "LA CURIEUSE SOIRÉE 2",
+      "beneficiary_raw": "4 HUMANS",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-07-03-le-bureau-des-histoires",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "Cloé Chope",
+      "beneficiary_raw": "Polychrome Films",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-07-03-melanine",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "Estelle Ndjandjo",
+      "beneficiary_raw": "La félicité",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-07-03-stone-land",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "Olivier CARPENTIER",
+      "beneficiary_raw": "FACTSTORY",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-07-03-morts-de-rire-histoire-secrete-des-guignols-de-linfo",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "Off investigation",
+      "beneficiary_raw": "Off investigation",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-07-03-loupiote-joueuse-libre",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "Bruno Sevaistre",
+      "beneficiary_raw": "L'éolienne prod",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-07-03-le-monde-est-une-fete",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "Max Laulom",
+      "beneficiary_raw": "LES PRODUCTIONS POV",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-07-03-le-feminisme-explique-a-mon-ex-e",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "on-suzane",
+      "beneficiary_raw": "SOEURCIERES",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-07-03-nima",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "Nicolas Meyrieux",
+      "beneficiary_raw": "MAKING BARBE",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-07-03-24h-dans-la-peau",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "Nono",
+      "beneficiary_raw": "PRESENT FUTUR",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-07-03-rencontres-sportives",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "En Tribune",
+      "beneficiary_raw": "En Tribune",
+      "amount": 7660,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-07-03-le-monde-ou-rien",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "BanlieusardNouveau",
+      "beneficiary_raw": "Banlieusard Nouveau (BN Agency)",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-07-03-sois-mere-et-tais-toi",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "Camille Lamy, Coralie Martin, Marianne Mingant",
+      "beneficiary_raw": "Girelle Production",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-07-03-yard-for-good-le-documentaire",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "YARD",
+      "beneficiary_raw": "YARD",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-07-03-women-wave-project",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "Coline Balfroid",
+      "beneficiary_raw": "Humanitas",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-07-03-aurelie-leveau",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "Aurélie Leveau",
+      "beneficiary_raw": "Aurélie Leveau",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-07-03-en-carte",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "Maxime THUILLEZ",
+      "beneficiary_raw": "Maxime THUILLEZ",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-07-03-vert-le-media-qui-annonce-la-couleur",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "Loup Espargilière",
+      "beneficiary_raw": "SAS Vert",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-07-03-michel-apres-la-mort",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "Thibault Gilles",
+      "beneficiary_raw": "FOURMI ROUGE",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-07-03-chromasia-a-tale-of-light-and-sound",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "Lila Poppins",
+      "beneficiary_raw": "Eddy Production",
+      "amount": 2000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-07-03-petites-betes-grandes-histoires",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "Léna Polin",
+      "beneficiary_raw": "PANDORA Création",
+      "amount": 2000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-07-03-developpement-chaine-youtube-hourrail",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-07-03",
+      "talent_raw": "HOURRAIL !",
+      "beneficiary_raw": "HOURRAIL ! SAS",
+      "amount": 20000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

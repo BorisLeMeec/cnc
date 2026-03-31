@@ -1,0 +1,226 @@
+{
+  "id": "cnc-talent-2018-04-24",
+  "fund_name": "CNC Talent",
+  "date": "2018-04-24",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-des-commissions_570218",
+  "jury": [
+    {
+      "person_id": "",
+      "raw_name": "Soufiane Adel",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Josza Anjembe",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Cyprien Iov",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Barbara Israël",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Salam Jawad",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Margaux Missika",
+      "role": "président suppléant"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Axelle Tessandier",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Sophie Garric",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2018-04-24-polichinelles",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-04-24",
+      "talent_raw": "Sandra Parra et Armand Robin",
+      "beneficiary_raw": "Melocoton Films",
+      "amount": 25000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-04-24-yasmina-et-rim",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-04-24",
+      "talent_raw": "Souad Arsane et Inas Chanti",
+      "beneficiary_raw": "Da Prod",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-04-24-les-derniers",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-04-24",
+      "talent_raw": "Sophie Nahum",
+      "beneficiary_raw": "Sophie Nahum",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-04-24-le-fantome-de-l-opera",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-04-24",
+      "talent_raw": "Jhon Rachid",
+      "beneficiary_raw": "Les Films Pélléas",
+      "amount": 25000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-04-24-l-art-de-la-guerre",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-04-24",
+      "talent_raw": "Sophie-Marie Larrouy",
+      "beneficiary_raw": "Sophie-Marie Larrouy",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-04-24-pd",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-04-24",
+      "talent_raw": "Olivier Lallart",
+      "beneficiary_raw": "Olivier Lallart",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-04-24-le-francais-dans-le-monde",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-04-24",
+      "talent_raw": "Dave Sheik",
+      "beneficiary_raw": "Dave Sheik",
+      "amount": 14000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-04-24-neknomination",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-04-24",
+      "talent_raw": "Thomas Baronnet et Cyril Leulier",
+      "beneficiary_raw": "Sixtine-Creation",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-04-24-remue-meninges",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-04-24",
+      "talent_raw": "Le Mock",
+      "beneficiary_raw": "Bridges",
+      "amount": 2000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-04-24-mon-toit-a-moi",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-04-24",
+      "talent_raw": "L'académie des haut-parleurs",
+      "beneficiary_raw": "Fablabchannel",
+      "amount": 2000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-04-24-les-topos-de-lolo",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-04-24",
+      "talent_raw": "Eléonore Costes",
+      "beneficiary_raw": "La dame de Cœur",
+      "amount": 2000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-04-24-solange-te-parle",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-04-24",
+      "talent_raw": "Solange te parle",
+      "beneficiary_raw": "Amicale de production",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-04-24-thinkerview",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-04-24",
+      "talent_raw": "Thinkerview",
+      "beneficiary_raw": "Sans montage ni coupure",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-04-24-et-tout-le-monde-s-en-fout",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-04-24",
+      "talent_raw": "Et tout le monde s'en fout",
+      "beneficiary_raw": "Mia Productions",
+      "amount": 30000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-04-24-yes-vous-aime",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-04-24",
+      "talent_raw": "Yes vous aime",
+      "beneficiary_raw": "Courte focale production",
+      "amount": 30000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-04-24-le-huitieme-continent",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-04-24",
+      "talent_raw": "Florence Porcel",
+      "beneficiary_raw": "Next Originals",
+      "amount": 25000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "id": "cnc-talent-2019-06-18",
+  "fund_name": "CNC Talent",
+  "date": "2019-06-18",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-19-avril-2019_1045254",
+  "jury": [
+    {
+      "person_id": "",
+      "raw_name": "Lorenzo BENEDETTI",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Amélie COISPEL",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Salam JAWAD",
+      "role": "président"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Margaux MISSIKA",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Fif TOBOSSI",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Lawrence VALIN",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2019-06-18-halfway",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-06-18",
+      "talent_raw": "Florent DORIN",
+      "beneficiary_raw": "Florent DORIN",
+      "amount": 10000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-06-18-data-science-vs-fake-saison-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-06-18",
+      "talent_raw": "Pascal Goblot",
+      "beneficiary_raw": "ESCALENTA",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-06-18-nexus-vi",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-06-18",
+      "talent_raw": "Cyril CHAGOT",
+      "beneficiary_raw": "FENSCH TOAST",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-06-18-lhistoire-animee",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-06-18",
+      "talent_raw": "Manon Bril (Manon Champier)",
+      "beneficiary_raw": "Manon Champier",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-06-18-mom",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-06-18",
+      "talent_raw": "Kajika AKI FERRAZZINI",
+      "beneficiary_raw": "Kajika AKI FERRAZZINI",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-06-18-copains-a-la-vie-a-la-mort",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-06-18",
+      "talent_raw": "Golden Moustache",
+      "beneficiary_raw": "GM6",
+      "amount": 14000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-06-18-underscore",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-06-18",
+      "talent_raw": "Alt236",
+      "beneficiary_raw": "Image Mouvement",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-06-18-lacher-prise",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-06-18",
+      "talent_raw": "SolangeTeParle",
+      "beneficiary_raw": "Next Originals",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-06-18-back-to-africa",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-06-18",
+      "talent_raw": "Kadiatou TRAORE",
+      "beneficiary_raw": "Kadiatou TRAORE",
+      "amount": 27000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-06-18-la-boite-a-q",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-06-18",
+      "talent_raw": "Queen Camille",
+      "beneficiary_raw": "ALJ Agency",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-06-18-je-suis-ton-pere",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-06-18",
+      "talent_raw": "Justine Le Pottier",
+      "beneficiary_raw": "Stupefy",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-06-18-cvn",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-06-18",
+      "talent_raw": "Alexandre Pierrin",
+      "beneficiary_raw": "La Générale de Production",
+      "amount": 28000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-06-18-godwin",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-06-18",
+      "talent_raw": "Bouchra OUIKOU",
+      "beneficiary_raw": "Bouchra OUIKOU",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-06-18-scenique-ta-piece",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-06-18",
+      "talent_raw": "Charlotte ISSALY",
+      "beneficiary_raw": "Charlotte ISSALY",
+      "amount": 2000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-06-18-pour-retrouver-la-chaleur-de-tes-bras",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-06-18",
+      "talent_raw": "David Kajman",
+      "beneficiary_raw": "La Verticale",
+      "amount": 10000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-06-18-la-ou-sarretent-les-mots",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-06-18",
+      "talent_raw": "Avner PERES",
+      "beneficiary_raw": "cool film",
+      "amount": 25000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-06-18-emy-ltr-courtmetrages",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-06-18",
+      "talent_raw": "EMY LTR",
+      "beneficiary_raw": "STUDIO71",
+      "amount": 25000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-06-18-scientifiction",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-06-18",
+      "talent_raw": "The Sense of WOnder",
+      "beneficiary_raw": "String Theory",
+      "amount": 45000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-06-18-eleonore-costes",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-06-18",
+      "talent_raw": "Eleonore Costes",
+      "beneficiary_raw": "Portrait Robot",
+      "amount": 35000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-06-18-max-bird",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-06-18",
+      "talent_raw": "Max Bird",
+      "beneficiary_raw": "Mia Productions",
+      "amount": 35000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

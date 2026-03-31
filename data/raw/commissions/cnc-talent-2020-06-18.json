@@ -1,0 +1,292 @@
+{
+  "id": "cnc-talent-2020-06-18",
+  "fund_name": "CNC Talent",
+  "date": "2020-06-18",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-18-juin-2020_1287195",
+  "jury": [
+    {
+      "person_id": "",
+      "raw_name": "Romain Gavras",
+      "role": "président"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Maurice Barthelemy",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Galo Diallo",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Nicolas Capuron",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Barbara Israël",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Salam Jawad",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Shirley Souagnon",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Lawrence Valin",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2020-06-18-ceux-qui-restent-et-ceux-qui-fuient",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-06-18",
+      "talent_raw": "Néhémie Lemal",
+      "beneficiary_raw": "Néhémie Lemal",
+      "amount": 7610,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-06-18-ulyx",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-06-18",
+      "talent_raw": "Merick \u0026 Gohu",
+      "beneficiary_raw": "E.N.D Television",
+      "amount": 25000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-06-18-petit-cul",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-06-18",
+      "talent_raw": "Roxane Bret",
+      "beneficiary_raw": "Roxane Bret",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-06-18-to-do-list",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-06-18",
+      "talent_raw": "Antoine Shoumsky",
+      "beneficiary_raw": "Gambettes Productions",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-06-18-anecdotique",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-06-18",
+      "talent_raw": "BA Mounib",
+      "beneficiary_raw": "Lyly Films",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-06-18-les-virées-partie-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-06-18",
+      "talent_raw": "François Theurel",
+      "beneficiary_raw": "Image Mouvement",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-06-18-l-epopee-temporelle-animee",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-06-18",
+      "talent_raw": "Cyprien Iov",
+      "beneficiary_raw": "Périple",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-06-18-le-clip-francais",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-06-18",
+      "talent_raw": "Jérémie Maire",
+      "beneficiary_raw": "Télérama",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-06-18-enquete",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-06-18",
+      "talent_raw": "Fabien Olicard",
+      "beneficiary_raw": "Sherlock's Mind",
+      "amount": 10000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-06-18-bizarre-cette-histoire",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-06-18",
+      "talent_raw": "Antoine Salaün",
+      "beneficiary_raw": "Antoine Salaün",
+      "amount": 10000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-06-18-avner-peres",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-06-18",
+      "talent_raw": "Avner Peres",
+      "beneficiary_raw": "Cool Film",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-06-18-interlude",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-06-18",
+      "talent_raw": "Valentine Jongen",
+      "beneficiary_raw": "Image Mouvement",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-06-18-un-monde-en-commun",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-06-18",
+      "talent_raw": "Le Tatou",
+      "beneficiary_raw": "Yes Sir ! Films",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-06-18-ralibrairies",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-06-18",
+      "talent_raw": "Jeanne Seignol",
+      "beneficiary_raw": "Jeanne Seignol",
+      "amount": 1250,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-06-18-docteur-iza",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-06-18",
+      "talent_raw": "Ilyass Zouhry",
+      "beneficiary_raw": "Ilyass Zouhry",
+      "amount": 10000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-06-18-la-video-dont-vous-etes-le-heron",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-06-18",
+      "talent_raw": "Inernet",
+      "beneficiary_raw": "Oups Prod",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-06-18-la-petite-fille-qui-voulait-etre-blanche",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-06-18",
+      "talent_raw": "Alexandra Mignien et Maxime Lavalle",
+      "beneficiary_raw": "Les Créations androgynes",
+      "amount": 2000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-06-18-brut",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-06-18",
+      "talent_raw": "Brut",
+      "beneficiary_raw": "Brut",
+      "amount": 30000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-06-18-giganto-club",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-06-18",
+      "talent_raw": "Cyber Group Studios",
+      "beneficiary_raw": "Cyber Group Studios",
+      "amount": 25000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-06-18-grunt-tour-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-06-18",
+      "talent_raw": "Grünt",
+      "beneficiary_raw": "Grünt",
+      "amount": 40000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-06-18-leo-techmaker",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-06-18",
+      "talent_raw": "Léo Techmaker",
+      "beneficiary_raw": "TechMaker Productions",
+      "amount": 15000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-06-18-culture-et-science-animee-sur-trash",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-06-18",
+      "talent_raw": "Trash",
+      "beneficiary_raw": "Open Learning",
+      "amount": 25000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

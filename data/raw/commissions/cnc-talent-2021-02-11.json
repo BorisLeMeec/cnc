@@ -1,0 +1,214 @@
+{
+  "id": "cnc-talent-2021-02-11",
+  "fund_name": "CNC Talent",
+  "date": "2021-02-11",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-11-decembre-2020_1410353",
+  "jury": [
+    {
+      "person_id": "",
+      "raw_name": "Romain Gavras",
+      "role": "président"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Maurice Barthelemy",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Lison Daniel",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Nicolas Capuron",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Marie Agnely",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Galo Diallo",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Oriane Hurard",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Lawrence Valin",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Aude Gogny-Goubert",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Pauline Clément",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2021-02-11-fyp",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-02-11",
+      "talent_raw": "Matdeuh",
+      "beneficiary_raw": "Matdeuh",
+      "amount": 7000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-02-11-boubou",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-02-11",
+      "talent_raw": "Alexandre Blain",
+      "beneficiary_raw": "Alexandre BLAIN",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-02-11-demoiselles-d-horreur-saison-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-02-11",
+      "talent_raw": "Judith Beauvallet",
+      "beneficiary_raw": "PHENOMENES FILMS",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-02-11-etranges-escales-france",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-02-11",
+      "talent_raw": "Patrick BAUD",
+      "beneficiary_raw": "Image Mouvement",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-02-11-extra-large",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-02-11",
+      "talent_raw": "Leslie Barbara Butch",
+      "beneficiary_raw": "Manny films",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-02-11-freddy-fred-saison-1",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-02-11",
+      "talent_raw": "Vincent Leplat",
+      "beneficiary_raw": "Jayus",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-02-11-la-femme-objet",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-02-11",
+      "talent_raw": "Julien Josselin",
+      "beneficiary_raw": "GO BUDDY GO",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-02-11-la-preuve-par-l-epreuve",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-02-11",
+      "talent_raw": "Baladementale",
+      "beneficiary_raw": "EEMC",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-02-11-les-chroniques-de-gliwensbourg",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-02-11",
+      "talent_raw": "Emilie TOMMASI – Association ACTIO",
+      "beneficiary_raw": "ACTIO",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-02-11-pat-thai",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-02-11",
+      "talent_raw": "Ruddy LAPORAL",
+      "beneficiary_raw": "Ruddy LAPORAL",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-02-11-sois-forte-maman",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-02-11",
+      "talent_raw": "Ludoc",
+      "beneficiary_raw": "Ovais",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-02-11-spacemall",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-02-11",
+      "talent_raw": "Kick Sama",
+      "beneficiary_raw": "Théo MUNCK",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-02-11-stambali-derniere-danse-des-esprits",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-02-11",
+      "talent_raw": "PAM – Pan African Music",
+      "beneficiary_raw": "IDOL Media",
+      "amount": 22000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-02-11-c-est-une-autre-histoire",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-02-11",
+      "talent_raw": "Manon Bril (C'est une autre histoire)",
+      "beneficiary_raw": "Manon CHAMPIER",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

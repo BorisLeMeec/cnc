@@ -1,0 +1,205 @@
+{
+  "id": "cnc-talent-2018-06-22",
+  "fund_name": "CNC Talent",
+  "date": "2018-06-22",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-24-avril-2018_834996",
+  "jury": [
+    {
+      "person_id": "",
+      "raw_name": "Soufiane Adel",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Florent Bernard",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Sophie Garric",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Barbara Israël",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Salam Jawad",
+      "role": "président suppléant"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Ina Mihalache",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2018-06-22-gods-school",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-06-22",
+      "talent_raw": "Gaylord Cuvillier Libessart",
+      "beneficiary_raw": "Gaylord Cuvillier",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-06-22-game-next-door",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-06-22",
+      "talent_raw": "Hugo Terra",
+      "beneficiary_raw": "Hugo Terra",
+      "amount": 9245,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-06-22-puzzle",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-06-22",
+      "talent_raw": "Nicolas Berno",
+      "beneficiary_raw": "Portrait Robot",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-06-22-projet-hermes",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-06-22",
+      "talent_raw": "Arnaud Thiry",
+      "beneficiary_raw": "Arnaud Thiry",
+      "amount": 10000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-06-22-le-bus",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-06-22",
+      "talent_raw": "Jimmy Magardeau",
+      "beneficiary_raw": "Jimmy Magardeau",
+      "amount": 13000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-06-22-punch",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-06-22",
+      "talent_raw": "Sourdoreille Collectif",
+      "beneficiary_raw": "Sourdoreille Production",
+      "amount": 10000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-06-22-j-aime-bien-ces-images",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-06-22",
+      "talent_raw": "Martial Obry",
+      "beneficiary_raw": "Martial Obry",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-06-22-les-mythes-a-l-epreuve-de-l-archeologie",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-06-22",
+      "talent_raw": "Clothilde Chamussy",
+      "beneficiary_raw": "Passé Sauvage",
+      "amount": 10000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-06-22-tecknonik-memories",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-06-22",
+      "talent_raw": "Golden Moustache",
+      "beneficiary_raw": "GM6",
+      "amount": 10000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-06-22-chaine-shirley-souagnon",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-06-22",
+      "talent_raw": "Shirley Souagnon",
+      "beneficiary_raw": "ON TIME PRODCUTIONS",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-06-22-swann-perisse",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-06-22",
+      "talent_raw": "Swann Périssé",
+      "beneficiary_raw": "Spriss Productions",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-06-22-cyprien",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-06-22",
+      "talent_raw": "Cyprien",
+      "beneficiary_raw": "Periple",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-06-22-parlons-peu-mais-parlons",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-06-22",
+      "talent_raw": "Juliette Tresanini et Maud Bettina-Marie",
+      "beneficiary_raw": "TALENT WEB",
+      "amount": 25000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-06-22-sandy-l",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-06-22",
+      "talent_raw": "Sandy Lobry",
+      "beneficiary_raw": "Les frizés production",
+      "amount": 25000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-06-22-dirtybiology",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-06-22",
+      "talent_raw": "Léo Grasset",
+      "beneficiary_raw": "Nerd Entertainment System",
+      "amount": 25000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

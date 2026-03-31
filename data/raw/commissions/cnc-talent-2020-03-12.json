@@ -1,0 +1,265 @@
+{
+  "id": "cnc-talent-2020-03-12",
+  "fund_name": "CNC Talent",
+  "date": "2020-03-12",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-15-octobre-2019_1170072",
+  "jury": [
+    {
+      "person_id": "",
+      "raw_name": "Romain Gavras",
+      "role": "président"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Maurice Barthelemy",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Margaux Missika",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Emmanuel Anthony",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Salam Jawad",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Shirley Souagnon",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Lawrence Valin",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2020-03-12-tissu",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-03-12",
+      "talent_raw": "Robin Deriaud",
+      "beneficiary_raw": "Sarimages",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-03-12-science-de-comptoir",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-03-12",
+      "talent_raw": "Valentine Delattre",
+      "beneficiary_raw": "Big Bang Science Communication",
+      "amount": 25000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-03-12-etrange-alsace",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-03-12",
+      "talent_raw": "Jeremy Strohm \u0026 Mehdi M'Hamdi",
+      "beneficiary_raw": "Centurions",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-03-12-le-jeu-videal",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-03-12",
+      "talent_raw": "Simon Puech",
+      "beneficiary_raw": "Simon Puech",
+      "amount": 13700,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-03-12-sabbat",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-03-12",
+      "talent_raw": "Alexandra Mignien",
+      "beneficiary_raw": "Patmol Studio",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-03-12-la-conquete-de-michoalan",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-03-12",
+      "talent_raw": "Tito Gonzalez Garcia",
+      "beneficiary_raw": "Tamara Films",
+      "amount": 19000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-03-12-les-mythes-de-la-virilite",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-03-12",
+      "talent_raw": "Dany Caligula",
+      "beneficiary_raw": "Zawa Prod",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-03-12-pensees-futiles",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-03-12",
+      "talent_raw": "Lou Howard",
+      "beneficiary_raw": "Jayus",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-03-12-dans-la-jungle-avec-un-petit-couteau-a-beurre-saison-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-03-12",
+      "talent_raw": "Anaïs Volpé",
+      "beneficiary_raw": "Anaïs Volpé",
+      "amount": 10000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-03-12-a-la-matraque",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-03-12",
+      "talent_raw": "Hugo Roth",
+      "beneficiary_raw": "Hugo Roth",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-03-12-lara",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-03-12",
+      "talent_raw": "Arnaud Huck",
+      "beneficiary_raw": "Rose mécanique Production",
+      "amount": 25000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-03-12-gow-saison-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-03-12",
+      "talent_raw": "Camille \u0026 Justine",
+      "beneficiary_raw": "Younited",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-03-12-les-curiosites-de-serbie",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-03-12",
+      "talent_raw": "Mehdi M'Hamdi",
+      "beneficiary_raw": "Mehdi M'Hamdi",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-03-12-fantasme",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-03-12",
+      "talent_raw": "Eleonore Costes",
+      "beneficiary_raw": "Portrait-Robot",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-03-12-les-arrivees",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-03-12",
+      "talent_raw": "Observateur Ebène",
+      "beneficiary_raw": "Ankii Production",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-03-12-chronik-fiction-2020",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-03-12",
+      "talent_raw": "Chronik Fiction (Le Coroner)",
+      "beneficiary_raw": "Chronik Fiction",
+      "amount": 35000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-03-12-pam-off-the-map",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-03-12",
+      "talent_raw": "PAM - Pan African Music",
+      "beneficiary_raw": "IDOL Media",
+      "amount": 35000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-03-12-emy-ltr-il-etait-trop-de-fois",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-03-12",
+      "talent_raw": "Emy LTR",
+      "beneficiary_raw": "Studio 71",
+      "amount": 40000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-03-12-le-greenwashing-selon-louanne",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-03-12",
+      "talent_raw": "Louane Carmona",
+      "beneficiary_raw": "Next Originals",
+      "amount": 25000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-03-12-nexus-vi",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-03-12",
+      "talent_raw": "Nexus VI",
+      "beneficiary_raw": "French Toast",
+      "amount": 25000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

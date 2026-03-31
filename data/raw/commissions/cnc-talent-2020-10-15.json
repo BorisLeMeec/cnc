@@ -1,0 +1,242 @@
+{
+  "id": "cnc-talent-2020-10-15",
+  "fund_name": "CNC Talent",
+  "date": "2020-10-15",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-18-juin-2020_1367472",
+  "jury": [
+    {
+      "person_id": "",
+      "raw_name": "Romain Gavras",
+      "role": "président"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Maurice Barthelemy",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Galo Diallo",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Nicolas Capuron",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Barbara Israël",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Salam Jawad",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Lawrence Valin",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Sophie Garric",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Aude Gogny-Goubert",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2020-10-15-genre-humaine-saison-3",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-10-15",
+      "talent_raw": "Eléonore Costes",
+      "beneficiary_raw": "Portrait robot",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-10-15-pensees-futiles-s01",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-10-15",
+      "talent_raw": "Lou Howard",
+      "beneficiary_raw": "Jayus",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-10-15-la-vingtaine-en-quarantaine",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-10-15",
+      "talent_raw": "Irvin Anneix",
+      "beneficiary_raw": "Narrative",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-10-15-data-science-vs-fake-saison-3",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-10-15",
+      "talent_raw": "Pascal Goblot",
+      "beneficiary_raw": "ESCALENTA",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-10-15-corporate",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-10-15",
+      "talent_raw": "Fussoir",
+      "beneficiary_raw": "YES SIR FILMS",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-10-15-le-chat-la-femme-et-le-scanner",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-10-15",
+      "talent_raw": "Solène Azoulay",
+      "beneficiary_raw": "Solène Azoulay",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-10-15-resilience",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-10-15",
+      "talent_raw": "Lisa Miquet",
+      "beneficiary_raw": "Lisa Miquet",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-10-15-une-annee-dans-les-vignes",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-10-15",
+      "talent_raw": "Thibault Jandot",
+      "beneficiary_raw": "Thibault Jandot",
+      "amount": 7200,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-10-15-promo-2000",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-10-15",
+      "talent_raw": "Juliette Tresanini",
+      "beneficiary_raw": "IDZ PROD",
+      "amount": 25000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-10-15-ko-a-terre-mais-jamais-vaincu",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-10-15",
+      "talent_raw": "Boxing Academy",
+      "beneficiary_raw": "Vroom",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-10-15-canicule",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-10-15",
+      "talent_raw": "Allison Chassagne",
+      "beneficiary_raw": "Joji Prod",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-10-15-bandigou-de-melun-ep1",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-10-15",
+      "talent_raw": "Christian Nsankete",
+      "beneficiary_raw": "Christian Nsankete",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-10-15-je-me-suis-encore-perdue-sur-internet",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-10-15",
+      "talent_raw": "Viviane Lalande",
+      "beneficiary_raw": "Stup",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-10-15-lalimentation-du-futur",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-10-15",
+      "talent_raw": "Passé sauvage",
+      "beneficiary_raw": "Passé sauvage",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-10-15-damoiselle",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-10-15",
+      "talent_raw": "Ambre Larrazet et Queenie Tassell",
+      "beneficiary_raw": "JEFF \u0026 OCTAVE",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-10-15-le-monde-enquete",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-10-15",
+      "talent_raw": "Asia Balluffier, Marc Bettinelli et Arthur Carpent",
+      "beneficiary_raw": "Le Monde",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-10-15-mirux-realisation-lancement-deuxieme-saison-le-carre",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-10-15",
+      "talent_raw": "Samir Tidmint",
+      "beneficiary_raw": "RéHall 32",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

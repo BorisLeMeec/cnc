@@ -1,0 +1,264 @@
+{
+  "id": "cnc-talent-2023-04-17",
+  "fund_name": "CNC Talent",
+  "date": "2023-04-17",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-17-avril-2023_1967500",
+  "jury": [
+    {
+      "person_id": "",
+      "raw_name": "Jeanne Ezvan",
+      "role": "président suppléant"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Gilles Boussion",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Charlie Danger",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Timothée Hochet",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Benjamin Hoguet",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Constance Le Scouarnec",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Anis Rhali",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Marion Séclin",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Mélanie Toubeau",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2023-04-17-monstruoscope",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-04-17",
+      "talent_raw": "Tristan Kopp",
+      "beneficiary_raw": "Tristan Kopp",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-04-17-pourquoi-lecran-depingles",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-04-17",
+      "talent_raw": "Brice Vincent",
+      "beneficiary_raw": "Brice Vincent",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-04-17-peut-on-rever-de-2050",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-04-17",
+      "talent_raw": "Stupid Economics",
+      "beneficiary_raw": "Stup",
+      "amount": 23499,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-04-17-fokus",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-04-17",
+      "talent_raw": "Avant l'Orage",
+      "beneficiary_raw": "4 HUMANS",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-04-17-mission-archeo-saison-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-04-17",
+      "talent_raw": "Passé Sauvage",
+      "beneficiary_raw": "VTF FILM",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-04-17-coup-dtheatre",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-04-17",
+      "talent_raw": "Inès Banzet-Benhagouga",
+      "beneficiary_raw": "Libelo Productions",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-04-17-pourquoi",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-04-17",
+      "talent_raw": "Brigitte Lecordier",
+      "beneficiary_raw": "Brigitte Lecordier Production",
+      "amount": 15650,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-04-17-de-la-street-aux-jeux-olympiques",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-04-17",
+      "talent_raw": "Le Crossover",
+      "beneficiary_raw": "Vroom",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-04-17-backseat",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-04-17",
+      "talent_raw": "Jean Massiet",
+      "beneficiary_raw": "EqualProd",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-04-17-voyage-en-velo-solaire-autonome",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-04-17",
+      "talent_raw": "Jacob Karhu",
+      "beneficiary_raw": "Antoine Grisart",
+      "amount": 16000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-04-17-classiques-animes",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-04-17",
+      "talent_raw": "DIVERSIFICATION",
+      "beneficiary_raw": "DIVERSIFICATION",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-04-17-tchinis-saison-4",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-04-17",
+      "talent_raw": "Olivier Magermans",
+      "beneficiary_raw": "Olivier Magermans",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-04-17-recompose",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-04-17",
+      "talent_raw": "Laureline Amanieux",
+      "beneficiary_raw": "Rétroviseur Productions",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-04-17-adolescence-s",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-04-17",
+      "talent_raw": "WIZZ design",
+      "beneficiary_raw": "BBDA QUAD PRODUCTIONS",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-04-17-plot-x-twist",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-04-17",
+      "talent_raw": "Arthur Rafié / Eifar",
+      "beneficiary_raw": "Arthur Rafié",
+      "amount": 2000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-04-17-conscience-laventure",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-04-17",
+      "talent_raw": "Gaudissard Gaétan",
+      "beneficiary_raw": "Alexandre Chambet",
+      "amount": 2000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-04-17-biopic-s",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-04-17",
+      "talent_raw": "StreetPress",
+      "beneficiary_raw": "StreetPress",
+      "amount": 43000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-04-17-pangaea",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-04-17",
+      "talent_raw": "Pangäa",
+      "beneficiary_raw": "Pangäa",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-04-17-thomas-gauthier",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-04-17",
+      "talent_raw": "Thomas Gauthier",
+      "beneficiary_raw": "Cairn Productions",
+      "amount": 3000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

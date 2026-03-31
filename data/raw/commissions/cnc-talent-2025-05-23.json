@@ -1,0 +1,275 @@
+{
+  "id": "cnc-talent-2025-05-23",
+  "fund_name": "CNC Talent",
+  "date": "2025-05-23",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-23-mai-2025_2413837",
+  "jury": [
+    {
+      "person_id": "",
+      "raw_name": "Nora Hamzawi",
+      "role": "président"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Benjamin Bonnet",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Gilles Boussion",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "MarieCamille Soyer",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Victor Habchy",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Kloé Lang",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Benjamin Hoguet",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Léa Bordier",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Judith Beauvallet",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2025-05-23-comprendre-les-migrations",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-05-23",
+      "talent_raw": "LEPRINCE Gildas",
+      "beneficiary_raw": "MISTER GEOPOLITIX",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-05-23-a-la-recherche-des-metiers-du-livre",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-05-23",
+      "talent_raw": "Jeanne Seignol (Jeannot se livre)",
+      "beneficiary_raw": "We Are Updated",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-05-23-la-vraie-vie-de",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-05-23",
+      "talent_raw": "Benoit Le Corre",
+      "beneficiary_raw": "Les Joues Rouges",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-05-23-la-suite-en-top-commentaire",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-05-23",
+      "talent_raw": "Adrien Dubois FEYAERTS",
+      "beneficiary_raw": "Adrien Dubois FEYAERTS",
+      "amount": 23000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-05-23-eclipse",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-05-23",
+      "talent_raw": "MOOVANCE",
+      "beneficiary_raw": "Ongaeshi Studio",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-05-23-lettres-de-guerre",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-05-23",
+      "talent_raw": "Mamytwink",
+      "beneficiary_raw": "Dix Dix-Neuf Productions SAS",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-05-23-on-va-dire-les-termes",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-05-23",
+      "talent_raw": "Athéna Sol",
+      "beneficiary_raw": "Make Change",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-05-23-priere-de-dechirer",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-05-23",
+      "talent_raw": "CAYLA Romain",
+      "beneficiary_raw": "OSSI",
+      "amount": 14000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-05-23-oldyssey",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-05-23",
+      "talent_raw": "Oldyssey",
+      "beneficiary_raw": "Old Stories Production",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-05-23-l-anthropo-scene",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-05-23",
+      "talent_raw": "Joff Turner",
+      "beneficiary_raw": "Just Joff",
+      "amount": 2000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-05-23-mon-capital",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-05-23",
+      "talent_raw": "on-suzane",
+      "beneficiary_raw": "SOEURCIERES",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-05-23-la-folle-histoire-de",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-05-23",
+      "talent_raw": "Edward Guitté",
+      "beneficiary_raw": "Kinémantis",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-05-23-les-muses-tanguent",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-05-23",
+      "talent_raw": "Zoé Authier",
+      "beneficiary_raw": "Les Créations Androgyne",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-05-23-contre-nature",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-05-23",
+      "talent_raw": "Marie Treibert",
+      "beneficiary_raw": "URBANIA PRODUCTIONS",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-05-23-pionnieres",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-05-23",
+      "talent_raw": "Curieux Live",
+      "beneficiary_raw": "NACSTI",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-05-23-ego",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-05-23",
+      "talent_raw": "EGO",
+      "beneficiary_raw": "IN VITRO",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-05-23-eloy-spinnler",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-05-23",
+      "talent_raw": "ELOY SPINNLER",
+      "beneficiary_raw": "SIN",
+      "amount": 49164,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-05-23-a-la-rencontre-des-especes-menacees",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-05-23",
+      "talent_raw": "Mathieu Courdesses",
+      "beneficiary_raw": "Shiveli Productions",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-05-23-wanted-les-vestiges-du-corps-humain",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-05-23",
+      "talent_raw": "Viviane Lalande",
+      "beneficiary_raw": "Cairn Productions",
+      "amount": 49752,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2025-05-23-histoires-crepues-le-media",
+      "project_id": "",
+      "commission_id": "cnc-talent-2025-05-23",
+      "talent_raw": "Seumboy",
+      "beneficiary_raw": "Nouveau Départ",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

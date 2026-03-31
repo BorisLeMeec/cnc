@@ -1,0 +1,232 @@
+{
+  "id": "cnc-talent-2022-04-15",
+  "fund_name": "CNC Talent",
+  "date": "2022-04-15",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-15-avril-2022_1697860",
+  "jury": [
+    {
+      "person_id": "",
+      "raw_name": "Marie Agnely",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Manon Champier",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Constance Le Scouarnec",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Ronan Letoqueux",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Anis Rhali",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Théodore Sanchez",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Hugo Travers",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2022-04-15-vo",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-04-15",
+      "talent_raw": "Ambre Larrazet",
+      "beneficiary_raw": "TALESEED",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-04-15-magnetic",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-04-15",
+      "talent_raw": "Mathilde HIRSCH",
+      "beneficiary_raw": "Mathilde HIRSCH",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-04-15-les-12-regles-dor-de-lanimation",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-04-15",
+      "talent_raw": "Yoann Bomal",
+      "beneficiary_raw": "MoonRun",
+      "amount": 29000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-04-15-le-predicateur-saison-1",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-04-15",
+      "talent_raw": "Chronik Fiction",
+      "beneficiary_raw": "Chronik Fiction",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-04-15-manon-vuoko-la-saison-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-04-15",
+      "talent_raw": "MANON VUOKO",
+      "beneficiary_raw": "One Hot Minute",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-04-15-devenir-cascadeuse-en-2-semaines",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-04-15",
+      "talent_raw": "Clararunaway",
+      "beneficiary_raw": "RUNAWAY PICTURES",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-04-15-le-vlag",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-04-15",
+      "talent_raw": "Yacine Belhousse",
+      "beneficiary_raw": "BY PRODUCTIONS",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-04-15-sous-emprise-au-coeur-des-derives-sectaires",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-04-15",
+      "talent_raw": "Maxime QUERE",
+      "beneficiary_raw": "Stup",
+      "amount": 29000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-04-15-zone-grise",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-04-15",
+      "talent_raw": "Culot Creative",
+      "beneficiary_raw": "Culot Creative",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-04-15-a-la-page",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-04-15",
+      "talent_raw": "Jeanne SEIGNOL",
+      "beneficiary_raw": "Jeanne SEIGNOL",
+      "amount": 6000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-04-15-cosmo-city",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-04-15",
+      "talent_raw": "Stéphane Nguende et Sirayah6",
+      "beneficiary_raw": "Stéphane Nguende",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-04-15-les-podcasts-de-marius",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-04-15",
+      "talent_raw": "Ambroise Carminati (chaîne Sympa Cool)",
+      "beneficiary_raw": "JEFF \u0026 OCTAVE",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-04-15-histoires-crepues",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-04-15",
+      "talent_raw": "Seumboy Vrainom (chaîne Histoires Crépues)",
+      "beneficiary_raw": "Hors Manie Harmonies",
+      "amount": 35000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-04-15-mamytwink",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-04-15",
+      "talent_raw": "Mamytwink",
+      "beneficiary_raw": "Dix Dix-Neuf Productions SAS",
+      "amount": 35000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-04-15-histoire-appliquee",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-04-15",
+      "talent_raw": "Histoire Appliquée",
+      "beneficiary_raw": "PANDORA Création",
+      "amount": 35000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-04-15-merci-beaucul",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-04-15",
+      "talent_raw": "Merci Beaucul",
+      "beneficiary_raw": "Merci Beaucul",
+      "amount": 30000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-04-15-mission-archeo",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-04-15",
+      "talent_raw": "Passé sauvage",
+      "beneficiary_raw": "VTM FILM",
+      "amount": 35000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

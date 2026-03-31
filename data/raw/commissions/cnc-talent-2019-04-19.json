@@ -1,0 +1,254 @@
+{
+  "id": "cnc-talent-2019-04-19",
+  "fund_name": "CNC Talent",
+  "date": "2019-04-19",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-19-avril-2019_1036166",
+  "jury": [
+    {
+      "person_id": "",
+      "raw_name": "Barbara ISRAËL",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Salam JAWAD",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Claire LEPROUST",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Ina Mihalache",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Jérémy SAHEL",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Fif TOBOSSI",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Lawrence VALIN",
+      "role": "président suppléant"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2019-04-19-inapocalypse",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-04-19",
+      "talent_raw": "Bolchegeek",
+      "beneficiary_raw": "Fensch Toast",
+      "amount": 25000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-04-19-deeper-blue-saison-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-04-19",
+      "talent_raw": "Olbius",
+      "beneficiary_raw": "Albisser Pierre",
+      "amount": 11000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-04-19-tuyauteries-inavouables-la-serie",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-04-19",
+      "talent_raw": "Enguerran PRIEU",
+      "beneficiary_raw": "Whoosh Films",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-04-19-la-video-pour-tous",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-04-19",
+      "talent_raw": "Benjamin LAPIERRE",
+      "beneficiary_raw": "LAPIERRE Benjamin",
+      "amount": 3030,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-04-19-surf-island-family",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-04-19",
+      "talent_raw": "Mathias Joubert X Surf Island Family",
+      "beneficiary_raw": "Partager le sport, pour une société plus juste et responsable",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-04-19-incroyables-photographes-episodes-5-a-13",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-04-19",
+      "talent_raw": "Laurent Breillat / Apprendre la Photo",
+      "beneficiary_raw": "LBR Editions",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-04-19-bad-cass",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-04-19",
+      "talent_raw": "Kevin Payet",
+      "beneficiary_raw": "SoundLife Production",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-04-19-lunivers-express-saison-3",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-04-19",
+      "talent_raw": "Cyril PLOU",
+      "beneficiary_raw": "PLOU Cyril",
+      "amount": 19000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-04-19-les-garcons-bleus-12-portraits",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-04-19",
+      "talent_raw": "Francisco Bianchi",
+      "beneficiary_raw": "Mood Films Production",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-04-19-le-guide-gribouille-de-la-guerilla-green",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-04-19",
+      "talent_raw": "Ophélie DAMBLÉ - Ta Mère Nature",
+      "beneficiary_raw": "DAMBLÉ Ophélie",
+      "amount": 10000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-04-19-gouse-donnelly-cineventures",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-04-19",
+      "talent_raw": "Gouse Donnelly",
+      "beneficiary_raw": "Alabama",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-04-19-culture-club",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-04-19",
+      "talent_raw": "Charlotte ROBB",
+      "beneficiary_raw": "PURPROD",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-04-19-12-rounds",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-04-19",
+      "talent_raw": "Jérémy Denis",
+      "beneficiary_raw": "Vroom",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-04-19-recminute",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-04-19",
+      "talent_raw": "Dycosh et Bonjour tristesse",
+      "beneficiary_raw": "Papa Films",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-04-19-les-revues-du-monde",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-04-19",
+      "talent_raw": "Charlie Danger",
+      "beneficiary_raw": "GEDEON Programmes",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-04-19-la-debande",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-04-19",
+      "talent_raw": "La Débande",
+      "beneficiary_raw": "When We Were Kids Production",
+      "amount": 40000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-04-19-tales-from-the-click",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-04-19",
+      "talent_raw": "Jean-Baptiste Toussaint",
+      "beneficiary_raw": "TALENT WEB",
+      "amount": 30000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-04-19-hardisk-apprend-en-analysant",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-04-19",
+      "talent_raw": "Hardisk",
+      "beneficiary_raw": "Henri Griesmar",
+      "amount": 30000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-04-19-linguisticae-renouvellement",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-04-19",
+      "talent_raw": "Linguisticae",
+      "beneficiary_raw": "Nerd Entertainment System",
+      "amount": 45000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

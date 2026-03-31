@@ -1,0 +1,221 @@
+{
+  "id": "cnc-talent-2024-04-30",
+  "fund_name": "CNC Talent",
+  "date": "2024-04-30",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-30-avril-2024_2201807",
+  "jury": [
+    {
+      "person_id": "",
+      "raw_name": "Jeanne Ezvan",
+      "role": "président"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Gilles Boussion",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Ambroise Carminati",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Romain Dupouy",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Constance Le Scouarnec",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Victor Habchy",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Charlie Danger",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2024-04-30-les-geants-de-l-animation-traditionnelle",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-04-30",
+      "talent_raw": "Yoann Bomal",
+      "beneficiary_raw": "MoonRun",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-04-30-vertu-gadins",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-04-30",
+      "talent_raw": "Yvane Jacob",
+      "beneficiary_raw": "URBANIA PRODUCTIONS",
+      "amount": 28000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-04-30-mission-archeo-saison-3",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-04-30",
+      "talent_raw": "Passé sauvage",
+      "beneficiary_raw": "VTM FILM",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-04-30-passeur-entre-deux-mondes",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-04-30",
+      "talent_raw": "Vincent Verzat",
+      "beneficiary_raw": "Partager c'est Sympa",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-04-30-enquete",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-04-30",
+      "talent_raw": "Sabine",
+      "beneficiary_raw": "Sabine",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-04-30-vox",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-04-30",
+      "talent_raw": "StreetPress",
+      "beneficiary_raw": "StreetPress",
+      "amount": 18000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-04-30-baltringue-saison-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-04-30",
+      "talent_raw": "Justine Lossa",
+      "beneficiary_raw": "22B",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-04-30-on-discute-histoires-crepues",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-04-30",
+      "talent_raw": "Histoires Crépues",
+      "beneficiary_raw": "Hors Manie Harmonies",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-04-30-la-serveuse-de-diner-saison-1",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-04-30",
+      "talent_raw": "Chronik Fiction",
+      "beneficiary_raw": "Chronik Fiction",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-04-30-wrestling-in-the-dark",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-04-30",
+      "talent_raw": "Diane Truc",
+      "beneficiary_raw": "Vroom",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-04-30-reflexions-basses-saison-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-04-30",
+      "talent_raw": "Jules Laguilhaumie",
+      "beneficiary_raw": "Cairn Productions",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-04-30-la-s-euromillionaire",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-04-30",
+      "talent_raw": "Tragha Hicham",
+      "beneficiary_raw": "Boca Films",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-04-30-la-fourche",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-04-30",
+      "talent_raw": "Alexandre DESANE",
+      "beneficiary_raw": "LE DOUBLE",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-04-30-la-geologie-en-france",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-04-30",
+      "talent_raw": "Science de Comptoir",
+      "beneficiary_raw": "SUPERAMA",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-04-30-behind-the-dream",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-04-30",
+      "talent_raw": "Ha-An TU",
+      "beneficiary_raw": "Ha-An TU",
+      "amount": 2000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-04-30-zawa-hebdo",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-04-30",
+      "talent_raw": "DANYetRAZ",
+      "beneficiary_raw": "Zawa Prod",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

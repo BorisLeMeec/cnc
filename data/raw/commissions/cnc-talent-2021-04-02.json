@@ -1,0 +1,286 @@
+{
+  "id": "cnc-talent-2021-04-02",
+  "fund_name": "CNC Talent",
+  "date": "2021-04-02",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-2-avril-2021_1461054",
+  "jury": [
+    {
+      "person_id": "",
+      "raw_name": "Alexandra Mac Donald",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Anthony Emmanuel",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Aude Gogny-Goubert",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Galo Diallo",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Gilles Boussion",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Lison Daniel",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Maurice Barthelemy",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Marie Agnely",
+      "role": "membre"
+    },
+    {
+      "person_id": "",
+      "raw_name": "Pauline Clément",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2021-04-02-le-graine-d-o-tour",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-04-02",
+      "talent_raw": "Graine d'Orateur 93",
+      "beneficiary_raw": "Pardi",
+      "amount": 26000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-04-02-mystere-et-boule-de-gomme",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-04-02",
+      "talent_raw": "Les Beelzebros",
+      "beneficiary_raw": "Trois Jours De Marche",
+      "amount": 22000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-04-02-le-cas-rosa-bonheur",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-04-02",
+      "talent_raw": "Carole Cassier",
+      "beneficiary_raw": "Carole Cassier",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-04-02-les-castes",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-04-02",
+      "talent_raw": "Jessy Dubuis",
+      "beneficiary_raw": "Jessy Dubuis",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-04-02-les-cultes",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-04-02",
+      "talent_raw": "Mehdi H'Hamdi",
+      "beneficiary_raw": "Centurions",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-04-02-octave",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-04-02",
+      "talent_raw": "Lily Papamiltiades",
+      "beneficiary_raw": "Cowboys Films",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-04-02-purplemind",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-04-02",
+      "talent_raw": "Emy LTR",
+      "beneficiary_raw": "Studio71",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-04-02-derriere-le-nez",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-04-02",
+      "talent_raw": "Benoit Blanc",
+      "beneficiary_raw": "Oups Prod",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-04-02-sur-les-traces-du-loup",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-04-02",
+      "talent_raw": "Yoann Clemente",
+      "beneficiary_raw": "Yoann Clemente",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-04-02-paye-ton-crush",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-04-02",
+      "talent_raw": "Paye Ton Crush",
+      "beneficiary_raw": "Naya Films",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-04-02-on-stairs-session",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-04-02",
+      "talent_raw": "On Stairs",
+      "beneficiary_raw": "Papi Films",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-04-02-les-derniers-saison-3",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-04-02",
+      "talent_raw": "Sophie Nahum",
+      "beneficiary_raw": "Hello Prod",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-04-02-escale-nocturne",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-04-02",
+      "talent_raw": "Alexandra Mignien \u0026 Alexa Lasfargues",
+      "beneficiary_raw": "Patmol Studio",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-04-02-les-voyages-ecologiques-de-sophie-et-du-professeur-feuillage",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-04-02",
+      "talent_raw": "Lénie Cherino - Mathieu Duméry",
+      "beneficiary_raw": "We are updated",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-04-02-citizen-fact",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-04-02",
+      "talent_raw": "Aude Favre",
+      "beneficiary_raw": "Babel Doc",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-04-02-wassvpgirls-talk-show",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-04-02",
+      "talent_raw": "Alyssa Delor",
+      "beneficiary_raw": "Alyssa Delor",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-04-02-bienvenue-aux-caraibes",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-04-02",
+      "talent_raw": "French Baloo",
+      "beneficiary_raw": "Le Baloo Show",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-04-02-l-histoire-racontee-par-des-chaussettes",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-04-02",
+      "talent_raw": "l'histoire racontée par des chaussettes",
+      "beneficiary_raw": "BY PRODUCTIONS",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-04-02-calmos-saison-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-04-02",
+      "talent_raw": "Calmos",
+      "beneficiary_raw": "Phenomenes Films",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-04-02-developpement-de-la-chaine-youtube-ben-nevert",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-04-02",
+      "talent_raw": "Ben Nevert",
+      "beneficiary_raw": "Vevs Prod",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-04-02-passe-sauvage",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-04-02",
+      "talent_raw": "Clothilde Chamussy",
+      "beneficiary_raw": "Cairn Productions",
+      "amount": 32000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}
