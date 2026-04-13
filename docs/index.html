@@ -86,7 +86,7 @@ let allData = null;
 let simulation = null;
 
 async function init() {
-  const resp = await fetch('../data/graph.json');
+  const resp = await fetch('./graph.json');
   allData = await resp.json();
 
   // Build relationship lookup for conflict detection.
