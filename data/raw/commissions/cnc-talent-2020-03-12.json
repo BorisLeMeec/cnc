@@ -2,40 +2,40 @@
   "id": "cnc-talent-2020-03-12",
   "fund_name": "CNC Talent",
   "date": "2020-03-12",
-  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-15-octobre-2019_1170072",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-15-octobre-2020_1395148",
   "jury": [
     {
-      "person_id": "",
+      "person_id": "romain-gavras",
       "raw_name": "Romain Gavras",
       "role": "président"
     },
     {
-      "person_id": "",
+      "person_id": "maurice-barthelemy",
       "raw_name": "Maurice Barthelemy",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "margaux-missika",
       "raw_name": "Margaux Missika",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "anthony-emmanuel",
       "raw_name": "Emmanuel Anthony",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "salam-jawad",
       "raw_name": "Salam Jawad",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "shirley-souagnon",
       "raw_name": "Shirley Souagnon",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "lawrence-valin",
       "raw_name": "Lawrence Valin",
       "role": "membre"
     }
@@ -46,6 +46,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2020-03-12",
       "talent_raw": "Robin Deriaud",
+      "talent_person_id": "robin-deriaud",
       "beneficiary_raw": "Sarimages",
       "amount": 20000,
       "aid_section": "aide_creation",
@@ -53,10 +54,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-03-12-science-de-comptoir",
+      "id": "cnc-talent-2020-03-12-science-comptoir",
       "project_id": "",
       "commission_id": "cnc-talent-2020-03-12",
       "talent_raw": "Valentine Delattre",
+      "talent_person_id": "valentine-delattre",
       "beneficiary_raw": "Big Bang Science Communication",
       "amount": 25000,
       "aid_section": "aide_creation",
@@ -64,7 +66,7 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-03-12-etrange-alsace",
+      "id": "cnc-talent-2020-03-12-étrange-alsace",
       "project_id": "",
       "commission_id": "cnc-talent-2020-03-12",
       "talent_raw": "Jeremy Strohm \u0026 Mehdi M'Hamdi",
@@ -75,10 +77,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-03-12-le-jeu-videal",
+      "id": "cnc-talent-2020-03-12-jeu-vidéal",
       "project_id": "",
       "commission_id": "cnc-talent-2020-03-12",
       "talent_raw": "Simon Puech",
+      "talent_person_id": "simon-puech",
       "beneficiary_raw": "Simon Puech",
       "amount": 13700,
       "aid_section": "aide_creation",
@@ -90,6 +93,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2020-03-12",
       "talent_raw": "Alexandra Mignien",
+      "talent_person_id": "alexandra-mignien",
       "beneficiary_raw": "Patmol Studio",
       "amount": 20000,
       "aid_section": "aide_creation",
@@ -97,10 +101,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-03-12-la-conquete-de-michoalan",
+      "id": "cnc-talent-2020-03-12-conquête-michoalan",
       "project_id": "",
       "commission_id": "cnc-talent-2020-03-12",
       "talent_raw": "Tito Gonzalez Garcia",
+      "talent_person_id": "tito-gonzalez-garcia",
       "beneficiary_raw": "Tamara Films",
       "amount": 19000,
       "aid_section": "aide_creation",
@@ -108,10 +113,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-03-12-les-mythes-de-la-virilite",
+      "id": "cnc-talent-2020-03-12-mythes-virilité",
       "project_id": "",
       "commission_id": "cnc-talent-2020-03-12",
       "talent_raw": "Dany Caligula",
+      "talent_person_id": "dany-caligula",
       "beneficiary_raw": "Zawa Prod",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -119,10 +125,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-03-12-pensees-futiles",
+      "id": "cnc-talent-2020-03-12-pensées-futiles",
       "project_id": "",
       "commission_id": "cnc-talent-2020-03-12",
       "talent_raw": "Lou Howard",
+      "talent_person_id": "lou-howard",
       "beneficiary_raw": "Jayus",
       "amount": 5000,
       "aid_section": "aide_creation",
@@ -130,10 +137,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-03-12-dans-la-jungle-avec-un-petit-couteau-a-beurre-saison-2",
+      "id": "cnc-talent-2020-03-12-jungle-couteau-beurre-saison-2",
       "project_id": "",
       "commission_id": "cnc-talent-2020-03-12",
       "talent_raw": "Anaïs Volpé",
+      "talent_person_id": "anais-volpe",
       "beneficiary_raw": "Anaïs Volpé",
       "amount": 10000,
       "aid_section": "aide_creation",
@@ -141,10 +149,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-03-12-a-la-matraque",
+      "id": "cnc-talent-2020-03-12-matraque",
       "project_id": "",
       "commission_id": "cnc-talent-2020-03-12",
       "talent_raw": "Hugo Roth",
+      "talent_person_id": "hugo-roth",
       "beneficiary_raw": "Hugo Roth",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -156,6 +165,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2020-03-12",
       "talent_raw": "Arnaud Huck",
+      "talent_person_id": "arnaud-huck",
       "beneficiary_raw": "Rose mécanique Production",
       "amount": 25000,
       "aid_section": "aide_creation",
@@ -167,6 +177,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2020-03-12",
       "talent_raw": "Camille \u0026 Justine",
+      "talent_person_id": "camille-et-justine",
       "beneficiary_raw": "Younited",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -174,10 +185,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-03-12-les-curiosites-de-serbie",
+      "id": "cnc-talent-2020-03-12-curiosités-serbie",
       "project_id": "",
       "commission_id": "cnc-talent-2020-03-12",
       "talent_raw": "Mehdi M'Hamdi",
+      "talent_person_id": "mehdi-mhamdi",
       "beneficiary_raw": "Mehdi M'Hamdi",
       "amount": 5000,
       "aid_section": "aide_creation",
@@ -189,6 +201,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2020-03-12",
       "talent_raw": "Eleonore Costes",
+      "talent_person_id": "eleonore-costes",
       "beneficiary_raw": "Portrait-Robot",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -196,14 +209,15 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-03-12-les-arrivees",
+      "id": "cnc-talent-2020-03-12-arrivées",
       "project_id": "",
       "commission_id": "cnc-talent-2020-03-12",
       "talent_raw": "Observateur Ebène",
+      "talent_person_id": "observateur-ebene",
       "beneficiary_raw": "Ankii Production",
       "amount": 3000,
       "aid_section": "aide_creation",
-      "aid_type": "standard",
+      "aid_type": "bourse_encouragement",
       "result": "accepted"
     },
     {
@@ -211,6 +225,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2020-03-12",
       "talent_raw": "Chronik Fiction (Le Coroner)",
+      "talent_person_id": "chronik-fiction",
       "beneficiary_raw": "Chronik Fiction",
       "amount": 35000,
       "aid_section": "aide_chaine",
@@ -229,10 +244,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-03-12-emy-ltr-il-etait-trop-de-fois",
+      "id": "cnc-talent-2020-03-12-emy-ltr",
       "project_id": "",
       "commission_id": "cnc-talent-2020-03-12",
       "talent_raw": "Emy LTR",
+      "talent_person_id": "emy-ltr",
       "beneficiary_raw": "Studio 71",
       "amount": 40000,
       "aid_section": "aide_chaine",
@@ -240,10 +256,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-03-12-le-greenwashing-selon-louanne",
+      "id": "cnc-talent-2020-03-12-greenwashing-louanne",
       "project_id": "",
       "commission_id": "cnc-talent-2020-03-12",
       "talent_raw": "Louane Carmona",
+      "talent_person_id": "louane-carmona",
       "beneficiary_raw": "Next Originals",
       "amount": 25000,
       "aid_section": "aide_chaine",
@@ -255,6 +272,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2020-03-12",
       "talent_raw": "Nexus VI",
+      "talent_person_id": "benjamin-combes",
       "beneficiary_raw": "French Toast",
       "amount": 25000,
       "aid_section": "aide_chaine",

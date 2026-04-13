@@ -1,0 +1,225 @@
+{
+  "id": "cnc-talent-2022-10-14",
+  "fund_name": "CNC Talent",
+  "date": "2022-10-14",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-14-octobre-2022_1829503",
+  "jury": [
+    {
+      "person_id": "marie-agnely",
+      "raw_name": "Marie Agnely",
+      "role": "membre"
+    },
+    {
+      "person_id": "gilles-boussion",
+      "raw_name": "Gilles Boussion",
+      "role": "membre"
+    },
+    {
+      "person_id": "sophie-marie-larrouy",
+      "raw_name": "SophieMarie Larrouy",
+      "role": "membre"
+    },
+    {
+      "person_id": "mathieu-guyan",
+      "raw_name": "Mathieu Guyan (Matdeuh)",
+      "role": "membre"
+    },
+    {
+      "person_id": "manon-champier",
+      "raw_name": "Manon Champier",
+      "role": "membre"
+    },
+    {
+      "person_id": "anis-rhali",
+      "raw_name": "Anis Rhali",
+      "role": "membre"
+    },
+    {
+      "person_id": "theodore-sanchez",
+      "raw_name": "Théodore Sanchez",
+      "role": "membre"
+    },
+    {
+      "person_id": "constance-le-scouarnec",
+      "raw_name": "Constance Le Scouarnec",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2022-10-14-skuuu-saison-3",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-10-14",
+      "talent_raw": "Lacrem",
+      "talent_person_id": "lucas-richez",
+      "beneficiary_raw": "RICHEZ Lucas",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-10-14-rixes-saison-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-10-14",
+      "talent_raw": "StreetPress",
+      "beneficiary_raw": "StreetPress",
+      "amount": 28000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-10-14-guedro",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-10-14",
+      "talent_raw": "El Hadj KARAMOKO",
+      "talent_person_id": "el-hadj-karamoko",
+      "beneficiary_raw": "El Hadj KARAMOKO",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-10-14-la-fin-du-film",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-10-14",
+      "talent_raw": "Blast, Le souffle de l'info",
+      "beneficiary_raw": "BLAST LE SOUFFLE DE L'INFO",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-10-14-mourir-or-not-mourir",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-10-14",
+      "talent_raw": "Thomas COMBRET",
+      "talent_person_id": "thomas-combret",
+      "beneficiary_raw": "Mammouth Cornichon",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-10-14-cap-au-nord",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-10-14",
+      "talent_raw": "Tristan KOPP",
+      "talent_person_id": "tristan-kopp",
+      "beneficiary_raw": "Tristan KOPP",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-10-14-projet-handigaming",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-10-14",
+      "talent_raw": "Valentin Squirelo",
+      "talent_person_id": "valentin-squirelo",
+      "beneficiary_raw": "101010",
+      "amount": 26000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-10-14-sans-soupcon",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-10-14",
+      "talent_raw": "Super Pâté",
+      "talent_person_id": "super-pate",
+      "beneficiary_raw": "FIRST FRAME",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-10-14-ce-lac-a-du-succes",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-10-14",
+      "talent_raw": "Varnish la piscine",
+      "talent_person_id": "varnish-la-piscine",
+      "beneficiary_raw": "Dissidence production",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-10-14-afro",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-10-14",
+      "talent_raw": "Rachel Kwarteng du collectif BKE",
+      "talent_person_id": "rachel-kwarteng",
+      "beneficiary_raw": "BKE",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-10-14-cinemaccessible",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-10-14",
+      "talent_raw": "La Manie du Cinéma",
+      "talent_person_id": "la-manie-du-cinema",
+      "beneficiary_raw": "Cairn Productions",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-10-14-trouble-fete",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-10-14",
+      "talent_raw": "Sourdoreille",
+      "beneficiary_raw": "Sourdoreille Production",
+      "amount": 26000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-10-14-damoiselle-saison-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-10-14",
+      "talent_raw": "Queenie TASSELL et Ambre LARRAZET",
+      "talent_person_id": "queenie-tassell-ambre-larrazet",
+      "beneficiary_raw": "JEFF \u0026 OCTAVE",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-10-14-off-the-map-saison-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-10-14",
+      "talent_raw": "PAM I Pan African Music",
+      "beneficiary_raw": "IDOL Media",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-10-14-les-haut-parleurs",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-10-14",
+      "talent_raw": "Les Haut-Parleurs",
+      "beneficiary_raw": "FABLABCHANNEL",
+      "amount": 30000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

@@ -2,40 +2,40 @@
   "id": "cnc-talent-2024-04-30",
   "fund_name": "CNC Talent",
   "date": "2024-04-30",
-  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-30-avril-2024_2201807",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-20-novembre-2024_2322707",
   "jury": [
     {
-      "person_id": "",
+      "person_id": "jeanne-ezvan",
       "raw_name": "Jeanne Ezvan",
       "role": "président"
     },
     {
-      "person_id": "",
+      "person_id": "gilles-boussion",
       "raw_name": "Gilles Boussion",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "ambroise-carminati",
       "raw_name": "Ambroise Carminati",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "romain-dupouy",
       "raw_name": "Romain Dupouy",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "constance-le-scouarnec",
       "raw_name": "Constance Le Scouarnec",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "victor-habchy",
       "raw_name": "Victor Habchy",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "charlie-danger",
       "raw_name": "Charlie Danger",
       "role": "membre"
     }
@@ -46,6 +46,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-04-30",
       "talent_raw": "Yoann Bomal",
+      "talent_person_id": "yoann-bomal",
       "beneficiary_raw": "MoonRun",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -57,6 +58,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-04-30",
       "talent_raw": "Yvane Jacob",
+      "talent_person_id": "yvane-jacob",
       "beneficiary_raw": "URBANIA PRODUCTIONS",
       "amount": 28000,
       "aid_section": "aide_creation",
@@ -68,6 +70,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-04-30",
       "talent_raw": "Passé sauvage",
+      "talent_person_id": "passe-sauvage",
       "beneficiary_raw": "VTM FILM",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -79,6 +82,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-04-30",
       "talent_raw": "Vincent Verzat",
+      "talent_person_id": "vincent-verzat",
       "beneficiary_raw": "Partager c'est Sympa",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -90,6 +94,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-04-30",
       "talent_raw": "Sabine",
+      "talent_person_id": "sabine",
       "beneficiary_raw": "Sabine",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -112,6 +117,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-04-30",
       "talent_raw": "Justine Lossa",
+      "talent_person_id": "justine-lossa",
       "beneficiary_raw": "22B",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -123,6 +129,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-04-30",
       "talent_raw": "Histoires Crépues",
+      "talent_person_id": "histoires-crepues",
       "beneficiary_raw": "Hors Manie Harmonies",
       "amount": 20000,
       "aid_section": "aide_creation",
@@ -130,10 +137,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2024-04-30-la-serveuse-de-diner-saison-1",
+      "id": "cnc-talent-2024-04-30-la-serveuse-de-diner",
       "project_id": "",
       "commission_id": "cnc-talent-2024-04-30",
       "talent_raw": "Chronik Fiction",
+      "talent_person_id": "chronik-fiction",
       "beneficiary_raw": "Chronik Fiction",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -145,6 +153,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-04-30",
       "talent_raw": "Diane Truc",
+      "talent_person_id": "diane-truc",
       "beneficiary_raw": "Vroom",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -156,6 +165,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-04-30",
       "talent_raw": "Jules Laguilhaumie",
+      "talent_person_id": "jules-laguilhaumie",
       "beneficiary_raw": "Cairn Productions",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -167,6 +177,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-04-30",
       "talent_raw": "Tragha Hicham",
+      "talent_person_id": "hicham-tragha",
       "beneficiary_raw": "Boca Films",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -178,6 +189,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-04-30",
       "talent_raw": "Alexandre DESANE",
+      "talent_person_id": "alexandre-desane",
       "beneficiary_raw": "LE DOUBLE",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -189,6 +201,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-04-30",
       "talent_raw": "Science de Comptoir",
+      "talent_person_id": "science-de-comptoir",
       "beneficiary_raw": "SUPERAMA",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -200,6 +213,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-04-30",
       "talent_raw": "Ha-An TU",
+      "talent_person_id": "ha-an-tu",
       "beneficiary_raw": "Ha-An TU",
       "amount": 2000,
       "aid_section": "aide_creation",
@@ -211,6 +225,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-04-30",
       "talent_raw": "DANYetRAZ",
+      "talent_person_id": "danyetraz",
       "beneficiary_raw": "Zawa Prod",
       "amount": 50000,
       "aid_section": "aide_chaine",

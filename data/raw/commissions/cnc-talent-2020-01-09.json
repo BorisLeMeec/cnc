@@ -2,60 +2,61 @@
   "id": "cnc-talent-2020-01-09",
   "fund_name": "CNC Talent",
   "date": "2020-01-09",
-  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-15-octobre-2019_1170060",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-15-octobre-2020_1395148",
   "jury": [
     {
-      "person_id": "",
+      "person_id": "romain-gavras",
       "raw_name": "Romain Gavras",
       "role": "président"
     },
     {
-      "person_id": "",
+      "person_id": "maurice-barthelemy",
       "raw_name": "Maurice Barthelemy",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "nicolas-capuron",
       "raw_name": "Nicolas Capuron",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "galo-diallo",
       "raw_name": "Galo Diallo",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "aude-gogny-goubert",
       "raw_name": "Aude Gogny-Goubert",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "barbara-israel",
       "raw_name": "Barbara Israël",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "salam-jawad",
       "raw_name": "Salam Jawad",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "shirley-souagnon",
       "raw_name": "Shirley Souagnon",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "lawrence-valin",
       "raw_name": "Lawrence Valin",
       "role": "membre"
     }
   ],
   "grants": [
     {
-      "id": "cnc-talent-2020-01-09-derriere-les-barreaux",
+      "id": "cnc-talent-2020-01-09-derrière-barreaux",
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "Chloé Rochereuil",
+      "talent_person_id": "chloe-rochereuil",
       "beneficiary_raw": "Imagissime département Leo Vision",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -63,10 +64,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-01-09-tac-troubles-absurdes-du-comportement-saison-2",
+      "id": "cnc-talent-2020-01-09-tac-troubles",
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "Nicolas Capus, Anais Fabre \u0026 Ingrid Graziani",
+      "talent_person_id": "nicolas-capus-anais-fabre-ingrid-graziani",
       "beneficiary_raw": "ASM Films",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -74,10 +76,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-01-09-the-other-life-aventures-sauvages-en-france",
+      "id": "cnc-talent-2020-01-09-other-life",
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "Xavier Bourgois",
+      "talent_person_id": "xavier-bourgois",
       "beneficiary_raw": "The Other Life",
       "amount": 20000,
       "aid_section": "aide_creation",
@@ -85,10 +88,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-01-09-histoires-de-clubs",
+      "id": "cnc-talent-2020-01-09-histoires-clubs",
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "Valentin Blais",
+      "talent_person_id": "valentin-blais",
       "beneficiary_raw": "Valentin Blais",
       "amount": 1700,
       "aid_section": "aide_creation",
@@ -96,10 +100,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-01-09-les-tribulations-de-georges-et-fernand",
+      "id": "cnc-talent-2020-01-09-tribulations-georges-fernand",
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "David Merlin-Dufey et Olivier Riche",
+      "talent_person_id": "david-merlin-dufey-olivier-riche",
       "beneficiary_raw": "Autour d'un film productions",
       "amount": 28000,
       "aid_section": "aide_creation",
@@ -107,10 +112,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-01-09-o-detail",
+      "id": "cnc-talent-2020-01-09-ô-détail",
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "Camille Jouneaux",
+      "talent_person_id": "camille-jouneaux",
       "beneficiary_raw": "Summum 3D",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -118,10 +124,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-01-09-banlieue-de-mots",
+      "id": "cnc-talent-2020-01-09-banlieue-mots",
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "Gaspa",
+      "talent_person_id": "gaspa",
       "beneficiary_raw": "Poésie urbaine",
       "amount": 22000,
       "aid_section": "aide_creation",
@@ -129,10 +136,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-01-09-video-echoscientifique-saison-2",
+      "id": "cnc-talent-2020-01-09-vidéo-échoscientifique-saison-2",
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "Linguisticae / Scilabus / J'm'énerve pas, j'explique",
+      "talent_person_id": "linguisticae-scilabus-jmenerve-pas-jexplique",
       "beneficiary_raw": "Play Azur",
       "amount": 7000,
       "aid_section": "aide_creation",
@@ -140,10 +148,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-01-09-sam-fait-rouler-le-film",
+      "id": "cnc-talent-2020-01-09-sam-fait-rouler",
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "Les Coflocs (Florian Mosca et Laurent Lingelser)",
+      "talent_person_id": "les-coflocs",
       "beneficiary_raw": "Les Coflocs",
       "amount": 10000,
       "aid_section": "aide_creation",
@@ -155,6 +164,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "Geneviève Anhoury",
+      "talent_person_id": "genevieve-anhoury",
       "beneficiary_raw": "Lardux Films",
       "amount": 10000,
       "aid_section": "aide_creation",
@@ -166,6 +176,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "Julien Lahmi",
+      "talent_person_id": "julien-lahmi",
       "beneficiary_raw": "Julien Lahmi",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -173,10 +184,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-01-09-digital-productions-les-pionniers-du-pixel",
+      "id": "cnc-talent-2020-01-09-digital-productions-pionniers",
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "Gorkab",
+      "talent_person_id": "gorkab",
       "beneficiary_raw": "Phénomènes Films",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -184,14 +196,15 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-01-09-la-conquete-divine-de-michoacan",
+      "id": "cnc-talent-2020-01-09-conquête-divine-michoacan",
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "Tito Gonzalez Garcia",
+      "talent_person_id": "tito-gonzalez-garcia",
       "beneficiary_raw": "Tamara films",
       "amount": 3000,
       "aid_section": "aide_creation",
-      "aid_type": "standard",
+      "aid_type": "bourse_encouragement",
       "result": "accepted"
     },
     {
@@ -199,21 +212,23 @@
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "Valentine Jongen",
+      "talent_person_id": "valentine-jongen",
       "beneficiary_raw": "Image Mouvement",
       "amount": 3000,
       "aid_section": "aide_creation",
-      "aid_type": "standard",
+      "aid_type": "bourse_encouragement",
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-01-09-parisienne-s-mode-d-emploi",
+      "id": "cnc-talent-2020-01-09-parisienne-mode-emploi",
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "Rokhaya Diallo",
+      "talent_person_id": "rokhaya-diallo",
       "beneficiary_raw": "De l'autre côté du périph",
       "amount": 3000,
       "aid_section": "aide_creation",
-      "aid_type": "standard",
+      "aid_type": "bourse_encouragement",
       "result": "accepted"
     },
     {
@@ -221,6 +236,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "Nacache Jérémie",
+      "talent_person_id": "jeremie-nacache",
       "beneficiary_raw": "Explore Media (Bisly SAS)",
       "amount": 10000,
       "aid_section": "aide_creation",
@@ -228,10 +244,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-01-09-ami-des-lobbies",
+      "id": "cnc-talent-2020-01-09-ami-lobbies",
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "Jeremy Bismuth",
+      "talent_person_id": "jeremy-bismuth",
       "beneficiary_raw": "AnderAnderA Production",
       "amount": 10000,
       "aid_section": "aide_creation",
@@ -239,10 +256,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-01-09-l-homme-qui-voulait-tout-apprendre-saison-4",
+      "id": "cnc-talent-2020-01-09-homme-apprendre-saison-4",
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "Guillaume Millochau",
+      "talent_person_id": "guillaume-millochau",
       "beneficiary_raw": "Millochau Guillaume (micro-entreprise)",
       "amount": 5000,
       "aid_section": "aide_creation",
@@ -250,10 +268,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-01-09-peepoodo-the-super-fuck-friends",
+      "id": "cnc-talent-2020-01-09-peepoodo-super-fuck-friends",
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "Balak (Yves Bigerel)",
+      "talent_person_id": "yves-bigerel",
       "beneficiary_raw": "Bobbypills",
       "amount": 45000,
       "aid_section": "aide_chaine",
@@ -265,6 +284,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "KICK!",
+      "talent_person_id": "kick",
       "beneficiary_raw": "Amuse",
       "amount": 45000,
       "aid_section": "aide_chaine",
@@ -276,6 +296,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "Rancho Webshow",
+      "talent_person_id": "rancho-webshow",
       "beneficiary_raw": "7Links",
       "amount": 15000,
       "aid_section": "aide_chaine",
@@ -283,10 +304,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-01-09-le-vortex-saison-2",
+      "id": "cnc-talent-2020-01-09-vortex-saison-2",
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "Le Vortex",
+      "talent_person_id": "le-vortex",
       "beneficiary_raw": "Nerd Entertainment System",
       "amount": 25000,
       "aid_section": "aide_chaine",
@@ -298,6 +320,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2020-01-09",
       "talent_raw": "Stupid Economics",
+      "talent_person_id": "stupid-economics",
       "beneficiary_raw": "Stup",
       "amount": 20000,
       "aid_section": "aide_chaine",

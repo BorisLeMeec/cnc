@@ -1,0 +1,238 @@
+{
+  "id": "cnc-talent-2022-02-17",
+  "fund_name": "CNC Talent",
+  "date": "2022-02-17",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-14-octobre-2022_1829503",
+  "jury": [
+    {
+      "person_id": "patrick-baud",
+      "raw_name": "Patrick Baud",
+      "role": "membre"
+    },
+    {
+      "person_id": "gilles-boussion",
+      "raw_name": "Gilles Boussion",
+      "role": "membre"
+    },
+    {
+      "person_id": "clara-codani",
+      "raw_name": "Clara Codani",
+      "role": "membre"
+    },
+    {
+      "person_id": "clement-cotentin",
+      "raw_name": "Clément Cotentin",
+      "role": "membre"
+    },
+    {
+      "person_id": "anais-fabre",
+      "raw_name": "Anais Fabre",
+      "role": "membre"
+    },
+    {
+      "person_id": "oriane-hurard",
+      "raw_name": "Oriane Hurard",
+      "role": "membre"
+    },
+    {
+      "person_id": "anis-rhali",
+      "raw_name": "Anis Rhali",
+      "role": "membre"
+    },
+    {
+      "person_id": "kevin-tran",
+      "raw_name": "Kevin Tran",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2022-02-17-infox-ripostes",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-02-17",
+      "talent_raw": "Les Haut-Parleurs",
+      "beneficiary_raw": "FABLABCHANNEL",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-02-17-annees-20-serie",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-02-17",
+      "talent_raw": "Elisabeth VOGLER",
+      "talent_person_id": "elisabeth-vogler",
+      "beneficiary_raw": "21JUIN CINEMA",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-02-17-genius",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-02-17",
+      "talent_raw": "Valyu",
+      "talent_person_id": "valyu",
+      "beneficiary_raw": "Valyu Images",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-02-17-asie-biere-et-dingueries",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-02-17",
+      "talent_raw": "Jivay",
+      "talent_person_id": "jivay",
+      "beneficiary_raw": "Une bière et Jivay",
+      "amount": 25000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-02-17-il-etait-une-fois-a-tijuana",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-02-17",
+      "talent_raw": "Benjamin da Cunha",
+      "talent_person_id": "benjamin-da-cunha",
+      "beneficiary_raw": "Benjamin Da Cunha",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-02-17-et-tout-le-monde-sen-fout",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-02-17",
+      "talent_raw": "Et tout le monde s'en fout",
+      "talent_person_id": "et-tout-le-monde-sen-fout",
+      "beneficiary_raw": "Mia Productions",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-02-17-les-mondes-du-dessous-laventure-continue",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-02-17",
+      "talent_raw": "Balade Mentale",
+      "talent_person_id": "theo-drieu",
+      "beneficiary_raw": "Eigengrau production",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-02-17-odyssee-de-savanturiers",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-02-17",
+      "talent_raw": "Léo Grasset",
+      "talent_person_id": "leo-grasset",
+      "beneficiary_raw": "BOUCHET Aimée",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-02-17-la-terre-mere",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-02-17",
+      "talent_raw": "Kon sud Productions",
+      "beneficiary_raw": "KÔN SUD PRODUCTIONS",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-02-17-degourdie",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-02-17",
+      "talent_raw": "Inas Chanti \u0026 Jean Chaffard Luçon",
+      "beneficiary_raw": "Dobro Films",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-02-17-parle-moi-du-bac",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-02-17",
+      "talent_raw": "Clémentine HAYNES",
+      "talent_person_id": "clementine-haynes",
+      "beneficiary_raw": "We Are Updated",
+      "amount": 14500,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-02-17-jai-essaye",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-02-17",
+      "talent_raw": "Esteban Vidal",
+      "talent_person_id": "esteban-vidal",
+      "beneficiary_raw": "Naya Films",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-02-17-le-reseau",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-02-17",
+      "talent_raw": "Thomas Métivier, Camille Fievez, Ambroise Carminati",
+      "talent_person_id": "thomas-metivier-camille-fievez-ambroise-carminati",
+      "beneficiary_raw": "JEFF \u0026 OCTAVE",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-02-17-nicolas-meyrieux",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-02-17",
+      "talent_raw": "Nicolas Meyrieux",
+      "talent_person_id": "nicolas-meyrieux",
+      "beneficiary_raw": "MAKING BARBE",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-02-17-ragnar-le-breton",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-02-17",
+      "talent_raw": "Matthias Quiviger",
+      "talent_person_id": "matthias-quiviger",
+      "beneficiary_raw": "Bien ou Bien productions",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-02-17-developpement-de-la-chaine-youtube-blast",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-02-17",
+      "talent_raw": "SCIC BLAST LE SOUFFLE DE L'INFO",
+      "beneficiary_raw": "BLAST LE SOUFFLE DE L'INFO",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

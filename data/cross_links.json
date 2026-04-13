@@ -1,0 +1,1533 @@
+[
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "alexandra-mac-donald",
+    "person_a_name": "Alexandra Mac Donald",
+    "person_b": "aude-gogny-goubert",
+    "person_b_name": "Aude Gogny-Goubert",
+    "details": [
+      {
+        "commission": "cnc-talent-2021-04-02",
+        "date": "2021-04-02",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2021-12-07",
+        "date": "2021-12-07",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "anis-rhali",
+    "person_a_name": "Anis Rhali",
+    "person_b": "sophie-marie-larrouy",
+    "person_b_name": "Sophie-Marie Larrouy",
+    "details": [
+      {
+        "commission": "cnc-talent-2022-10-14",
+        "date": "2022-10-14",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2023-09-18",
+        "date": "2023-09-18",
+        "role": "a_evaluated_b",
+        "amount": 10500
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "anis-rhali",
+    "person_a_name": "Anis Rhali",
+    "person_b": "judith-beauvallet",
+    "person_b_name": "Judith Beauvallet",
+    "details": [
+      {
+        "commission": "cnc-talent-2022-06-14",
+        "date": "2022-06-14",
+        "role": "a_evaluated_b",
+        "amount": 24000
+      },
+      {
+        "commission": "cnc-talent-2024-11-20",
+        "date": "2024-11-20",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2025-11-12",
+        "date": "2025-11-12",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "anis-rhali",
+    "person_a_name": "Anis Rhali",
+    "person_b": "melanie-toubeau",
+    "person_b_name": "Mélanie Toubeau",
+    "details": [
+      {
+        "commission": "cnc-talent-2023-04-17",
+        "date": "2023-04-17",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2024-03-15",
+        "date": "2024-03-15",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "anis-rhali",
+    "person_a_name": "Anis Rhali",
+    "person_b": "ambroise-carminati",
+    "person_b_name": "Ambroise Carminati",
+    "details": [
+      {
+        "commission": "cnc-talent-2022-04-15",
+        "date": "2022-04-15",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      },
+      {
+        "commission": "cnc-talent-2023-02-17",
+        "date": "2023-02-17",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2023-11-22",
+        "date": "2023-11-22",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2024-09-18",
+        "date": "2024-09-18",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "anis-rhali",
+    "person_a_name": "Anis Rhali",
+    "person_b": "laureline-amanieux",
+    "person_b_name": "Laureline Amanieux",
+    "details": [
+      {
+        "commission": "cnc-talent-2023-04-17",
+        "date": "2023-04-17",
+        "role": "a_evaluated_b",
+        "amount": 3000
+      },
+      {
+        "commission": "cnc-talent-2023-09-18",
+        "date": "2023-09-18",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2023-11-22",
+        "date": "2023-11-22",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2024-06-27",
+        "date": "2024-06-27",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2024-11-20",
+        "date": "2024-11-20",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "axelle-tessandier",
+    "person_a_name": "Axelle Tessandier",
+    "person_b": "cyprien-iov",
+    "person_b_name": "Cyprien Iov",
+    "details": [
+      {
+        "commission": "cnc-talent-2017-12-04",
+        "date": "2017-12-04",
+        "role": "a_evaluated_b",
+        "amount": 10000
+      },
+      {
+        "commission": "cnc-talent-2018-03-19",
+        "date": "2018-03-19",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2018-04-24",
+        "date": "2018-04-24",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "barbara-israel",
+    "person_a_name": "Barbara Israël",
+    "person_b": "shirley-souagnon",
+    "person_b_name": "Shirley Souagnon",
+    "details": [
+      {
+        "commission": "cnc-talent-2018-06-22",
+        "date": "2018-06-22",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      },
+      {
+        "commission": "cnc-talent-2019-10-15",
+        "date": "2019-10-15",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2020-01-09",
+        "date": "2020-01-09",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2020-06-18",
+        "date": "2020-06-18",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "barbara-israel",
+    "person_a_name": "Barbara Israël",
+    "person_b": "fif-tobossi",
+    "person_b_name": "Fif Tobossi",
+    "details": [
+      {
+        "commission": "cnc-talent-2018-10-19",
+        "date": "2018-10-19",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2019-04-19",
+        "date": "2019-04-19",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "barbara-israel",
+    "person_a_name": "Barbara Israël",
+    "person_b": "aude-gogny-goubert",
+    "person_b_name": "Aude Gogny-Goubert",
+    "details": [
+      {
+        "commission": "cnc-talent-2017-12-04",
+        "date": "2017-12-04",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2020-01-09",
+        "date": "2020-01-09",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2020-10-15",
+        "date": "2020-10-15",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2020-12-11",
+        "date": "2020-12-11",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "barbara-israel",
+    "person_a_name": "Barbara Israël",
+    "person_b": "cyprien-iov",
+    "person_b_name": "Cyprien Iov",
+    "details": [
+      {
+        "commission": "cnc-talent-2017-12-04",
+        "date": "2017-12-04",
+        "role": "a_evaluated_b",
+        "amount": 10000
+      },
+      {
+        "commission": "cnc-talent-2018-03-19",
+        "date": "2018-03-19",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2018-04-24",
+        "date": "2018-04-24",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2018-06-22",
+        "date": "2018-06-22",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      },
+      {
+        "commission": "cnc-talent-2018-10-19",
+        "date": "2018-10-19",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2019-10-15",
+        "date": "2019-10-15",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2020-06-18",
+        "date": "2020-06-18",
+        "role": "a_evaluated_b",
+        "amount": 15000
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "benjamin-bonnet",
+    "person_a_name": "Benjamin Bonnet",
+    "person_b": "jeanne-seignol",
+    "person_b_name": "Jeanne Seignol",
+    "details": [
+      {
+        "commission": "cnc-talent-2025-05-23",
+        "date": "2025-05-23",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2025-09-17",
+        "date": "2025-09-17",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "benjamin-hoguet",
+    "person_a_name": "Benjamin Hoguet",
+    "person_b": "melanie-toubeau",
+    "person_b_name": "Mélanie Toubeau",
+    "details": [
+      {
+        "commission": "cnc-talent-2023-04-17",
+        "date": "2023-04-17",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2024-03-15",
+        "date": "2024-03-15",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "benjamin-hoguet",
+    "person_a_name": "Benjamin Hoguet",
+    "person_b": "laureline-amanieux",
+    "person_b_name": "Laureline Amanieux",
+    "details": [
+      {
+        "commission": "cnc-talent-2023-04-17",
+        "date": "2023-04-17",
+        "role": "a_evaluated_b",
+        "amount": 3000
+      },
+      {
+        "commission": "cnc-talent-2023-09-18",
+        "date": "2023-09-18",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2023-11-22",
+        "date": "2023-11-22",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2024-06-27",
+        "date": "2024-06-27",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2024-11-20",
+        "date": "2024-11-20",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "charlie-danger",
+    "person_a_name": "Charlie Danger",
+    "person_b": "laureline-amanieux",
+    "person_b_name": "Laureline Amanieux",
+    "details": [
+      {
+        "commission": "cnc-talent-2023-04-17",
+        "date": "2023-04-17",
+        "role": "a_evaluated_b",
+        "amount": 3000
+      },
+      {
+        "commission": "cnc-talent-2023-11-22",
+        "date": "2023-11-22",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2024-11-20",
+        "date": "2024-11-20",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "charlie-danger",
+    "person_a_name": "Charlie Danger",
+    "person_b": "melanie-toubeau",
+    "person_b_name": "Mélanie Toubeau",
+    "details": [
+      {
+        "commission": "cnc-talent-2023-04-17",
+        "date": "2023-04-17",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2024-03-15",
+        "date": "2024-03-15",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "constance-le-scouarnec",
+    "person_a_name": "Constance Le Scouarnec",
+    "person_b": "ambroise-carminati",
+    "person_b_name": "Ambroise Carminati",
+    "details": [
+      {
+        "commission": "cnc-talent-2022-04-15",
+        "date": "2022-04-15",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      },
+      {
+        "commission": "cnc-talent-2023-02-17",
+        "date": "2023-02-17",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2023-06-22",
+        "date": "2023-06-22",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2023-11-22",
+        "date": "2023-11-22",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2024-04-30",
+        "date": "2024-04-30",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2024-09-18",
+        "date": "2024-09-18",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "constance-le-scouarnec",
+    "person_a_name": "Constance Le Scouarnec",
+    "person_b": "sophie-marie-larrouy",
+    "person_b_name": "Sophie-Marie Larrouy",
+    "details": [
+      {
+        "commission": "cnc-talent-2022-10-14",
+        "date": "2022-10-14",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2023-09-18",
+        "date": "2023-09-18",
+        "role": "a_evaluated_b",
+        "amount": 10500
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "constance-le-scouarnec",
+    "person_a_name": "Constance Le Scouarnec",
+    "person_b": "melanie-toubeau",
+    "person_b_name": "Mélanie Toubeau",
+    "details": [
+      {
+        "commission": "cnc-talent-2023-04-17",
+        "date": "2023-04-17",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2024-03-15",
+        "date": "2024-03-15",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "constance-le-scouarnec",
+    "person_a_name": "Constance Le Scouarnec",
+    "person_b": "laureline-amanieux",
+    "person_b_name": "Laureline Amanieux",
+    "details": [
+      {
+        "commission": "cnc-talent-2023-04-17",
+        "date": "2023-04-17",
+        "role": "a_evaluated_b",
+        "amount": 3000
+      },
+      {
+        "commission": "cnc-talent-2023-09-18",
+        "date": "2023-09-18",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2023-11-22",
+        "date": "2023-11-22",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2024-06-27",
+        "date": "2024-06-27",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "florent-bernard",
+    "person_a_name": "Florent Bernard",
+    "person_b": "cyprien-iov",
+    "person_b_name": "Cyprien Iov",
+    "details": [
+      {
+        "commission": "cnc-talent-2018-03-19",
+        "date": "2018-03-19",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2018-06-22",
+        "date": "2018-06-22",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      },
+      {
+        "commission": "cnc-talent-2018-10-19",
+        "date": "2018-10-19",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "gilles-boussion",
+    "person_a_name": "Gilles Boussion",
+    "person_b": "laureline-amanieux",
+    "person_b_name": "Laureline Amanieux",
+    "details": [
+      {
+        "commission": "cnc-talent-2023-04-17",
+        "date": "2023-04-17",
+        "role": "a_evaluated_b",
+        "amount": 3000
+      },
+      {
+        "commission": "cnc-talent-2023-11-22",
+        "date": "2023-11-22",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2024-11-20",
+        "date": "2024-11-20",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "gilles-boussion",
+    "person_a_name": "Gilles Boussion",
+    "person_b": "lea-bordier",
+    "person_b_name": "Léa Bordier",
+    "details": [
+      {
+        "commission": "cnc-talent-2021-06-17",
+        "date": "2021-06-17",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2023-11-22",
+        "date": "2023-11-22",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2025-05-23",
+        "date": "2025-05-23",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "gilles-boussion",
+    "person_a_name": "Gilles Boussion",
+    "person_b": "judith-beauvallet",
+    "person_b_name": "Judith Beauvallet",
+    "details": [
+      {
+        "commission": "cnc-talent-2022-06-14",
+        "date": "2022-06-14",
+        "role": "a_evaluated_b",
+        "amount": 24000
+      },
+      {
+        "commission": "cnc-talent-2024-11-20",
+        "date": "2024-11-20",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2025-05-23",
+        "date": "2025-05-23",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "ina-mihalache",
+    "person_a_name": "Ina Mihalache",
+    "person_b": "fif-tobossi",
+    "person_b_name": "Fif Tobossi",
+    "details": [
+      {
+        "commission": "cnc-talent-2018-10-19",
+        "date": "2018-10-19",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2019-04-19",
+        "date": "2019-04-19",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "ina-mihalache",
+    "person_a_name": "Ina Mihalache",
+    "person_b": "cyprien-iov",
+    "person_b_name": "Cyprien Iov",
+    "details": [
+      {
+        "commission": "cnc-talent-2017-12-04",
+        "date": "2017-12-04",
+        "role": "a_evaluated_b",
+        "amount": 10000
+      },
+      {
+        "commission": "cnc-talent-2018-03-19",
+        "date": "2018-03-19",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2018-06-22",
+        "date": "2018-06-22",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      },
+      {
+        "commission": "cnc-talent-2018-10-19",
+        "date": "2018-10-19",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "jeanne-ezvan",
+    "person_a_name": "Jeanne Ezvan",
+    "person_b": "laureline-amanieux",
+    "person_b_name": "Laureline Amanieux",
+    "details": [
+      {
+        "commission": "cnc-talent-2023-04-17",
+        "date": "2023-04-17",
+        "role": "a_evaluated_b",
+        "amount": 3000
+      },
+      {
+        "commission": "cnc-talent-2023-09-18",
+        "date": "2023-09-18",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2023-11-22",
+        "date": "2023-11-22",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2024-06-27",
+        "date": "2024-06-27",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "jeanne-ezvan",
+    "person_a_name": "Jeanne Ezvan",
+    "person_b": "melanie-toubeau",
+    "person_b_name": "Mélanie Toubeau",
+    "details": [
+      {
+        "commission": "cnc-talent-2023-04-17",
+        "date": "2023-04-17",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2024-03-15",
+        "date": "2024-03-15",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "jr",
+    "person_a_name": "JR",
+    "person_b": "cyprien-iov",
+    "person_b_name": "Cyprien Iov",
+    "details": [
+      {
+        "commission": "cnc-talent-2017-12-04",
+        "date": "2017-12-04",
+        "role": "a_evaluated_b",
+        "amount": 10000
+      },
+      {
+        "commission": "cnc-talent-2018-03-19",
+        "date": "2018-03-19",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2018-10-19",
+        "date": "2018-10-19",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "kloe-lang",
+    "person_a_name": "Kloé Lang",
+    "person_b": "jeanne-seignol",
+    "person_b_name": "Jeanne Seignol",
+    "details": [
+      {
+        "commission": "cnc-talent-2025-05-23",
+        "date": "2025-05-23",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2025-09-17",
+        "date": "2025-09-17",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "lawrence-valin",
+    "person_a_name": "Lawrence Valin",
+    "person_b": "alexandra-mignien",
+    "person_b_name": "Alexandra Mignien",
+    "details": [
+      {
+        "commission": "cnc-talent-2020-03-12",
+        "date": "2020-03-12",
+        "role": "a_evaluated_b",
+        "amount": 20000
+      },
+      {
+        "commission": "cnc-talent-2021-12-07",
+        "date": "2021-12-07",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "lawrence-valin",
+    "person_a_name": "Lawrence Valin",
+    "person_b": "aude-gogny-goubert",
+    "person_b_name": "Aude Gogny-Goubert",
+    "details": [
+      {
+        "commission": "cnc-talent-2020-01-09",
+        "date": "2020-01-09",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2020-10-15",
+        "date": "2020-10-15",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2020-12-11",
+        "date": "2020-12-11",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2021-02-11",
+        "date": "2021-02-11",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2021-06-17",
+        "date": "2021-06-17",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2021-10-12",
+        "date": "2021-10-12",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2021-12-07",
+        "date": "2021-12-07",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "lawrence-valin",
+    "person_a_name": "Lawrence Valin",
+    "person_b": "justine-le-pottier",
+    "person_b_name": "Justine Le Pottier",
+    "details": [
+      {
+        "commission": "cnc-talent-2019-06-18",
+        "date": "2019-06-18",
+        "role": "a_evaluated_b",
+        "amount": 20000
+      },
+      {
+        "commission": "cnc-talent-2021-10-12",
+        "date": "2021-10-12",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "lorenzo-benedetti",
+    "person_a_name": "Lorenzo Benedetti",
+    "person_b": "fif-tobossi",
+    "person_b_name": "Fif Tobossi",
+    "details": [
+      {
+        "commission": "cnc-talent-2018-10-19",
+        "date": "2018-10-19",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2019-06-18",
+        "date": "2019-06-18",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "lorenzo-benedetti",
+    "person_a_name": "Lorenzo Benedetti",
+    "person_b": "cyprien-iov",
+    "person_b_name": "Cyprien Iov",
+    "details": [
+      {
+        "commission": "cnc-talent-2017-12-04",
+        "date": "2017-12-04",
+        "role": "a_evaluated_b",
+        "amount": 10000
+      },
+      {
+        "commission": "cnc-talent-2018-03-19",
+        "date": "2018-03-19",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2018-10-19",
+        "date": "2018-10-19",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "margaux-missika",
+    "person_a_name": "Margaux Missika",
+    "person_b": "cyprien-iov",
+    "person_b_name": "Cyprien Iov",
+    "details": [
+      {
+        "commission": "cnc-talent-2017-12-04",
+        "date": "2017-12-04",
+        "role": "a_evaluated_b",
+        "amount": 10000
+      },
+      {
+        "commission": "cnc-talent-2018-03-19",
+        "date": "2018-03-19",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2018-04-24",
+        "date": "2018-04-24",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "margaux-missika",
+    "person_a_name": "Margaux Missika",
+    "person_b": "aude-gogny-goubert",
+    "person_b_name": "Aude Gogny-Goubert",
+    "details": [
+      {
+        "commission": "cnc-talent-2017-12-04",
+        "date": "2017-12-04",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2020-12-11",
+        "date": "2020-12-11",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "marie-agnely",
+    "person_a_name": "Marie Agnely",
+    "person_b": "manon-champier",
+    "person_b_name": "Manon Champier",
+    "details": [
+      {
+        "commission": "cnc-talent-2021-02-11",
+        "date": "2021-02-11",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      },
+      {
+        "commission": "cnc-talent-2022-04-15",
+        "date": "2022-04-15",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2022-10-14",
+        "date": "2022-10-14",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "marie-agnely",
+    "person_a_name": "Marie Agnely",
+    "person_b": "aude-gogny-goubert",
+    "person_b_name": "Aude Gogny-Goubert",
+    "details": [
+      {
+        "commission": "cnc-talent-2021-02-11",
+        "date": "2021-02-11",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2021-04-02",
+        "date": "2021-04-02",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2021-06-17",
+        "date": "2021-06-17",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2021-10-12",
+        "date": "2021-10-12",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2021-12-07",
+        "date": "2021-12-07",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "marie-camille-soyer",
+    "person_a_name": "Marie-Camille Soyer",
+    "person_b": "jeanne-seignol",
+    "person_b_name": "Jeanne Seignol",
+    "details": [
+      {
+        "commission": "cnc-talent-2025-05-23",
+        "date": "2025-05-23",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2025-09-17",
+        "date": "2025-09-17",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "maurice-barthelemy",
+    "person_a_name": "Maurice Barthélemy",
+    "person_b": "alexandra-mignien",
+    "person_b_name": "Alexandra Mignien",
+    "details": [
+      {
+        "commission": "cnc-talent-2020-03-12",
+        "date": "2020-03-12",
+        "role": "a_evaluated_b",
+        "amount": 20000
+      },
+      {
+        "commission": "cnc-talent-2021-12-07",
+        "date": "2021-12-07",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "maurice-barthelemy",
+    "person_a_name": "Maurice Barthélemy",
+    "person_b": "aude-gogny-goubert",
+    "person_b_name": "Aude Gogny-Goubert",
+    "details": [
+      {
+        "commission": "cnc-talent-2020-01-09",
+        "date": "2020-01-09",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2020-10-15",
+        "date": "2020-10-15",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2020-12-11",
+        "date": "2020-12-11",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2021-02-11",
+        "date": "2021-02-11",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2021-04-02",
+        "date": "2021-04-02",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2021-06-17",
+        "date": "2021-06-17",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2021-10-12",
+        "date": "2021-10-12",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2021-12-07",
+        "date": "2021-12-07",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "nicolas-capuron",
+    "person_a_name": "Nicolas Capuron",
+    "person_b": "aude-gogny-goubert",
+    "person_b_name": "Aude Gogny-Goubert",
+    "details": [
+      {
+        "commission": "cnc-talent-2020-01-09",
+        "date": "2020-01-09",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2020-10-15",
+        "date": "2020-10-15",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2020-12-11",
+        "date": "2020-12-11",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2021-02-11",
+        "date": "2021-02-11",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2021-06-17",
+        "date": "2021-06-17",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2021-10-12",
+        "date": "2021-10-12",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2021-12-07",
+        "date": "2021-12-07",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "nora-hamzawi",
+    "person_a_name": "Nora Hamzawi",
+    "person_b": "laureline-amanieux",
+    "person_b_name": "Laureline Amanieux",
+    "details": [
+      {
+        "commission": "cnc-talent-2023-09-18",
+        "date": "2023-09-18",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2023-11-22",
+        "date": "2023-11-22",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2024-11-20",
+        "date": "2024-11-20",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "nora-hamzawi",
+    "person_a_name": "Nora Hamzawi",
+    "person_b": "jeanne-seignol",
+    "person_b_name": "Jeanne Seignol",
+    "details": [
+      {
+        "commission": "cnc-talent-2025-05-23",
+        "date": "2025-05-23",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2025-09-17",
+        "date": "2025-09-17",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "oriane-hurard",
+    "person_a_name": "Oriane Hurard",
+    "person_b": "aude-gogny-goubert",
+    "person_b_name": "Aude Gogny-Goubert",
+    "details": [
+      {
+        "commission": "cnc-talent-2021-02-11",
+        "date": "2021-02-11",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2021-10-12",
+        "date": "2021-10-12",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2021-12-07",
+        "date": "2021-12-07",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "oriane-hurard",
+    "person_a_name": "Oriane Hurard",
+    "person_b": "patrick-baud",
+    "person_b_name": "Patrick Baud",
+    "details": [
+      {
+        "commission": "cnc-talent-2021-02-11",
+        "date": "2021-02-11",
+        "role": "a_evaluated_b",
+        "amount": 20000
+      },
+      {
+        "commission": "cnc-talent-2022-02-17",
+        "date": "2022-02-17",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "salam-jawad",
+    "person_a_name": "Salam Jawad",
+    "person_b": "shirley-souagnon",
+    "person_b_name": "Shirley Souagnon",
+    "details": [
+      {
+        "commission": "cnc-talent-2018-06-22",
+        "date": "2018-06-22",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      },
+      {
+        "commission": "cnc-talent-2019-10-15",
+        "date": "2019-10-15",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2020-01-09",
+        "date": "2020-01-09",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2020-03-12",
+        "date": "2020-03-12",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2020-06-18",
+        "date": "2020-06-18",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "salam-jawad",
+    "person_a_name": "Salam Jawad",
+    "person_b": "cyprien-iov",
+    "person_b_name": "Cyprien Iov",
+    "details": [
+      {
+        "commission": "cnc-talent-2017-12-04",
+        "date": "2017-12-04",
+        "role": "a_evaluated_b",
+        "amount": 10000
+      },
+      {
+        "commission": "cnc-talent-2018-03-19",
+        "date": "2018-03-19",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2018-04-24",
+        "date": "2018-04-24",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2018-06-22",
+        "date": "2018-06-22",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      },
+      {
+        "commission": "cnc-talent-2018-10-19",
+        "date": "2018-10-19",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2019-10-15",
+        "date": "2019-10-15",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2020-06-18",
+        "date": "2020-06-18",
+        "role": "a_evaluated_b",
+        "amount": 15000
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "salam-jawad",
+    "person_a_name": "Salam Jawad",
+    "person_b": "aude-gogny-goubert",
+    "person_b_name": "Aude Gogny-Goubert",
+    "details": [
+      {
+        "commission": "cnc-talent-2017-12-04",
+        "date": "2017-12-04",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2020-01-09",
+        "date": "2020-01-09",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2020-10-15",
+        "date": "2020-10-15",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2020-12-11",
+        "date": "2020-12-11",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "salam-jawad",
+    "person_a_name": "Salam Jawad",
+    "person_b": "fif-tobossi",
+    "person_b_name": "Fif Tobossi",
+    "details": [
+      {
+        "commission": "cnc-talent-2018-10-19",
+        "date": "2018-10-19",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2019-04-19",
+        "date": "2019-04-19",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2019-06-18",
+        "date": "2019-06-18",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "sophie-garric",
+    "person_a_name": "Sophie Garric",
+    "person_b": "cyprien-iov",
+    "person_b_name": "Cyprien Iov",
+    "details": [
+      {
+        "commission": "cnc-talent-2018-04-24",
+        "date": "2018-04-24",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2018-06-22",
+        "date": "2018-06-22",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      },
+      {
+        "commission": "cnc-talent-2019-10-15",
+        "date": "2019-10-15",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "sophie-garric",
+    "person_a_name": "Sophie Garric",
+    "person_b": "shirley-souagnon",
+    "person_b_name": "Shirley Souagnon",
+    "details": [
+      {
+        "commission": "cnc-talent-2018-06-22",
+        "date": "2018-06-22",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      },
+      {
+        "commission": "cnc-talent-2019-10-15",
+        "date": "2019-10-15",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "sophie-marie-larrouy",
+    "person_a_name": "Sophie-Marie Larrouy",
+    "person_b": "aude-gogny-goubert",
+    "person_b_name": "Aude Gogny-Goubert",
+    "details": [
+      {
+        "commission": "cnc-talent-2021-06-17",
+        "date": "2021-06-17",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2021-12-07",
+        "date": "2021-12-07",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "soufiane-adel",
+    "person_a_name": "Soufiane Adel",
+    "person_b": "cyprien-iov",
+    "person_b_name": "Cyprien Iov",
+    "details": [
+      {
+        "commission": "cnc-talent-2018-04-24",
+        "date": "2018-04-24",
+        "role": "co_jury"
+      },
+      {
+        "commission": "cnc-talent-2018-06-22",
+        "date": "2018-06-22",
+        "role": "a_evaluated_b",
+        "amount": 50000
+      }
+    ]
+  },
+  {
+    "type": "co_jury_then_evaluated",
+    "person_a": "victor-habchy",
+    "person_a_name": "Victor Habchy",
+    "person_b": "jeanne-seignol",
+    "person_b_name": "Jeanne Seignol",
+    "details": [
+      {
+        "commission": "cnc-talent-2025-05-23",
+        "date": "2025-05-23",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2025-09-17",
+        "date": "2025-09-17",
+        "role": "co_jury"
+      }
+    ]
+  },
+  {
+    "type": "reciprocal_funding",
+    "person_a": "aude-gogny-goubert",
+    "person_a_name": "Aude Gogny-Goubert",
+    "person_b": "lea-bordier",
+    "person_b_name": "Léa Bordier",
+    "details": [
+      {
+        "commission": "cnc-talent-2021-06-17",
+        "date": "2021-06-17",
+        "role": "a_evaluated_b",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2024-03-15",
+        "date": "2024-03-15",
+        "role": "b_evaluated_a",
+        "amount": 30000
+      }
+    ]
+  },
+  {
+    "type": "reciprocal_funding",
+    "person_a": "aude-gogny-goubert",
+    "person_a_name": "Aude Gogny-Goubert",
+    "person_b": "julien-josselin",
+    "person_b_name": "Julien Josselin",
+    "details": [
+      {
+        "commission": "cnc-talent-2017-12-04",
+        "date": "2017-12-04",
+        "role": "b_evaluated_a",
+        "amount": 30000
+      },
+      {
+        "commission": "cnc-talent-2021-02-11",
+        "date": "2021-02-11",
+        "role": "a_evaluated_b",
+        "amount": 20000
+      }
+    ]
+  }
+]

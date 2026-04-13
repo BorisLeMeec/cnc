@@ -1,0 +1,459 @@
+{
+  "id": "cnc-talent-2019-10-15",
+  "fund_name": "CNC Talent",
+  "date": "2019-10-15",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-18-juin-2019_1097133",
+  "jury": [
+    {
+      "person_id": "romain-gavras",
+      "raw_name": "Romain Gavras",
+      "role": "président"
+    },
+    {
+      "person_id": "maurice-barthelemy",
+      "raw_name": "Maurice Barthelemy",
+      "role": "membre"
+    },
+    {
+      "person_id": "nicolas-capuron",
+      "raw_name": "Nicolas Capuron",
+      "role": "membre"
+    },
+    {
+      "person_id": "galo-diallo",
+      "raw_name": "Galo Diallo",
+      "role": "membre"
+    },
+    {
+      "person_id": "sophie-garric",
+      "raw_name": "Sophie Garric",
+      "role": "membre"
+    },
+    {
+      "person_id": "barbara-israel",
+      "raw_name": "Barbara Israël",
+      "role": "membre"
+    },
+    {
+      "person_id": "salam-jawad",
+      "raw_name": "Salam Jawad",
+      "role": "membre"
+    },
+    {
+      "person_id": "shirley-souagnon",
+      "raw_name": "Shirley Souagnon",
+      "role": "membre"
+    },
+    {
+      "person_id": "lawrence-valin",
+      "raw_name": "Lawrence Valin",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2019-10-15-bienvenue-a-choulequec",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "INERNET (Benoit Blanc, Benjamin Busnel et Mathias Girbig)",
+      "beneficiary_raw": "OUPS Prod",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-everywood",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Thomas Olland",
+      "talent_person_id": "thomas-olland",
+      "beneficiary_raw": "Beall Productions",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-les-mondes-du-dessous",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Balade Mentale",
+      "talent_person_id": "theo-drieu",
+      "beneficiary_raw": "EEMC",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-leo-grasset",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Leo Grasset (DirtyBiology)",
+      "talent_person_id": "leo-grasset",
+      "beneficiary_raw": "DirtyBiology",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-on-en-parle",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Léa BORDIER",
+      "talent_person_id": "lea-bordier",
+      "beneficiary_raw": "Léa BORDIER",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-jean-2-mahj",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "JEAN 2 MAHJ",
+      "talent_person_id": "jean-2-mahj",
+      "beneficiary_raw": "FILMO2",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-les-rebelles-du-micro",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Xuman Gunman / LES HAUT-PARLEURS",
+      "talent_person_id": "xuman-gunman",
+      "beneficiary_raw": "FABLABCHANNEL",
+      "amount": 16000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-la-grande-ligue",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Le Crossover",
+      "talent_person_id": "le-crossover",
+      "beneficiary_raw": "Vroom",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-enquete-sur-une-crise-financiere-imminente",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Partager c'est sympa",
+      "talent_person_id": "partager-cest-sympa",
+      "beneficiary_raw": "Partager c'est sympa",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-la-couette-ultime",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Lucien MAINE",
+      "talent_person_id": "lucien-maine",
+      "beneficiary_raw": "Lucien MAINE",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-la-mega-collaboration-dalex",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "AlexFrenchGuyCooking",
+      "talent_person_id": "alex-cuisine",
+      "beneficiary_raw": "Next Originals",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-mom",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Kajika AKI FERRAZZINI",
+      "talent_person_id": "kajika-aki-ferrazzini",
+      "beneficiary_raw": "Kajika AKI FERRAZZINI",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-george-michael-saison-1",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "George \u0026 Michael",
+      "beneficiary_raw": "FENSCH TOAST",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-comment-lhistoire-a-change-la-musique",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Dave Sheik",
+      "talent_person_id": "dave-sheik",
+      "beneficiary_raw": "Dave Sheik",
+      "amount": 6000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-pellicular",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Julien LAHMI",
+      "talent_person_id": "julien-lahmi",
+      "beneficiary_raw": "Julien LAHMI",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-tchinis-nouvelle-saison",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Olivier MAGERMANS",
+      "talent_person_id": "olivier-magermans",
+      "beneficiary_raw": "Olivier MAGERMANS",
+      "amount": 13500,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-artex",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Laure BERNARD (Art comptant pour rien)",
+      "talent_person_id": "laure-bernard",
+      "beneficiary_raw": "Image Mouvement",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-gweltazs",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Jimmy MAGARDEAU",
+      "talent_person_id": "jimmy-magardeau",
+      "beneficiary_raw": "Jimmy MAGARDEAU",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-anecdotique",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Mounib BEN ABBES (BA Mounib)",
+      "talent_person_id": "mounib-ben-abbes",
+      "beneficiary_raw": "Mounib BEN ABBES (BA Mounib)",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-chacun-pour-soi-dieu-pour-tous",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Angèle Chiodo et Adrienne Novak",
+      "talent_person_id": "angele-chiodo-et-adrienne-novak",
+      "beneficiary_raw": "Baldanders Films",
+      "amount": 28000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-skins-party",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Victor HABCHY",
+      "talent_person_id": "victor-habchy",
+      "beneficiary_raw": "Victor HABCHY",
+      "amount": 25000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-leopold",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Léopold Lemarchand",
+      "talent_person_id": "leopold-lemarchand",
+      "beneficiary_raw": "IDZ PROD",
+      "amount": 10000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-pionnieres",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Nora Bouazzouni",
+      "talent_person_id": "nora-bouazzouni",
+      "beneficiary_raw": "Partizan Films",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-ohouiiitoo",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Dora Moutot",
+      "talent_person_id": "dora-moutot",
+      "beneficiary_raw": "String Theory",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-bonjour-bonheur",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "MATTHIEU LONGATTE",
+      "talent_person_id": "matthieu-longatte",
+      "beneficiary_raw": "JOLI COUP PRODUCTION",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-les-docus-de-streetpress",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "StreetPress",
+      "beneficiary_raw": "StreetPress",
+      "amount": 40000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-yes-vous-aime-nouvelle-saison",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Yes Vous Aime",
+      "talent_person_id": "yes-vous-aime",
+      "beneficiary_raw": "Courte Focale Production",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-un-creatif",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Un Créatif",
+      "talent_person_id": "un-creatif",
+      "beneficiary_raw": "Nerd Entertainment System",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-wtfake",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Aude Favre",
+      "talent_person_id": "aude-favre",
+      "beneficiary_raw": "Zebra Production",
+      "amount": 30000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-aide-a-la-chaine-monsieur-phi",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Thibaut Giraud",
+      "talent_person_id": "thibaut-giraud",
+      "beneficiary_raw": "ÉPhiScience",
+      "amount": 15000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-cyprien-2019",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Cyprien Iov",
+      "talent_person_id": "cyprien-iov",
+      "beneficiary_raw": "Periple",
+      "amount": 30000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-on-est-pret",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "On est prêt !",
+      "beneficiary_raw": "We Are Updated",
+      "amount": 40000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-mister-geopolitix",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "Gildas Leprince",
+      "talent_person_id": "gildas-leprince",
+      "beneficiary_raw": "Mister Geopolitix",
+      "amount": 15000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2019-10-15-parlons-peu-mais-parlons",
+      "project_id": "",
+      "commission_id": "cnc-talent-2019-10-15",
+      "talent_raw": "PARLONS PEU MAIS PARLONS",
+      "talent_person_id": "parlons-peu-mais-parlons",
+      "beneficiary_raw": "KHOJANDI PRODUCTIONS",
+      "amount": 10000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

@@ -9,6 +9,7 @@ import (
 	"net/http"
 	"os"
 	"path/filepath"
+	"regexp"
 	"strings"
 	"time"
 
@@ -139,9 +140,9 @@ func (s *Scraper) Scrape(ctx context.Context, u CommissionURL) ([]*model.Commiss
 func (s *Scraper) parse(ctx context.Context, sourceURL, text string) ([]*model.Commission, error) {
 	userMsg := fmt.Sprintf("Source URL: %s\n\n---PAGE CONTENT---\n%s", sourceURL, text)
 
-	msg, err := s.client.Messages.New(ctx, anthropic.MessageNewParams{
+	stream := s.client.Messages.NewStreaming(ctx, anthropic.MessageNewParams{
 		Model:     anthropic.ModelClaudeHaiku4_5, // fast + cheap for extraction
-		MaxTokens: 8096,
+		MaxTokens: 32768,
 		System: []anthropic.TextBlockParam{
 			{Text: systemPrompt},
 		},
@@ -149,11 +150,19 @@ func (s *Scraper) parse(ctx context.Context, sourceURL, text string) ([]*model.C
 			anthropic.NewUserMessage(anthropic.NewTextBlock(userMsg)),
 		},
 	})
-	if err != nil {
+	defer stream.Close()
+
+	var msg anthropic.Message
+	for stream.Next() {
+		if err := msg.Accumulate(stream.Current()); err != nil {
+			return nil, fmt.Errorf("claude API accumulate: %w", err)
+		}
+	}
+	if err := stream.Err(); err != nil {
 		return nil, fmt.Errorf("claude API: %w", err)
 	}
 
-	raw := extractText(msg)
+	raw := extractText(&msg)
 	raw = strings.TrimSpace(raw)
 
 	// Claude sometimes wraps in a markdown code fence despite instructions.
@@ -285,16 +294,16 @@ func extractText(msg *anthropic.Message) string {
 	return ""
 }
 
+var codeFenceRe = regexp.MustCompile("(?s)^`{3,}[a-z]*\n(.*)\n`{3,}\\s*$")
+
 func stripCodeFence(s string) string {
+	if m := codeFenceRe.FindStringSubmatch(s); m != nil {
+		return strings.TrimSpace(m[1])
+	}
+	// Handle unclosed fence (truncated response): strip opening line only.
 	if strings.HasPrefix(s, "```") {
-		end := strings.Index(s[3:], "```")
-		if end != -1 {
-			// strip first line (```json) and last ```
-			inner := s[3 : 3+end]
-			if idx := strings.Index(inner, "\n"); idx != -1 {
-				inner = inner[idx+1:]
-			}
-			return strings.TrimSpace(inner)
+		if idx := strings.Index(s, "\n"); idx != -1 {
+			return strings.TrimSpace(s[idx+1:])
 		}
 	}
 	return s

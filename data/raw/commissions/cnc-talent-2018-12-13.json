@@ -1,0 +1,277 @@
+{
+  "id": "cnc-talent-2018-12-13",
+  "fund_name": "CNC Talent",
+  "date": "2018-12-13",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-13-decembre-2018_939596",
+  "jury": [
+    {
+      "person_id": "sophie-garric",
+      "raw_name": "Sophie Garric",
+      "role": "membre"
+    },
+    {
+      "person_id": "margaux-missika",
+      "raw_name": "Margaux Missica",
+      "role": "membre"
+    },
+    {
+      "person_id": "salam-jawad",
+      "raw_name": "Salam Jawad",
+      "role": "membre"
+    },
+    {
+      "person_id": "barbara-israel",
+      "raw_name": "Barbara Israël",
+      "role": "membre"
+    },
+    {
+      "person_id": "ina-mihalache",
+      "raw_name": "Ina Mihalache",
+      "role": "membre"
+    },
+    {
+      "person_id": "lorenzo-benedetti",
+      "raw_name": "Lorenzo Benedetti",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2018-12-13-lettre-ouverte-infini",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-12-13",
+      "talent_raw": "Nebuleuses et Cacao",
+      "talent_person_id": "corentin-kimenau",
+      "beneficiary_raw": "Corentin Kimenau",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-12-13-fusee-geante-n1",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-12-13",
+      "talent_raw": "Techniques Spatiales",
+      "talent_person_id": "techniques-spatiales",
+      "beneficiary_raw": "Stratespace",
+      "amount": 12500,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-12-13-flou-vie-theophile-gaussien",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-12-13",
+      "talent_raw": "Jérémy Strohm",
+      "talent_person_id": "jeremy-strohm",
+      "beneficiary_raw": "Centurions",
+      "amount": 6000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-12-13-amor-fati",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-12-13",
+      "talent_raw": "Dani Caligula",
+      "talent_person_id": "dani-caligula",
+      "beneficiary_raw": "Cool Films",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-12-13-comme-prevu",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-12-13",
+      "talent_raw": "Tommy-Lee Baïk",
+      "talent_person_id": "tommy-lee-baik",
+      "beneficiary_raw": "Patmol Studio",
+      "amount": 2000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-12-13-oldyssey",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-12-13",
+      "talent_raw": "Oldyssey",
+      "talent_person_id": "clement-boxebeld",
+      "beneficiary_raw": "Clément Boxebeld",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-12-13-normal",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-12-13",
+      "talent_raw": "MalcolmToTheWorld",
+      "talent_person_id": "malcolm-to-the-world",
+      "beneficiary_raw": "Yah Productions",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-12-13-bot-or-not",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-12-13",
+      "talent_raw": "String Theory",
+      "beneficiary_raw": "String Theory",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-12-13-enzo-champion-du-monde",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-12-13",
+      "talent_raw": "Hafid F. Benamar et So Foot",
+      "beneficiary_raw": "AllSo",
+      "amount": 10000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-12-13-unboxing",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-12-13",
+      "talent_raw": "McFly et Carlito",
+      "talent_person_id": "mcfly-et-carlito",
+      "beneficiary_raw": "Talent Web",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-12-13-teste-pour-nous",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-12-13",
+      "talent_raw": "Florence Fauquet et Armel Hemme",
+      "talent_person_id": "florence-fauquet-armel-hemme",
+      "beneficiary_raw": "Vents Contraires",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-12-13-question-youtubesque",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-12-13",
+      "talent_raw": "Poisson Fécond",
+      "talent_person_id": "poisson-fecond",
+      "beneficiary_raw": "Khundar",
+      "amount": 10000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-12-13-verite-sur-rose-carpet",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-12-13",
+      "talent_raw": "Rose Carpet",
+      "talent_person_id": "rose-carpet",
+      "beneficiary_raw": "GM6",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-12-13-bitme",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-12-13",
+      "talent_raw": "Louis Chamard",
+      "talent_person_id": "louis-chamard",
+      "beneficiary_raw": "Mr Louis Chamard",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-12-13-eleonore-costes",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-12-13",
+      "talent_raw": "Eleonore Costes",
+      "talent_person_id": "eleonore-costes",
+      "beneficiary_raw": "La Dame de Cœur",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-12-13-professeur-feuillage",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-12-13",
+      "talent_raw": "Professeur Feuillage",
+      "talent_person_id": "professeur-feuillage",
+      "beneficiary_raw": "Imagine 2050",
+      "amount": 10000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-12-13-ete-3",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-12-13",
+      "talent_raw": "Bigger Than Fiction",
+      "beneficiary_raw": "Bigger Than Fiction",
+      "amount": 30000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-12-13-balade-mentale-cabinet-curiosites",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-12-13",
+      "talent_raw": "Balade Mentale",
+      "talent_person_id": "theo-drieu",
+      "beneficiary_raw": "EEMC",
+      "amount": 35000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-12-13-j-terre",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-12-13",
+      "talent_raw": "Permavenir",
+      "talent_person_id": "permavenir",
+      "beneficiary_raw": "Sans Montage Ni Coupure",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2018-12-13-monde-jasmin",
+      "project_id": "",
+      "commission_id": "cnc-talent-2018-12-13",
+      "talent_raw": "Simon [Officiel]",
+      "talent_person_id": "simon-clair",
+      "beneficiary_raw": "GO-N Productions",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

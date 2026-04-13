@@ -2,60 +2,61 @@
   "id": "cnc-talent-2021-06-17",
   "fund_name": "CNC Talent",
   "date": "2021-06-17",
-  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-17-juin-2021_1517497",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-7-decembre-2021_1628468",
   "jury": [
     {
-      "person_id": "",
+      "person_id": "aude-gogny-goubert",
       "raw_name": "Aude Gogny-Goubert",
       "role": "président suppléant"
     },
     {
-      "person_id": "",
+      "person_id": "marie-agnely",
       "raw_name": "Marie Agnely",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "laurence-bagot",
       "raw_name": "Laurence Bagot",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "maurice-barthelemy",
       "raw_name": "Maurice Barthélemy",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "gilles-boussion",
       "raw_name": "Gilles Boussion",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "nicolas-capuron",
       "raw_name": "Nicolas Capuron",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "lison-daniel",
       "raw_name": "Lison Daniel",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "sophie-marie-larrouy",
       "raw_name": "Sophie-Marie Larrouy",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "lawrence-valin",
       "raw_name": "Lawrence Valin",
       "role": "membre"
     }
   ],
   "grants": [
     {
-      "id": "cnc-talent-2021-06-17-le-bel-age",
+      "id": "cnc-talent-2021-06-17-le-bel-âge",
       "project_id": "",
       "commission_id": "cnc-talent-2021-06-17",
       "talent_raw": "Léa BORDIER",
+      "talent_person_id": "lea-bordier",
       "beneficiary_raw": "Léa BORDIER",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -67,6 +68,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-06-17",
       "talent_raw": "Pablo PINASCO",
+      "talent_person_id": "pablo-pinasco",
       "beneficiary_raw": "CLOSE YOUR EYES",
       "amount": 22000,
       "aid_section": "aide_creation",
@@ -78,6 +80,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-06-17",
       "talent_raw": "Marine PERIN",
+      "talent_person_id": "marine-perin",
       "beneficiary_raw": "Make Change",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -89,6 +92,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-06-17",
       "talent_raw": "Jérémi STADLER",
+      "talent_person_id": "jeremi-stadler",
       "beneficiary_raw": "AnderAnderA Production",
       "amount": 25000,
       "aid_section": "aide_creation",
@@ -100,6 +104,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-06-17",
       "talent_raw": "Paul MARQUES DUARTE",
+      "talent_person_id": "paul-marques-duarte",
       "beneficiary_raw": "BLUE HOUR FILMS",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -107,10 +112,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2021-06-17-matiere-grise-saison-2",
+      "id": "cnc-talent-2021-06-17-matière-grise-saison-2",
       "project_id": "",
       "commission_id": "cnc-talent-2021-06-17",
       "talent_raw": "Fabien OLICARD",
+      "talent_person_id": "fabien-olicard",
       "beneficiary_raw": "SHERLOCK'S MIND",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -122,6 +128,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-06-17",
       "talent_raw": "Charlie JAMES",
+      "talent_person_id": "charlie-james",
       "beneficiary_raw": "Colors Paris",
       "amount": 5000,
       "aid_section": "aide_creation",
@@ -133,6 +140,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-06-17",
       "talent_raw": "Jean MASSIET",
+      "talent_person_id": "jean-massiet",
       "beneficiary_raw": "Alt Tab Productions",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -144,6 +152,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-06-17",
       "talent_raw": "Le Biais Vert",
+      "talent_person_id": "le-biais-vert",
       "beneficiary_raw": "Synchrone Médias",
       "amount": 50000,
       "aid_section": "aide_chaine",
@@ -155,6 +164,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-06-17",
       "talent_raw": "Chronik Fiction",
+      "talent_person_id": "chronik-fiction",
       "beneficiary_raw": "Chronik Fiction",
       "amount": 50000,
       "aid_section": "aide_chaine",
@@ -162,10 +172,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2021-06-17-francois-calvier",
+      "id": "cnc-talent-2021-06-17-françois-calvier",
       "project_id": "",
       "commission_id": "cnc-talent-2021-06-17",
       "talent_raw": "François CALVIER",
+      "talent_person_id": "francois-calvier",
       "beneficiary_raw": "Dix Dix-Neuf Productions SAS",
       "amount": 50000,
       "aid_section": "aide_chaine",

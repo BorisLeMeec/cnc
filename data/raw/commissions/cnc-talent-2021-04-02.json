@@ -2,50 +2,50 @@
   "id": "cnc-talent-2021-04-02",
   "fund_name": "CNC Talent",
   "date": "2021-04-02",
-  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-2-avril-2021_1461054",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-7-decembre-2021_1628468",
   "jury": [
     {
-      "person_id": "",
+      "person_id": "alexandra-mac-donald",
       "raw_name": "Alexandra Mac Donald",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "anthony-emmanuel",
       "raw_name": "Anthony Emmanuel",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "aude-gogny-goubert",
       "raw_name": "Aude Gogny-Goubert",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "galo-diallo",
       "raw_name": "Galo Diallo",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "gilles-boussion",
       "raw_name": "Gilles Boussion",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "lison-daniel",
       "raw_name": "Lison Daniel",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "maurice-barthelemy",
       "raw_name": "Maurice Barthelemy",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "marie-agnely",
       "raw_name": "Marie Agnely",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "pauline-clement",
       "raw_name": "Pauline Clément",
       "role": "membre"
     }
@@ -63,10 +63,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2021-04-02-mystere-et-boule-de-gomme",
+      "id": "cnc-talent-2021-04-02-mystère-et-boule-de-gomme",
       "project_id": "",
       "commission_id": "cnc-talent-2021-04-02",
       "talent_raw": "Les Beelzebros",
+      "talent_person_id": "les-beelzebros",
       "beneficiary_raw": "Trois Jours De Marche",
       "amount": 22000,
       "aid_section": "aide_creation",
@@ -78,6 +79,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-04-02",
       "talent_raw": "Carole Cassier",
+      "talent_person_id": "carole-cassier",
       "beneficiary_raw": "Carole Cassier",
       "amount": 20000,
       "aid_section": "aide_creation",
@@ -85,10 +87,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2021-04-02-les-castes",
+      "id": "cnc-talent-2021-04-02-les-castés",
       "project_id": "",
       "commission_id": "cnc-talent-2021-04-02",
       "talent_raw": "Jessy Dubuis",
+      "talent_person_id": "jessy-dubuis",
       "beneficiary_raw": "Jessy Dubuis",
       "amount": 5000,
       "aid_section": "aide_creation",
@@ -100,6 +103,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-04-02",
       "talent_raw": "Mehdi H'Hamdi",
+      "talent_person_id": "mehdi-hhamdi",
       "beneficiary_raw": "Centurions",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -111,6 +115,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-04-02",
       "talent_raw": "Lily Papamiltiades",
+      "talent_person_id": "lily-papamiltiades",
       "beneficiary_raw": "Cowboys Films",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -122,6 +127,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-04-02",
       "talent_raw": "Emy LTR",
+      "talent_person_id": "emy-ltr",
       "beneficiary_raw": "Studio71",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -129,10 +135,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2021-04-02-derriere-le-nez",
+      "id": "cnc-talent-2021-04-02-derrière-le-nez",
       "project_id": "",
       "commission_id": "cnc-talent-2021-04-02",
       "talent_raw": "Benoit Blanc",
+      "talent_person_id": "benoit-blanc",
       "beneficiary_raw": "Oups Prod",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -144,6 +151,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-04-02",
       "talent_raw": "Yoann Clemente",
+      "talent_person_id": "yoann-clemente",
       "beneficiary_raw": "Yoann Clemente",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -155,6 +163,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-04-02",
       "talent_raw": "Paye Ton Crush",
+      "talent_person_id": "paye-ton-crush",
       "beneficiary_raw": "Naya Films",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -166,6 +175,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-04-02",
       "talent_raw": "On Stairs",
+      "talent_person_id": "on-stairs",
       "beneficiary_raw": "Papi Films",
       "amount": 20000,
       "aid_section": "aide_creation",
@@ -177,6 +187,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-04-02",
       "talent_raw": "Sophie Nahum",
+      "talent_person_id": "sophie-nahum",
       "beneficiary_raw": "Hello Prod",
       "amount": 20000,
       "aid_section": "aide_creation",
@@ -188,6 +199,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-04-02",
       "talent_raw": "Alexandra Mignien \u0026 Alexa Lasfargues",
+      "talent_person_id": "alexandra-mignien-et-alexa-lasfargues",
       "beneficiary_raw": "Patmol Studio",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -195,10 +207,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2021-04-02-les-voyages-ecologiques-de-sophie-et-du-professeur-feuillage",
+      "id": "cnc-talent-2021-04-02-les-voyages-écologiques-de-sophie-et-du-professeur-feuillage",
       "project_id": "",
       "commission_id": "cnc-talent-2021-04-02",
       "talent_raw": "Lénie Cherino - Mathieu Duméry",
+      "talent_person_id": "lenie-cherino-mathieu-dumery",
       "beneficiary_raw": "We are updated",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -210,6 +223,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-04-02",
       "talent_raw": "Aude Favre",
+      "talent_person_id": "aude-favre",
       "beneficiary_raw": "Babel Doc",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -221,6 +235,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-04-02",
       "talent_raw": "Alyssa Delor",
+      "talent_person_id": "alyssa-delor",
       "beneficiary_raw": "Alyssa Delor",
       "amount": 5000,
       "aid_section": "aide_creation",
@@ -228,10 +243,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2021-04-02-bienvenue-aux-caraibes",
+      "id": "cnc-talent-2021-04-02-bienvenue-aux-caraïbes",
       "project_id": "",
       "commission_id": "cnc-talent-2021-04-02",
       "talent_raw": "French Baloo",
+      "talent_person_id": "french-baloo",
       "beneficiary_raw": "Le Baloo Show",
       "amount": 5000,
       "aid_section": "aide_creation",
@@ -239,10 +255,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2021-04-02-l-histoire-racontee-par-des-chaussettes",
+      "id": "cnc-talent-2021-04-02-l-histoire-racontée-par-des-chaussettes",
       "project_id": "",
       "commission_id": "cnc-talent-2021-04-02",
       "talent_raw": "l'histoire racontée par des chaussettes",
+      "talent_person_id": "l-histoire-racontee-par-des-chaussettes",
       "beneficiary_raw": "BY PRODUCTIONS",
       "amount": 50000,
       "aid_section": "aide_chaine",
@@ -254,6 +271,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-04-02",
       "talent_raw": "Calmos",
+      "talent_person_id": "calmos",
       "beneficiary_raw": "Phenomenes Films",
       "amount": 50000,
       "aid_section": "aide_chaine",
@@ -261,10 +279,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2021-04-02-developpement-de-la-chaine-youtube-ben-nevert",
+      "id": "cnc-talent-2021-04-02-développement-de-la-chaîne-youtube-ben-nevert",
       "project_id": "",
       "commission_id": "cnc-talent-2021-04-02",
       "talent_raw": "Ben Nevert",
+      "talent_person_id": "ben-nevert",
       "beneficiary_raw": "Vevs Prod",
       "amount": 50000,
       "aid_section": "aide_chaine",
@@ -272,10 +291,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2021-04-02-passe-sauvage",
+      "id": "cnc-talent-2021-04-02-passé-sauvage",
       "project_id": "",
       "commission_id": "cnc-talent-2021-04-02",
       "talent_raw": "Clothilde Chamussy",
+      "talent_person_id": "clothilde-chamussy",
       "beneficiary_raw": "Cairn Productions",
       "amount": 32000,
       "aid_section": "aide_chaine",

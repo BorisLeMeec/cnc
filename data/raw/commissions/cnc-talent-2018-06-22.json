@@ -2,35 +2,35 @@
   "id": "cnc-talent-2018-06-22",
   "fund_name": "CNC Talent",
   "date": "2018-06-22",
-  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-24-avril-2018_834996",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-13-decembre-2018_939596",
   "jury": [
     {
-      "person_id": "",
+      "person_id": "soufiane-adel",
       "raw_name": "Soufiane Adel",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "florent-bernard",
       "raw_name": "Florent Bernard",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "sophie-garric",
       "raw_name": "Sophie Garric",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "barbara-israel",
       "raw_name": "Barbara Israël",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "salam-jawad",
       "raw_name": "Salam Jawad",
       "role": "président suppléant"
     },
     {
-      "person_id": "",
+      "person_id": "ina-mihalache",
       "raw_name": "Ina Mihalache",
       "role": "membre"
     }
@@ -41,6 +41,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-06-22",
       "talent_raw": "Gaylord Cuvillier Libessart",
+      "talent_person_id": "gaylord-cuvillier-libessart",
       "beneficiary_raw": "Gaylord Cuvillier",
       "amount": 20000,
       "aid_section": "aide_creation",
@@ -48,10 +49,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2018-06-22-game-next-door",
+      "id": "cnc-talent-2018-06-22-game-next-door-saison-4",
       "project_id": "",
       "commission_id": "cnc-talent-2018-06-22",
       "talent_raw": "Hugo Terra",
+      "talent_person_id": "hugo-terra",
       "beneficiary_raw": "Hugo Terra",
       "amount": 9245,
       "aid_section": "aide_creation",
@@ -63,6 +65,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-06-22",
       "talent_raw": "Nicolas Berno",
+      "talent_person_id": "nicolas-berno",
       "beneficiary_raw": "Portrait Robot",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -74,6 +77,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-06-22",
       "talent_raw": "Arnaud Thiry",
+      "talent_person_id": "arnaud-thiry",
       "beneficiary_raw": "Arnaud Thiry",
       "amount": 10000,
       "aid_section": "aide_creation",
@@ -81,10 +85,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2018-06-22-le-bus",
+      "id": "cnc-talent-2018-06-22-bus",
       "project_id": "",
       "commission_id": "cnc-talent-2018-06-22",
       "talent_raw": "Jimmy Magardeau",
+      "talent_person_id": "jimmy-magardeau",
       "beneficiary_raw": "Jimmy Magardeau",
       "amount": 13000,
       "aid_section": "aide_creation",
@@ -103,10 +108,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2018-06-22-j-aime-bien-ces-images",
+      "id": "cnc-talent-2018-06-22-aime-bien-ces-images-saison-1",
       "project_id": "",
       "commission_id": "cnc-talent-2018-06-22",
       "talent_raw": "Martial Obry",
+      "talent_person_id": "martial-obry",
       "beneficiary_raw": "Martial Obry",
       "amount": 3000,
       "aid_section": "aide_creation",
@@ -114,10 +120,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2018-06-22-les-mythes-a-l-epreuve-de-l-archeologie",
+      "id": "cnc-talent-2018-06-22-mythes-epreuve-archeologie",
       "project_id": "",
       "commission_id": "cnc-talent-2018-06-22",
       "talent_raw": "Clothilde Chamussy",
+      "talent_person_id": "clothilde-chamussy",
       "beneficiary_raw": "Passé Sauvage",
       "amount": 10000,
       "aid_section": "aide_creation",
@@ -140,6 +147,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-06-22",
       "talent_raw": "Shirley Souagnon",
+      "talent_person_id": "shirley-souagnon",
       "beneficiary_raw": "ON TIME PRODCUTIONS",
       "amount": 50000,
       "aid_section": "aide_chaine",
@@ -151,6 +159,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-06-22",
       "talent_raw": "Swann Périssé",
+      "talent_person_id": "swann-perisse",
       "beneficiary_raw": "Spriss Productions",
       "amount": 50000,
       "aid_section": "aide_chaine",
@@ -162,6 +171,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-06-22",
       "talent_raw": "Cyprien",
+      "talent_person_id": "cyprien-iov",
       "beneficiary_raw": "Periple",
       "amount": 50000,
       "aid_section": "aide_chaine",
@@ -184,6 +194,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-06-22",
       "talent_raw": "Sandy Lobry",
+      "talent_person_id": "sandy-lobry",
       "beneficiary_raw": "Les frizés production",
       "amount": 25000,
       "aid_section": "aide_chaine",
@@ -195,6 +206,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-06-22",
       "talent_raw": "Léo Grasset",
+      "talent_person_id": "leo-grasset",
       "beneficiary_raw": "Nerd Entertainment System",
       "amount": 25000,
       "aid_section": "aide_chaine",

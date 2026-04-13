@@ -1,0 +1,277 @@
+{
+  "id": "cnc-talent-2021-12-07",
+  "fund_name": "CNC Talent",
+  "date": "2021-12-07",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-7-decembre-2021_1628468",
+  "jury": [
+    {
+      "person_id": "lawrence-valin",
+      "raw_name": "Lawrence Valin",
+      "role": "président suppléant"
+    },
+    {
+      "person_id": "marie-agnely",
+      "raw_name": "Marie Agnely",
+      "role": "membre"
+    },
+    {
+      "person_id": "maurice-barthelemy",
+      "raw_name": "Maurice Barthélemy",
+      "role": "membre"
+    },
+    {
+      "person_id": "nicolas-capuron",
+      "raw_name": "Nicolas Capuron",
+      "role": "membre"
+    },
+    {
+      "person_id": "alexandra-mignien",
+      "raw_name": "Alexandra MIgnien",
+      "role": "membre"
+    },
+    {
+      "person_id": "alexandra-mac-donald",
+      "raw_name": "Alexandra Macdonald",
+      "role": "membre"
+    },
+    {
+      "person_id": "oriane-hurard",
+      "raw_name": "Oriane Hurard",
+      "role": "membre"
+    },
+    {
+      "person_id": "sophie-marie-larrouy",
+      "raw_name": "Sophie-Marie Larrouy",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2021-12-07-compositrices-dessinées",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-12-07",
+      "talent_raw": "Luzzati Héloïse",
+      "talent_person_id": "heloise-luzzati",
+      "beneficiary_raw": "Elles",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-12-07-vieux-de-la-vieille",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-12-07",
+      "talent_raw": "Oldyssey",
+      "talent_person_id": "clement-boxebeld",
+      "beneficiary_raw": "Old Stories Production",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-12-07-23h59",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-12-07",
+      "talent_raw": "Quentin Herlemont \u0026 Thibault Gilles",
+      "talent_person_id": "quentin-herlemont-thibault-gilles",
+      "beneficiary_raw": "E.N.D. Télévision",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-12-07-sequencial",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-12-07",
+      "talent_raw": "Bruno Caetano",
+      "talent_person_id": "bruno-caetano",
+      "beneficiary_raw": "Wild Stream",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-12-07-how-to-be-your-own-best-friend",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-12-07",
+      "talent_raw": "Inès Banzet-Benhagouga",
+      "talent_person_id": "ines-banzet-benhagouga",
+      "beneficiary_raw": "We Are Updated",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-12-07-comment-tu-dates",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-12-07",
+      "talent_raw": "Marie de Brauer",
+      "talent_person_id": "marie-de-brauer",
+      "beneficiary_raw": "Trois Jours De Marche",
+      "amount": 29600,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-12-07-arctic-fools",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-12-07",
+      "talent_raw": "Jusqu'au Bout de Vos Rêves",
+      "talent_person_id": "jusquau-bout-de-vos-reves",
+      "beneficiary_raw": "Jusqu'au Bout de Vos Rêves",
+      "amount": 23500,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-12-07-les-garçons-bleus-12-saudades",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-12-07",
+      "talent_raw": "Francisco Bianchi",
+      "talent_person_id": "francisco-bianchi",
+      "beneficiary_raw": "Mood Films Production",
+      "amount": 22000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-12-07-le-jeu-de-l-autostoppeur",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-12-07",
+      "talent_raw": "Victor Hérault",
+      "talent_person_id": "victor-herault",
+      "beneficiary_raw": "SOURIRE PRODUCTIONS",
+      "amount": 19000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-12-07-deshabille-moi",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-12-07",
+      "talent_raw": "Florent Médina",
+      "talent_person_id": "florent-medina",
+      "beneficiary_raw": "Félicité Production",
+      "amount": 15500,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-12-07-ultras-l-autre-révolution-arabe",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-12-07",
+      "talent_raw": "Battikh Sami",
+      "talent_person_id": "sami-battikh",
+      "beneficiary_raw": "Société Contre-Courant",
+      "amount": 14000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-12-07-selfie-storique",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-12-07",
+      "talent_raw": "SELFIE'STORIQUE",
+      "talent_person_id": "selfiestorique",
+      "beneficiary_raw": "PANDORA Création",
+      "amount": 11000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-12-07-la-république-en-pagne",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-12-07",
+      "talent_raw": "Super Pâté",
+      "talent_person_id": "super-pate",
+      "beneficiary_raw": "WA! PRODUCTIONS",
+      "amount": 7500,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-12-07-alors-media",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-12-07",
+      "talent_raw": "ALORS MEDIA",
+      "beneficiary_raw": "Flair Production",
+      "amount": 25900,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-12-07-le-mystère-pikachu",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-12-07",
+      "talent_raw": "Alexandre Labarussiat",
+      "talent_person_id": "alexandre-labarussiat",
+      "beneficiary_raw": "Hippocampe Productions",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-12-07-anouk",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-12-07",
+      "talent_raw": "Julien Aveque",
+      "talent_person_id": "julien-aveque",
+      "beneficiary_raw": "SOURIRE PRODUCTIONS",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-12-07-aude-gg",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-12-07",
+      "talent_raw": "Aude GG",
+      "talent_person_id": "aude-gogny-goubert",
+      "beneficiary_raw": "Make Change",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-12-07-chroniques-chaotiques",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-12-07",
+      "talent_raw": "Christophe ASSELIN",
+      "talent_person_id": "christophe-asselin",
+      "beneficiary_raw": "We Are Updated",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2021-12-07-scilabus",
+      "project_id": "",
+      "commission_id": "cnc-talent-2021-12-07",
+      "talent_raw": "SCILABUS",
+      "talent_person_id": "viviane-lalande",
+      "beneficiary_raw": "Cairn Productions",
+      "amount": 47000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

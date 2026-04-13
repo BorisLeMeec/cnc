@@ -2,50 +2,50 @@
   "id": "cnc-talent-2020-10-15",
   "fund_name": "CNC Talent",
   "date": "2020-10-15",
-  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-18-juin-2020_1367472",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-15-octobre-2020_1395148",
   "jury": [
     {
-      "person_id": "",
+      "person_id": "romain-gavras",
       "raw_name": "Romain Gavras",
       "role": "président"
     },
     {
-      "person_id": "",
+      "person_id": "maurice-barthelemy",
       "raw_name": "Maurice Barthelemy",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "galo-diallo",
       "raw_name": "Galo Diallo",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "nicolas-capuron",
       "raw_name": "Nicolas Capuron",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "barbara-israel",
       "raw_name": "Barbara Israël",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "salam-jawad",
       "raw_name": "Salam Jawad",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "lawrence-valin",
       "raw_name": "Lawrence Valin",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "sophie-garric",
       "raw_name": "Sophie Garric",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "aude-gogny-goubert",
       "raw_name": "Aude Gogny-Goubert",
       "role": "membre"
     }
@@ -56,6 +56,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2020-10-15",
       "talent_raw": "Eléonore Costes",
+      "talent_person_id": "eleonore-costes",
       "beneficiary_raw": "Portrait robot",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -67,6 +68,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2020-10-15",
       "talent_raw": "Lou Howard",
+      "talent_person_id": "lou-howard",
       "beneficiary_raw": "Jayus",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -74,10 +76,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-10-15-la-vingtaine-en-quarantaine",
+      "id": "cnc-talent-2020-10-15-vingtaine-en-quarantaine",
       "project_id": "",
       "commission_id": "cnc-talent-2020-10-15",
       "talent_raw": "Irvin Anneix",
+      "talent_person_id": "irvin-anneix",
       "beneficiary_raw": "Narrative",
       "amount": 20000,
       "aid_section": "aide_creation",
@@ -89,6 +92,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2020-10-15",
       "talent_raw": "Pascal Goblot",
+      "talent_person_id": "pascal-goblot",
       "beneficiary_raw": "ESCALENTA",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -100,6 +104,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2020-10-15",
       "talent_raw": "Fussoir",
+      "talent_person_id": "fussoir",
       "beneficiary_raw": "YES SIR FILMS",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -107,10 +112,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-10-15-le-chat-la-femme-et-le-scanner",
+      "id": "cnc-talent-2020-10-15-chat-femme-scanner",
       "project_id": "",
       "commission_id": "cnc-talent-2020-10-15",
       "talent_raw": "Solène Azoulay",
+      "talent_person_id": "solene-azoulay",
       "beneficiary_raw": "Solène Azoulay",
       "amount": 20000,
       "aid_section": "aide_creation",
@@ -122,6 +128,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2020-10-15",
       "talent_raw": "Lisa Miquet",
+      "talent_person_id": "lisa-miquet",
       "beneficiary_raw": "Lisa Miquet",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -129,10 +136,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-10-15-une-annee-dans-les-vignes",
+      "id": "cnc-talent-2020-10-15-annee-dans-vignes",
       "project_id": "",
       "commission_id": "cnc-talent-2020-10-15",
       "talent_raw": "Thibault Jandot",
+      "talent_person_id": "thibault-jandot",
       "beneficiary_raw": "Thibault Jandot",
       "amount": 7200,
       "aid_section": "aide_creation",
@@ -144,6 +152,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2020-10-15",
       "talent_raw": "Juliette Tresanini",
+      "talent_person_id": "juliette-tresanini",
       "beneficiary_raw": "IDZ PROD",
       "amount": 25000,
       "aid_section": "aide_creation",
@@ -151,10 +160,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-10-15-ko-a-terre-mais-jamais-vaincu",
+      "id": "cnc-talent-2020-10-15-ko-a-terre",
       "project_id": "",
       "commission_id": "cnc-talent-2020-10-15",
       "talent_raw": "Boxing Academy",
+      "talent_person_id": "boxing-academy",
       "beneficiary_raw": "Vroom",
       "amount": 20000,
       "aid_section": "aide_creation",
@@ -166,6 +176,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2020-10-15",
       "talent_raw": "Allison Chassagne",
+      "talent_person_id": "allison-chassagne",
       "beneficiary_raw": "Joji Prod",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -173,10 +184,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-10-15-bandigou-de-melun-ep1",
+      "id": "cnc-talent-2020-10-15-bandigou-de-melun",
       "project_id": "",
       "commission_id": "cnc-talent-2020-10-15",
       "talent_raw": "Christian Nsankete",
+      "talent_person_id": "christian-nsankete",
       "beneficiary_raw": "Christian Nsankete",
       "amount": 20000,
       "aid_section": "aide_creation",
@@ -184,10 +196,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-10-15-je-me-suis-encore-perdue-sur-internet",
+      "id": "cnc-talent-2020-10-15-perdue-internet",
       "project_id": "",
       "commission_id": "cnc-talent-2020-10-15",
       "talent_raw": "Viviane Lalande",
+      "talent_person_id": "viviane-lalande",
       "beneficiary_raw": "Stup",
       "amount": 20000,
       "aid_section": "aide_creation",
@@ -195,10 +208,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-10-15-lalimentation-du-futur",
+      "id": "cnc-talent-2020-10-15-alimentation-futur",
       "project_id": "",
       "commission_id": "cnc-talent-2020-10-15",
       "talent_raw": "Passé sauvage",
+      "talent_person_id": "passe-sauvage",
       "beneficiary_raw": "Passé sauvage",
       "amount": 3000,
       "aid_section": "aide_creation",
@@ -206,10 +220,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-10-15-damoiselle",
+      "id": "cnc-talent-2020-10-15-damoiselle-réécriture",
       "project_id": "",
       "commission_id": "cnc-talent-2020-10-15",
       "talent_raw": "Ambre Larrazet et Queenie Tassell",
+      "talent_person_id": "ambre-larrazet-et-queenie-tassell",
       "beneficiary_raw": "JEFF \u0026 OCTAVE",
       "amount": 3000,
       "aid_section": "aide_creation",
@@ -217,10 +232,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-10-15-le-monde-enquete",
+      "id": "cnc-talent-2020-10-15-monde-enquête",
       "project_id": "",
       "commission_id": "cnc-talent-2020-10-15",
       "talent_raw": "Asia Balluffier, Marc Bettinelli et Arthur Carpent",
+      "talent_person_id": "asia-balluffier-marc-bettinelli-et-arthur-carpent",
       "beneficiary_raw": "Le Monde",
       "amount": 50000,
       "aid_section": "aide_chaine",
@@ -228,10 +244,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2020-10-15-mirux-realisation-lancement-deuxieme-saison-le-carre",
+      "id": "cnc-talent-2020-10-15-mirux-le-carre",
       "project_id": "",
       "commission_id": "cnc-talent-2020-10-15",
       "talent_raw": "Samir Tidmint",
+      "talent_person_id": "samir-tidmint",
       "beneficiary_raw": "RéHall 32",
       "amount": 50000,
       "aid_section": "aide_chaine",

@@ -1,0 +1,4630 @@
+[
+  {
+    "talent_raw": "ALORS MEDIA",
+    "type": "company",
+    "real_name": "Alors Media",
+    "person_slug": "alors-media",
+    "confidence": "high",
+    "notes": "Media company/YouTube channel collective"
+  },
+  {
+    "talent_raw": "Acteur Du Nord",
+    "type": "company",
+    "real_name": "Acteur Du Nord",
+    "person_slug": "acteur-du-nord",
+    "confidence": "medium",
+    "notes": "Appears to be a collective or regional media entity"
+  },
+  {
+    "talent_raw": "Adnane Tragha et Frank Lao",
+    "type": "person",
+    "real_name": "Adnane Tragha et Frank Lao",
+    "person_slug": "adnane-tragha-et-frank-lao",
+    "confidence": "high",
+    "notes": "Duo of individual creators"
+  },
+  {
+    "talent_raw": "Adrien Dubois FEYAERTS",
+    "type": "person",
+    "real_name": "Adrien Dubois Feyaerts",
+    "person_slug": "adrien-dubois-feyaerts",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Akim Omiri",
+    "type": "person",
+    "real_name": "Akim Omiri",
+    "person_slug": "akim-omiri",
+    "confidence": "high",
+    "notes": "French YouTuber/creator"
+  },
+  {
+    "talent_raw": "AlexFrenchGuyCooking",
+    "type": "person",
+    "real_name": "Alex Cuisine",
+    "person_slug": "alex-cuisine",
+    "confidence": "medium",
+    "notes": "YouTube cooking channel; real name believed to be Alex Cuisine or Alexandre, exact surname uncertain"
+  },
+  {
+    "talent_raw": "Alexandra Mignien",
+    "type": "person",
+    "real_name": "Alexandra Mignien",
+    "person_slug": "alexandra-mignien",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Alexandra Mignien \u0026 Alexa Lasfargues",
+    "type": "person",
+    "real_name": "Alexandra Mignien \u0026 Alexa Lasfargues",
+    "person_slug": "alexandra-mignien-et-alexa-lasfargues",
+    "confidence": "high",
+    "notes": "Duo of individual creators"
+  },
+  {
+    "talent_raw": "Alexandra Mignien et Maxime Lavalle",
+    "type": "person",
+    "real_name": "Alexandra Mignien et Maxime Lavalle",
+    "person_slug": "alexandra-mignien-et-maxime-lavalle",
+    "confidence": "high",
+    "notes": "Duo of individual creators"
+  },
+  {
+    "talent_raw": "Alexandre Blain",
+    "type": "person",
+    "real_name": "Alexandre Blain",
+    "person_slug": "alexandre-blain",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Alexandre DESANE",
+    "type": "person",
+    "real_name": "Alexandre Desane",
+    "person_slug": "alexandre-desane",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Alexandre DUBOSC",
+    "type": "person",
+    "real_name": "Alexandre Dubosc",
+    "person_slug": "alexandre-dubosc",
+    "confidence": "high",
+    "notes": "French digital/video artist"
+  },
+  {
+    "talent_raw": "Alexandre Dubosc",
+    "type": "person",
+    "real_name": "Alexandre Dubosc",
+    "person_slug": "alexandre-dubosc",
+    "confidence": "high",
+    "notes": "French digital/video artist"
+  },
+  {
+    "talent_raw": "Alexandre Jollien",
+    "type": "person",
+    "real_name": "Alexandre Jollien",
+    "person_slug": "alexandre-jollien",
+    "confidence": "high",
+    "notes": "Swiss philosopher and author"
+  },
+  {
+    "talent_raw": "Alexandre Labarussiat",
+    "type": "person",
+    "real_name": "Alexandre Labarussiat",
+    "person_slug": "alexandre-labarussiat",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Alexandre Marinelli alias Slexno",
+    "type": "person",
+    "real_name": "Alexandre Marinelli",
+    "person_slug": "alexandre-marinelli",
+    "confidence": "high",
+    "notes": "Known online as Slexno"
+  },
+  {
+    "talent_raw": "Alexandre Pierrin",
+    "type": "person",
+    "real_name": "Alexandre Pierrin",
+    "person_slug": "alexandre-pierrin",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Alexandre SERVAGE",
+    "type": "person",
+    "real_name": "Alexandre Servage",
+    "person_slug": "alexandre-servage",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Alexis Bellas",
+    "type": "person",
+    "real_name": "Alexis Bellas",
+    "person_slug": "alexis-bellas",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Aliciane Guitard et Pierre Kerner",
+    "type": "person",
+    "real_name": "Aliciane Guitard et Pierre Kerner",
+    "person_slug": "aliciane-guitard-et-pierre-kerner",
+    "confidence": "high",
+    "notes": "Duo of individual creators"
+  },
+  {
+    "talent_raw": "Alix Martineau et Kalindi Ramphul",
+    "type": "person",
+    "real_name": "Alix Martineau et Kalindi Ramphul",
+    "person_slug": "alix-martineau-et-kalindi-ramphul",
+    "confidence": "high",
+    "notes": "Duo of individual creators"
+  },
+  {
+    "talent_raw": "Allison Chassagne",
+    "type": "person",
+    "real_name": "Allison Chassagne",
+    "person_slug": "allison-chassagne",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Alphacast",
+    "type": "person",
+    "real_name": "Alphacast",
+    "person_slug": "alphacast",
+    "confidence": "medium",
+    "notes": "YouTube/gaming channel name; real name not identified"
+  },
+  {
+    "talent_raw": "Alt236",
+    "type": "person",
+    "real_name": "Alt236",
+    "person_slug": "alt236",
+    "confidence": "medium",
+    "notes": "YouTube channel name; real name not identified"
+  },
+  {
+    "talent_raw": "Alyssa Delor",
+    "type": "person",
+    "real_name": "Alyssa Delor",
+    "person_slug": "alyssa-delor",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Amarre",
+    "type": "person",
+    "real_name": "Antonin Marcel",
+    "person_slug": "antonin-marcel",
+    "confidence": "high",
+    "notes": "Channel name Amarre; real name from beneficiary listing"
+  },
+  {
+    "talent_raw": "Amaury et Quentin",
+    "type": "person",
+    "real_name": "Amaury et Quentin",
+    "person_slug": "amaury-et-quentin",
+    "confidence": "medium",
+    "notes": "Duo; likely Amaury Goguel and Quentin from Golden Moustache, full surnames uncertain"
+  },
+  {
+    "talent_raw": "Ambre Larrazet",
+    "type": "person",
+    "real_name": "Ambre Larrazet",
+    "person_slug": "ambre-larrazet",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Ambre Larrazet et Queenie Tassell",
+    "type": "person",
+    "real_name": "Ambre Larrazet et Queenie Tassell",
+    "person_slug": "ambre-larrazet-et-queenie-tassell",
+    "confidence": "high",
+    "notes": "Duo of individual creators"
+  },
+  {
+    "talent_raw": "Ambroise Carminati (chaîne Sympa Cool)",
+    "type": "person",
+    "real_name": "Ambroise Carminati",
+    "person_slug": "ambroise-carminati",
+    "confidence": "high",
+    "notes": "Known for YouTube channel Sympa Cool"
+  },
+  {
+    "talent_raw": "Anatole Chouard",
+    "type": "person",
+    "real_name": "Anatole Chouard",
+    "person_slug": "anatole-chouard",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Anaïs VOLPÉ",
+    "type": "person",
+    "real_name": "Anaïs Volpé",
+    "person_slug": "anais-volpe",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Anaïs Volpé",
+    "type": "person",
+    "real_name": "Anaïs Volpé",
+    "person_slug": "anais-volpe",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Angèle Chiodo et Adrienne Novak",
+    "type": "person",
+    "real_name": "Angèle Chiodo et Adrienne Novak",
+    "person_slug": "angele-chiodo-et-adrienne-novak",
+    "confidence": "high",
+    "notes": "Duo of individual creators"
+  },
+  {
+    "talent_raw": "Antoine SALAÜN",
+    "type": "person",
+    "real_name": "Antoine Salaün",
+    "person_slug": "antoine-salaun",
+    "confidence": "high",
+    "notes": "YouTube science channel Antoine VS Science"
+  },
+  {
+    "talent_raw": "Antoine Salaün",
+    "type": "person",
+    "real_name": "Antoine Salaün",
+    "person_slug": "antoine-salaun",
+    "confidence": "high",
+    "notes": "YouTube science channel Antoine VS Science"
+  },
+  {
+    "talent_raw": "Antoine Shoumsky",
+    "type": "person",
+    "real_name": "Antoine Shoumsky",
+    "person_slug": "antoine-shoumsky",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Antoine Smith",
+    "type": "person",
+    "real_name": "Antoine Smith",
+    "person_slug": "antoine-smith",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "AntsFourmis",
+    "type": "person",
+    "real_name": "Anthony Basille",
+    "person_slug": "anthony-basille",
+    "confidence": "high",
+    "notes": "YouTube channel AntsFourmis; real name from beneficiary Basille Anthony"
+  },
+  {
+    "talent_raw": "Appelle-Moi Poésie",
+    "type": "person",
+    "real_name": "Appelle-Moi Poésie",
+    "person_slug": "appelle-moi-poesie",
+    "confidence": "medium",
+    "notes": "YouTube channel name; real name not identified"
+  },
+  {
+    "talent_raw": "Arcade",
+    "type": "person",
+    "real_name": "Arcade",
+    "person_slug": "arcade",
+    "confidence": "low",
+    "notes": "Channel/pseudonym; real name not identified"
+  },
+  {
+    "talent_raw": "Arnaud Huck",
+    "type": "person",
+    "real_name": "Arnaud Huck",
+    "person_slug": "arnaud-huck",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Arnaud Thiry",
+    "type": "person",
+    "real_name": "Arnaud Thiry",
+    "person_slug": "arnaud-thiry",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Arthur Rafié / Eifar",
+    "type": "person",
+    "real_name": "Arthur Rafié",
+    "person_slug": "arthur-rafie",
+    "confidence": "high",
+    "notes": "Known online as Eifar"
+  },
+  {
+    "talent_raw": "Asia Balluffier, Marc Bettinelli et Arthur Carpent",
+    "type": "person",
+    "real_name": "Asia Balluffier, Marc Bettinelli et Arthur Carpent",
+    "person_slug": "asia-balluffier-marc-bettinelli-et-arthur-carpent",
+    "confidence": "high",
+    "notes": "Trio of journalists/creators for Le Monde"
+  },
+  {
+    "talent_raw": "Association Cinewax",
+    "type": "company",
+    "real_name": "Association Cinewax",
+    "person_slug": "association-cinewax",
+    "confidence": "high",
+    "notes": "Association/organization focused on African cinema"
+  },
+  {
+    "talent_raw": "Athéna Sol",
+    "type": "person",
+    "real_name": "Athéna Sol",
+    "person_slug": "athena-sol",
+    "confidence": "medium",
+    "notes": "May be a pseudonym; real name not identified"
+  },
+  {
+    "talent_raw": "Aude Favre",
+    "type": "person",
+    "real_name": "Aude Favre",
+    "person_slug": "aude-favre",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Aude GG",
+    "type": "person",
+    "real_name": "Aude Gogny-Goubert",
+    "person_slug": "aude-gogny-goubert",
+    "confidence": "high",
+    "notes": "Known online as Aude GG; real name from other CNC entry"
+  },
+  {
+    "talent_raw": "Aude GOGNY-GOUBERT",
+    "type": "person",
+    "real_name": "Aude Gogny-Goubert",
+    "person_slug": "aude-gogny-goubert",
+    "confidence": "high",
+    "notes": "Also known as Aude GG online"
+  },
+  {
+    "talent_raw": "Aurélie Leveau",
+    "type": "person",
+    "real_name": "Aurélie Leveau",
+    "person_slug": "aurelie-leveau",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Avant l'Orage",
+    "type": "person",
+    "real_name": "Avant l'Orage",
+    "person_slug": "avant-l-orage",
+    "confidence": "low",
+    "notes": "Channel/pseudonym; real name not identified"
+  },
+  {
+    "talent_raw": "Avner",
+    "type": "person",
+    "real_name": "Avner Peres",
+    "person_slug": "avner-peres",
+    "confidence": "high",
+    "notes": "First name only; full name from other CNC entries"
+  },
+  {
+    "talent_raw": "Avner PERES",
+    "type": "person",
+    "real_name": "Avner Peres",
+    "person_slug": "avner-peres",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Avner Peres",
+    "type": "person",
+    "real_name": "Avner Peres",
+    "person_slug": "avner-peres",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Axel LATTUADA",
+    "type": "person",
+    "real_name": "Axel Lattuada",
+    "person_slug": "axel-lattuada",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Axolot",
+    "type": "person",
+    "real_name": "Patrick Baud",
+    "person_slug": "patrick-baud",
+    "confidence": "high",
+    "notes": "YouTube channel Axolot run by Patrick Baud"
+  },
+  {
+    "talent_raw": "BA Mounib (Mounib Ben Abbes)",
+    "type": "person",
+    "real_name": "Mounib Ben Abbes",
+    "person_slug": "mounib-ben-abbes",
+    "confidence": "high",
+    "notes": "Known as BA Mounib online"
+  },
+  {
+    "talent_raw": "BARBARA BALESTAS KAZAZIAN",
+    "type": "person",
+    "real_name": "Barbara Balestas Kazazian",
+    "person_slug": "barbara-balestas-kazazian",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Balade Mentale",
+    "type": "person",
+    "real_name": "Théo Drieu",
+    "person_slug": "theo-drieu",
+    "confidence": "high",
+    "notes": "YouTube channel Balade Mentale run by Théo Drieu"
+  },
+  {
+    "talent_raw": "Balade mentale",
+    "type": "person",
+    "real_name": "Théo Drieu",
+    "person_slug": "theo-drieu",
+    "confidence": "high",
+    "notes": "YouTube channel Balade Mentale run by Théo Drieu"
+  },
+  {
+    "talent_raw": "Baladementale",
+    "type": "person",
+    "real_name": "Théo Drieu",
+    "person_slug": "theo-drieu",
+    "confidence": "high",
+    "notes": "YouTube channel Balade Mentale run by Théo Drieu"
+  },
+  {
+    "talent_raw": "Balak (Yves Bigerel)",
+    "type": "person",
+    "real_name": "Yves Bigerel",
+    "person_slug": "yves-bigerel",
+    "confidence": "high",
+    "notes": "Known online as Balak; co-creator of Bobbypills"
+  },
+  {
+    "talent_raw": "BanlieusardNouveau",
+    "type": "person",
+    "real_name": "BanlieusardNouveau",
+    "person_slug": "banlieusard-nouveau",
+    "confidence": "medium",
+    "notes": "YouTube channel name; real name not identified"
+  },
+  {
+    "talent_raw": "Battikh Sami",
+    "type": "person",
+    "real_name": "Sami Battikh",
+    "person_slug": "sami-battikh",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Ben Nevert",
+    "type": "person",
+    "real_name": "Ben Nevert",
+    "person_slug": "ben-nevert",
+    "confidence": "medium",
+    "notes": "Likely a pseudonym; real name not identified"
+  },
+  {
+    "talent_raw": "Benjamin Brillaud (dit Nota Bene)",
+    "type": "person",
+    "real_name": "Benjamin Brillaud",
+    "person_slug": "benjamin-brillaud",
+    "confidence": "high",
+    "notes": "Known online as Nota Bene; French history YouTuber"
+  },
+  {
+    "talent_raw": "Benjamin LAPIERRE",
+    "type": "person",
+    "real_name": "Benjamin Lapierre",
+    "person_slug": "benjamin-lapierre",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Benjamin da Cunha",
+    "type": "person",
+    "real_name": "Benjamin da Cunha",
+    "person_slug": "benjamin-da-cunha",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Benoit Blanc",
+    "type": "person",
+    "real_name": "Benoit Blanc",
+    "person_slug": "benoit-blanc",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Benoit Blanc \u0026 Riad Gahmi",
+    "type": "person",
+    "real_name": "Benoit Blanc \u0026 Riad Gahmi",
+    "person_slug": "benoit-blanc-et-riad-gahmi",
+    "confidence": "high",
+    "notes": "Duo of individual creators"
+  },
+  {
+    "talent_raw": "Benoit Le Corre",
+    "type": "person",
+    "real_name": "Benoit Le Corre",
+    "person_slug": "benoit-le-corre",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Benzprod",
+    "type": "person",
+    "real_name": "Benzprod",
+    "person_slug": "benzprod",
+    "confidence": "medium",
+    "notes": "YouTube channel/pseudonym; real name not identified"
+  },
+  {
+    "talent_raw": "Bigger Than Fiction",
+    "type": "company",
+    "real_name": "Bigger Than Fiction",
+    "person_slug": "bigger-than-fiction",
+    "confidence": "medium",
+    "notes": "Appears to be a media/production collective"
+  },
+  {
+    "talent_raw": "Bisskit (Amadou Diallo)",
+    "type": "person",
+    "real_name": "Amadou Diallo",
+    "person_slug": "amadou-diallo",
+    "confidence": "high",
+    "notes": "Known online as Bisskit"
+  },
+  {
+    "talent_raw": "Blackvision",
+    "type": "person",
+    "real_name": "Blackvision",
+    "person_slug": "blackvision",
+    "confidence": "medium",
+    "notes": "Channel/pseudonym; real name not identified"
+  },
+  {
+    "talent_raw": "Blast, Le souffle de l'info",
+    "type": "company",
+    "real_name": "Blast, Le souffle de l'info",
+    "person_slug": "blast-le-souffle-de-l-info",
+    "confidence": "high",
+    "notes": "Independent online news media outlet"
+  },
+  {
+    "talent_raw": "Bob Dylem",
+    "type": "person",
+    "real_name": "Dylan Perez",
+    "person_slug": "dylan-perez",
+    "confidence": "high",
+    "notes": "Known online as Bob Dylem; real name from beneficiary listing"
+  },
+  {
+    "talent_raw": "Bolchegeek",
+    "type": "person",
+    "real_name": "Bolchegeek",
+    "person_slug": "bolchegeek",
+    "confidence": "medium",
+    "notes": "YouTube channel name; real name not identified"
+  },
+  {
+    "talent_raw": "Booska-P",
+    "type": "company",
+    "real_name": "Booska-P",
+    "person_slug": "booska-p",
+    "confidence": "high",
+    "notes": "French hip-hop media website/company"
+  },
+  {
+    "talent_raw": "Bouchra OUIKOU",
+    "type": "person",
+    "real_name": "Bouchra Ouikou",
+    "person_slug": "bouchra-ouikou",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Boxing Academy",
+    "type": "person",
+    "real_name": "Boxing Academy",
+    "person_slug": "boxing-academy",
+    "confidence": "low",
+    "notes": "YouTube channel name; real name not identified"
+  },
+  {
+    "talent_raw": "Brice Vincent",
+    "type": "person",
+    "real_name": "Brice Vincent",
+    "person_slug": "brice-vincent",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Brigitte Lecordier",
+    "type": "person",
+    "real_name": "Brigitte Lecordier",
+    "person_slug": "brigitte-lecordier",
+    "confidence": "high",
+    "notes": "French voice actress and creator"
+  },
+  {
+    "talent_raw": "Bruno Caetano",
+    "type": "person",
+    "real_name": "Bruno Caetano",
+    "person_slug": "bruno-caetano",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Bruno Sevaistre",
+    "type": "person",
+    "real_name": "Bruno Sevaistre",
+    "person_slug": "bruno-sevaistre",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Brut",
+    "type": "company",
+    "real_name": "Brut",
+    "person_slug": "brut",
+    "confidence": "high",
+    "notes": "French digital media company"
+  },
+  {
+    "talent_raw": "CALMOS",
+    "type": "person",
+    "real_name": "Calmos",
+    "person_slug": "calmos",
+    "confidence": "medium",
+    "notes": "YouTube channel/pseudonym; real name not identified"
+  },
+  {
+    "talent_raw": "CAYLA Romain",
+    "type": "person",
+    "real_name": "Romain Cayla",
+    "person_slug": "romain-cayla",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "CERTE MATHURIN",
+    "type": "person",
+    "real_name": "Mathurin Certe",
+    "person_slug": "mathurin-certe",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Calmos",
+    "type": "person",
+    "real_name": "Calmos",
+    "person_slug": "calmos",
+    "confidence": "medium",
+    "notes": "YouTube channel/pseudonym; real name not identified"
+  },
+  {
+    "talent_raw": "Calvin Lutherer",
+    "type": "person",
+    "real_name": "Calvin Lutherer",
+    "person_slug": "calvin-lutherer",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Camille \u0026 Justine",
+    "type": "person",
+    "real_name": "Camille \u0026 Justine",
+    "person_slug": "camille-et-justine",
+    "confidence": "medium",
+    "notes": "Duo; full surnames not identified"
+  },
+  {
+    "talent_raw": "Camille Courcy",
+    "type": "person",
+    "real_name": "Camille Courcy",
+    "person_slug": "camille-courcy",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Camille Ghanassia",
+    "type": "person",
+    "real_name": "Camille Ghanassia",
+    "person_slug": "camille-ghanassia",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Camille Hinas \u0026 Illiès Boussaha",
+    "type": "person",
+    "real_name": "Camille Hinas \u0026 Illiès Boussaha",
+    "person_slug": "camille-hinas-et-illies-boussaha",
+    "confidence": "high",
+    "notes": "Duo of individual creators"
+  },
+  {
+    "talent_raw": "Camille Jouneaux",
+    "type": "person",
+    "real_name": "Camille Jouneaux",
+    "person_slug": "camille-jouneaux",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Camille Lamy, Coralie Martin, Marianne Mingant",
+    "type": "person",
+    "real_name": "Camille Lamy, Coralie Martin, Marianne Mingant",
+    "person_slug": "camille-lamy-coralie-martin-marianne-mingant",
+    "confidence": "high",
+    "notes": "Trio of individual creators"
+  },
+  {
+    "talent_raw": "Carole Cassier",
+    "type": "person",
+    "real_name": "Carole Cassier",
+    "person_slug": "carole-cassier",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Cass Andre",
+    "type": "person",
+    "real_name": "Cass Andre",
+    "person_slug": "cass-andre",
+    "confidence": "medium",
+    "notes": "May be a pseudonym; real name not identified"
+  },
+  {
+    "talent_raw": "Charles Masset",
+    "type": "person",
+    "real_name": "Charles Masset",
+    "person_slug": "charles-masset",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Charles Villa",
+    "type": "person",
+    "real_name": "Charles Villa",
+    "person_slug": "charles-villa",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Charlie Danger",
+    "type": "person",
+    "real_name": "Charlie Danger",
+    "person_slug": "charlie-danger",
+    "confidence": "medium",
+    "notes": "May be a pseudonym; real name not identified"
+  },
+  {
+    "talent_raw": "Charlie JAMES",
+    "type": "person",
+    "real_name": "Charlie James",
+    "person_slug": "charlie-james",
+    "confidence": "medium"
+  },
+  {
+    "talent_raw": "Charlot.4k (Thomas MAIRE)",
+    "type": "person",
+    "real_name": "Thomas Maire",
+    "person_slug": "thomas-maire",
+    "confidence": "high",
+    "notes": "YouTube channel name Charlot.4k, real name given in parentheses"
+  },
+  {
+    "talent_raw": "Charlotte ISSALY",
+    "type": "person",
+    "real_name": "Charlotte Issaly",
+    "person_slug": "charlotte-issaly",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Charlotte POUGET",
+    "type": "person",
+    "real_name": "Charlotte Pouget",
+    "person_slug": "charlotte-pouget",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Charlotte ROBB",
+    "type": "person",
+    "real_name": "Charlotte Robb",
+    "person_slug": "charlotte-robb",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Charlotte VAUTIER",
+    "type": "person",
+    "real_name": "Charlotte Vautier",
+    "person_slug": "charlotte-vautier",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Chloé Rochereuil",
+    "type": "person",
+    "real_name": "Chloé Rochereuil",
+    "person_slug": "chloe-rochereuil",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Christian Nsankete",
+    "type": "person",
+    "real_name": "Christian Nsankete",
+    "person_slug": "christian-nsankete",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Christophe ASSELIN",
+    "type": "person",
+    "real_name": "Christophe Asselin",
+    "person_slug": "christophe-asselin",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Chronik Fiction",
+    "type": "person",
+    "real_name": "Chronik Fiction",
+    "person_slug": "chronik-fiction",
+    "confidence": "medium",
+    "notes": "YouTube channel/creator pseudonym; real name not identified"
+  },
+  {
+    "talent_raw": "Chronik Fiction (Le Coroner)",
+    "type": "person",
+    "real_name": "Chronik Fiction",
+    "person_slug": "chronik-fiction",
+    "confidence": "medium",
+    "notes": "Le Coroner is a show by Chronik Fiction; real name not identified"
+  },
+  {
+    "talent_raw": "Clara Griot et Estelle Walton pour Francetv slash",
+    "type": "person",
+    "real_name": "Clara Griot et Estelle Walton",
+    "person_slug": "clara-griot-estelle-walton",
+    "confidence": "medium",
+    "notes": "Duo of creators working for Francetv slash"
+  },
+  {
+    "talent_raw": "Clararunaway",
+    "type": "person",
+    "real_name": "Clararunaway",
+    "person_slug": "clararunaway",
+    "confidence": "low",
+    "notes": "YouTube/channel pseudonym; real name not identified"
+  },
+  {
+    "talent_raw": "Clothilde Chamussy",
+    "type": "person",
+    "real_name": "Clothilde Chamussy",
+    "person_slug": "clothilde-chamussy",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Cloé Chope",
+    "type": "person",
+    "real_name": "Cloé Chope",
+    "person_slug": "cloe-chope",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Clément MONTFORT",
+    "type": "person",
+    "real_name": "Clément Montfort",
+    "person_slug": "clement-montfort",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Clément Montfort- NEXT La Série",
+    "type": "person",
+    "real_name": "Clément Montfort",
+    "person_slug": "clement-montfort",
+    "confidence": "high",
+    "notes": "NEXT La Série is the name of his web series"
+  },
+  {
+    "talent_raw": "Clémentine HAYNES",
+    "type": "person",
+    "real_name": "Clémentine Haynes",
+    "person_slug": "clementine-haynes",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Coline Balfroid",
+    "type": "person",
+    "real_name": "Coline Balfroid",
+    "person_slug": "coline-balfroid",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Culot Creative",
+    "type": "company",
+    "real_name": "Culot Creative",
+    "person_slug": "culot-creative",
+    "confidence": "medium",
+    "notes": "Appears to be a creative company/collective rather than a solo creator"
+  },
+  {
+    "talent_raw": "Curieux Live",
+    "type": "person",
+    "real_name": "Curieux Live",
+    "person_slug": "curieux-live",
+    "confidence": "low",
+    "notes": "Channel/pseudonym; real name not identified"
+  },
+  {
+    "talent_raw": "Cyber Group Studios",
+    "type": "company",
+    "real_name": "Cyber Group Studios",
+    "person_slug": "cyber-group-studios",
+    "confidence": "high",
+    "notes": "Production/animation company"
+  },
+  {
+    "talent_raw": "Cyprien",
+    "type": "person",
+    "real_name": "Cyprien Iov",
+    "person_slug": "cyprien-iov",
+    "confidence": "high",
+    "notes": "Famous French YouTuber known as Cyprien"
+  },
+  {
+    "talent_raw": "Cyprien Iov",
+    "type": "person",
+    "real_name": "Cyprien Iov",
+    "person_slug": "cyprien-iov",
+    "confidence": "high",
+    "notes": "Famous French YouTuber known as Cyprien"
+  },
+  {
+    "talent_raw": "Cyrielle Thepaut",
+    "type": "person",
+    "real_name": "Cyrielle Thepaut",
+    "person_slug": "cyrielle-thepaut",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Cyril CHAGOT",
+    "type": "person",
+    "real_name": "Cyril Chagot",
+    "person_slug": "cyril-chagot",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Cyril PLOU",
+    "type": "person",
+    "real_name": "Cyril Plou",
+    "person_slug": "cyril-plou",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Cyrus North",
+    "type": "person",
+    "real_name": "Cyrus North",
+    "person_slug": "cyrus-north",
+    "confidence": "high",
+    "notes": "Known French YouTuber; Cyrus North is his public name"
+  },
+  {
+    "talent_raw": "Céline Ribard",
+    "type": "person",
+    "real_name": "Céline Ribard",
+    "person_slug": "celine-ribard",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "DAMYS",
+    "type": "person",
+    "real_name": "DAMYS",
+    "person_slug": "damys",
+    "confidence": "low",
+    "notes": "Pseudonym/channel name; real name not identified"
+  },
+  {
+    "talent_raw": "DANYetRAZ",
+    "type": "person",
+    "real_name": "DANYetRAZ",
+    "person_slug": "danyetraz",
+    "confidence": "low",
+    "notes": "Duo channel name; real names not identified"
+  },
+  {
+    "talent_raw": "DIVERSIFICATION",
+    "type": "company",
+    "real_name": "Diversification",
+    "person_slug": "diversification",
+    "confidence": "medium",
+    "notes": "Appears to be a company/media entity"
+  },
+  {
+    "talent_raw": "Dabeull",
+    "type": "person",
+    "real_name": "Dabeull",
+    "person_slug": "dabeull",
+    "confidence": "medium",
+    "notes": "Pseudonym; real name not identified"
+  },
+  {
+    "talent_raw": "Dani Caligula",
+    "type": "person",
+    "real_name": "Dani Caligula",
+    "person_slug": "dani-caligula",
+    "confidence": "high",
+    "notes": "French YouTuber; likely variant spelling of DanyCaligula"
+  },
+  {
+    "talent_raw": "Dans Ton Corps",
+    "type": "person",
+    "real_name": "Dans Ton Corps",
+    "person_slug": "dans-ton-corps",
+    "confidence": "medium",
+    "notes": "YouTube channel name; real name not identified"
+  },
+  {
+    "talent_raw": "Dans ton Corps",
+    "type": "person",
+    "real_name": "Dans Ton Corps",
+    "person_slug": "dans-ton-corps",
+    "confidence": "medium",
+    "notes": "YouTube channel name; real name not identified"
+  },
+  {
+    "talent_raw": "Dany Caligula",
+    "type": "person",
+    "real_name": "Dany Caligula",
+    "person_slug": "dany-caligula",
+    "confidence": "high",
+    "notes": "French YouTuber/essayist known as DanyCaligula"
+  },
+  {
+    "talent_raw": "DanyCaligula",
+    "type": "person",
+    "real_name": "Dany Caligula",
+    "person_slug": "dany-caligula",
+    "confidence": "high",
+    "notes": "French YouTuber/essayist; pseudonym"
+  },
+  {
+    "talent_raw": "Dave Sheik",
+    "type": "person",
+    "real_name": "Dave Sheik",
+    "person_slug": "dave-sheik",
+    "confidence": "medium",
+    "notes": "May be a pseudonym; real name not identified"
+  },
+  {
+    "talent_raw": "David Kajman",
+    "type": "person",
+    "real_name": "David Kajman",
+    "person_slug": "david-kajman",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "David MIRAILLES",
+    "type": "person",
+    "real_name": "David Mirailles",
+    "person_slug": "david-mirailles",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "David Merlin-Dufey et Olivier Riche",
+    "type": "person",
+    "real_name": "David Merlin-Dufey et Olivier Riche",
+    "person_slug": "david-merlin-dufey-olivier-riche",
+    "confidence": "high",
+    "notes": "Duo of creators"
+  },
+  {
+    "talent_raw": "David Moerman et Furax Barbarossa",
+    "type": "person",
+    "real_name": "David Moerman et Furax Barbarossa",
+    "person_slug": "david-moerman-furax-barbarossa",
+    "confidence": "medium",
+    "notes": "Duo; Furax Barbarossa is a pseudonym"
+  },
+  {
+    "talent_raw": "Davy MOURIER",
+    "type": "person",
+    "real_name": "Davy Mourier",
+    "person_slug": "davy-mourier",
+    "confidence": "high",
+    "notes": "French YouTuber and filmmaker"
+  },
+  {
+    "talent_raw": "Dayan D.Oualid",
+    "type": "person",
+    "real_name": "Dayan D.Oualid",
+    "person_slug": "dayan-doualid",
+    "confidence": "medium"
+  },
+  {
+    "talent_raw": "Delphine Dura - Camille Ghanassia",
+    "type": "person",
+    "real_name": "Delphine Dura et Camille Ghanassia",
+    "person_slug": "delphine-dura-camille-ghanassia",
+    "confidence": "high",
+    "notes": "Duo of creators"
+  },
+  {
+    "talent_raw": "Diane Truc",
+    "type": "person",
+    "real_name": "Diane Truc",
+    "person_slug": "diane-truc",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Diversification",
+    "type": "company",
+    "real_name": "Diversification",
+    "person_slug": "diversification",
+    "confidence": "medium",
+    "notes": "Appears to be a company/media entity"
+  },
+  {
+    "talent_raw": "Djiby BADIANE",
+    "type": "person",
+    "real_name": "Djiby Badiane",
+    "person_slug": "djiby-badiane",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Don Barba",
+    "type": "person",
+    "real_name": "Don Barba",
+    "person_slug": "don-barba",
+    "confidence": "medium",
+    "notes": "May be a pseudonym; real name not identified"
+  },
+  {
+    "talent_raw": "Donato Sansone",
+    "type": "person",
+    "real_name": "Donato Sansone",
+    "person_slug": "donato-sansone",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Dora Moutot",
+    "type": "person",
+    "real_name": "Dora Moutot",
+    "person_slug": "dora-moutot",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Dycosh",
+    "type": "person",
+    "real_name": "Dycosh",
+    "person_slug": "dycosh",
+    "confidence": "medium",
+    "notes": "YouTube pseudonym; real name not identified"
+  },
+  {
+    "talent_raw": "Dycosh et Bonjour tristesse",
+    "type": "person",
+    "real_name": "Dycosh et Bonjour tristesse",
+    "person_slug": "dycosh-bonjour-tristesse",
+    "confidence": "medium",
+    "notes": "Duo of creators; both are pseudonyms"
+  },
+  {
+    "talent_raw": "EGO",
+    "type": "person",
+    "real_name": "EGO",
+    "person_slug": "ego",
+    "confidence": "low",
+    "notes": "Pseudonym/channel name; real name not identified"
+  },
+  {
+    "talent_raw": "ELOY SPINNLER",
+    "type": "person",
+    "real_name": "Eloy Spinnler",
+    "person_slug": "eloy-spinnler",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "EMY LTR",
+    "type": "person",
+    "real_name": "Emy LTR",
+    "person_slug": "emy-ltr",
+    "confidence": "high",
+    "notes": "French YouTuber known as Emy LTR"
+  },
+  {
+    "talent_raw": "ENYA BAROUX",
+    "type": "person",
+    "real_name": "Enya Baroux",
+    "person_slug": "enya-baroux",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "ET BIM",
+    "type": "person",
+    "real_name": "ET BIM",
+    "person_slug": "et-bim",
+    "confidence": "medium",
+    "notes": "Channel/pseudonym; real name not identified"
+  },
+  {
+    "talent_raw": "Edward Guitté",
+    "type": "person",
+    "real_name": "Edward Guitté",
+    "person_slug": "edward-guitte",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "El Hadj KARAMOKO",
+    "type": "person",
+    "real_name": "El Hadj Karamoko",
+    "person_slug": "el-hadj-karamoko",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Eleonore Costes",
+    "type": "person",
+    "real_name": "Éléonore Costes",
+    "person_slug": "eleonore-costes",
+    "confidence": "high",
+    "notes": "French YouTuber and artist"
+  },
+  {
+    "talent_raw": "Elisabeth VOGLER",
+    "type": "person",
+    "real_name": "Elisabeth Vogler",
+    "person_slug": "elisabeth-vogler",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Eléonore Costes",
+    "type": "person",
+    "real_name": "Éléonore Costes",
+    "person_slug": "eleonore-costes",
+    "confidence": "high",
+    "notes": "French YouTuber and artist"
+  },
+  {
+    "talent_raw": "Emie GALLOT",
+    "type": "person",
+    "real_name": "Emie Gallot",
+    "person_slug": "emie-gallot",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Emilie TOMMASI – Association ACTIO",
+    "type": "person",
+    "real_name": "Emilie Tommasi",
+    "person_slug": "emilie-tommasi",
+    "confidence": "high",
+    "notes": "Creator associated with Association ACTIO"
+  },
+  {
+    "talent_raw": "Emmanuel MAYEMBA",
+    "type": "person",
+    "real_name": "Emmanuel Mayemba",
+    "person_slug": "emmanuel-mayemba",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Emy LTR",
+    "type": "person",
+    "real_name": "Emy LTR",
+    "person_slug": "emy-ltr",
+    "confidence": "high",
+    "notes": "French YouTuber known as Emy LTR"
+  },
+  {
+    "talent_raw": "En Tribune",
+    "type": "person",
+    "real_name": "En Tribune",
+    "person_slug": "en-tribune",
+    "confidence": "low",
+    "notes": "Channel name; real name not identified"
+  },
+  {
+    "talent_raw": "Enguerran PRIEU",
+    "type": "person",
+    "real_name": "Enguerran Prieu",
+    "person_slug": "enguerran-prieu",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Enya Baroux",
+    "type": "person",
+    "real_name": "Enya Baroux",
+    "person_slug": "enya-baroux",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Eric Geynes",
+    "type": "person",
+    "real_name": "Eric Geynes",
+    "person_slug": "eric-geynes",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Esteban Vidal",
+    "type": "person",
+    "real_name": "Esteban Vidal",
+    "person_slug": "esteban-vidal",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Estelle Ndjandjo",
+    "type": "person",
+    "real_name": "Estelle Ndjandjo",
+    "person_slug": "estelle-ndjandjo",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Et Tout le Monde s'en Fout",
+    "type": "person",
+    "real_name": "Et Tout le Monde s'en Fout",
+    "person_slug": "et-tout-le-monde-sen-fout",
+    "confidence": "medium",
+    "notes": "YouTube channel name; real name not identified"
+  },
+  {
+    "talent_raw": "Et tout le monde s'en fout",
+    "type": "person",
+    "real_name": "Et Tout le Monde s'en Fout",
+    "person_slug": "et-tout-le-monde-sen-fout",
+    "confidence": "medium",
+    "notes": "YouTube channel name; real name not identified"
+  },
+  {
+    "talent_raw": "Etoiles",
+    "type": "person",
+    "real_name": "Etoiles",
+    "person_slug": "etoiles",
+    "confidence": "medium",
+    "notes": "French streamer/YouTuber pseudonym; real name not identified"
+  },
+  {
+    "talent_raw": "Eve Simonet",
+    "type": "person",
+    "real_name": "Eve Simonet",
+    "person_slug": "eve-simonet",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Exaltia",
+    "type": "person",
+    "real_name": "Exaltia",
+    "person_slug": "exaltia",
+    "confidence": "medium",
+    "notes": "YouTube/streaming pseudonym; real name not identified"
+  },
+  {
+    "talent_raw": "Fabien OLICARD",
+    "type": "person",
+    "real_name": "Fabien Olicard",
+    "person_slug": "fabien-olicard",
+    "confidence": "high",
+    "notes": "French YouTuber and mentalist"
+  },
+  {
+    "talent_raw": "Fabien Olicard",
+    "type": "person",
+    "real_name": "Fabien Olicard",
+    "person_slug": "fabien-olicard",
+    "confidence": "high",
+    "notes": "French YouTuber and mentalist"
+  },
+  {
+    "talent_raw": "Fif Tobossi",
+    "type": "person",
+    "real_name": "Fif Tobossi",
+    "person_slug": "fif-tobossi",
+    "confidence": "medium",
+    "notes": "May be a pseudonym; real name not identified"
+  },
+  {
+    "talent_raw": "Florence FAUQUET",
+    "type": "person",
+    "real_name": "Florence Fauquet",
+    "person_slug": "florence-fauquet",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Florence Fauquet",
+    "type": "person",
+    "real_name": "Florence Fauquet",
+    "person_slug": "florence-fauquet",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Florence Fauquet et Armel Hemme",
+    "type": "person",
+    "real_name": "Florence Fauquet et Armel Hemme",
+    "person_slug": "florence-fauquet-armel-hemme",
+    "confidence": "high",
+    "notes": "Duo of creators"
+  },
+  {
+    "talent_raw": "Florence Porcel",
+    "type": "person",
+    "real_name": "Florence Porcel",
+    "person_slug": "florence-porcel",
+    "confidence": "high",
+    "notes": "French science communicator and YouTuber"
+  },
+  {
+    "talent_raw": "Florent DORIN",
+    "type": "person",
+    "real_name": "Florent Dorin",
+    "person_slug": "florent-dorin",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Florent Médina",
+    "type": "person",
+    "real_name": "Florent Médina",
+    "person_slug": "florent-medina",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Fouzia KECHKECH",
+    "type": "person",
+    "real_name": "Fouzia Kechkech",
+    "person_slug": "fouzia-kechkech",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Francisco Bianchi",
+    "type": "person",
+    "real_name": "Francisco Bianchi",
+    "person_slug": "francisco-bianchi",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "François CALVIER",
+    "type": "person",
+    "real_name": "François Calvier",
+    "person_slug": "francois-calvier",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "François Theurel",
+    "type": "person",
+    "real_name": "François Theurel",
+    "person_slug": "francois-theurel",
+    "confidence": "high",
+    "notes": "Known as Le Fossoyeur de Films on YouTube"
+  },
+  {
+    "talent_raw": "François Theurel - Le Fossoyeur de Films",
+    "type": "person",
+    "real_name": "François Theurel",
+    "person_slug": "francois-theurel",
+    "confidence": "high",
+    "notes": "Le Fossoyeur de Films is his YouTube channel name"
+  },
+  {
+    "talent_raw": "French Baloo",
+    "type": "person",
+    "real_name": "French Baloo",
+    "person_slug": "french-baloo",
+    "confidence": "medium",
+    "notes": "YouTube pseudonym; real name not identified"
+  },
+  {
+    "talent_raw": "Fréderick GAU",
+    "type": "person",
+    "real_name": "Fréderick Gau",
+    "person_slug": "frederick-gau",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Frédéric Souterelle",
+    "type": "person",
+    "real_name": "Frédéric Souterelle",
+    "person_slug": "frederic-souterelle",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Fussoir",
+    "type": "person",
+    "real_name": "Fussoir",
+    "person_slug": "fussoir",
+    "confidence": "low",
+    "notes": "Pseudonym/channel name; real name not identified"
+  },
+  {
+    "talent_raw": "Gaspa",
+    "type": "person",
+    "real_name": "Gaspa",
+    "person_slug": "gaspa",
+    "confidence": "low",
+    "notes": "Pseudonym, real name unknown; beneficiary is 'Poésie urbaine'"
+  },
+  {
+    "talent_raw": "Gaudissard Gaétan",
+    "type": "person",
+    "real_name": "Gaétan Gaudissard",
+    "person_slug": "gaetan-gaudissard",
+    "confidence": "high",
+    "notes": "Name appears reversed in raw data"
+  },
+  {
+    "talent_raw": "Gaylord Cuvillier Libessart",
+    "type": "person",
+    "real_name": "Gaylord Cuvillier Libessart",
+    "person_slug": "gaylord-cuvillier-libessart",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Gear Locker (Alexis et Jérémie Lopez)",
+    "type": "company",
+    "real_name": "Gear Locker",
+    "person_slug": "gear-locker",
+    "confidence": "medium",
+    "notes": "YouTube channel/collective run by Alexis and Jérémie Lopez"
+  },
+  {
+    "talent_raw": "Geneviève Anhoury",
+    "type": "person",
+    "real_name": "Geneviève Anhoury",
+    "person_slug": "genevieve-anhoury",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "George \u0026 Michael",
+    "type": "company",
+    "real_name": "George \u0026 Michael",
+    "person_slug": "george-and-michael",
+    "confidence": "medium",
+    "notes": "Duo/collective, beneficiary is FENSCH TOAST"
+  },
+  {
+    "talent_raw": "Gildas Leprince",
+    "type": "person",
+    "real_name": "Gildas Leprince",
+    "person_slug": "gildas-leprince",
+    "confidence": "high",
+    "notes": "Known as Mister Geopolitix on YouTube"
+  },
+  {
+    "talent_raw": "Glamouze",
+    "type": "person",
+    "real_name": "Glamouze",
+    "person_slug": "glamouze",
+    "confidence": "low",
+    "notes": "Pseudonym, real name unknown"
+  },
+  {
+    "talent_raw": "Golden Moustache",
+    "type": "company",
+    "real_name": "Golden Moustache",
+    "person_slug": "golden-moustache",
+    "confidence": "high",
+    "notes": "French comedy YouTube channel/production company (M6 group)"
+  },
+  {
+    "talent_raw": "Gorkab",
+    "type": "person",
+    "real_name": "Gorkab",
+    "person_slug": "gorkab",
+    "confidence": "low",
+    "notes": "Pseudonym, real name unknown"
+  },
+  {
+    "talent_raw": "Gouse Donnelly",
+    "type": "person",
+    "real_name": "Gouse Donnelly",
+    "person_slug": "gouse-donnelly",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Graine d'Orateur 93",
+    "type": "company",
+    "real_name": "Graine d'Orateur 93",
+    "person_slug": "graine-d-orateur-93",
+    "confidence": "medium",
+    "notes": "Appears to be a collective/organization rather than a solo creator"
+  },
+  {
+    "talent_raw": "Grünt",
+    "type": "person",
+    "real_name": "Grünt",
+    "person_slug": "grunt",
+    "confidence": "medium",
+    "notes": "Pseudonym of a French YouTuber/streamer; real name not publicly confirmed"
+  },
+  {
+    "talent_raw": "Guillaume Millochau",
+    "type": "person",
+    "real_name": "Guillaume Millochau",
+    "person_slug": "guillaume-millochau",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Guillaume Peltier",
+    "type": "person",
+    "real_name": "Guillaume Peltier",
+    "person_slug": "guillaume-peltier",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "HOURRAIL !",
+    "type": "company",
+    "real_name": "HOURRAIL !",
+    "person_slug": "hourrail",
+    "confidence": "medium",
+    "notes": "Appears to be a media/production entity"
+  },
+  {
+    "talent_raw": "Ha-An TU",
+    "type": "person",
+    "real_name": "Ha-An Tu",
+    "person_slug": "ha-an-tu",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Hafid F. Benamar et So Foot",
+    "type": "company",
+    "real_name": "Hafid F. Benamar et So Foot",
+    "person_slug": "hafid-f-benamar-et-so-foot",
+    "confidence": "medium",
+    "notes": "Collaboration between individual creator and So Foot media brand"
+  },
+  {
+    "talent_raw": "Hardisk",
+    "type": "person",
+    "real_name": "Henri Griesmar",
+    "person_slug": "henri-griesmar",
+    "confidence": "high",
+    "notes": "Pseudonym 'Hardisk'; real name confirmed by beneficiary"
+  },
+  {
+    "talent_raw": "Heiva i Paris par Ken Carlter",
+    "type": "person",
+    "real_name": "Ken Carlter",
+    "person_slug": "ken-carlter",
+    "confidence": "high",
+    "notes": "Project name; creator is Ken Carlter"
+  },
+  {
+    "talent_raw": "Henry Tran",
+    "type": "person",
+    "real_name": "Henry Tran",
+    "person_slug": "henry-tran",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Hinfiney",
+    "type": "person",
+    "real_name": "Hinfiney",
+    "person_slug": "hinfiney",
+    "confidence": "low",
+    "notes": "Pseudonym, real name unknown"
+  },
+  {
+    "talent_raw": "Histoire Appliquée",
+    "type": "person",
+    "real_name": "Histoire Appliquée",
+    "person_slug": "histoire-appliquee",
+    "confidence": "low",
+    "notes": "YouTube channel name; real person behind it unknown"
+  },
+  {
+    "talent_raw": "Histoires Crépues",
+    "type": "person",
+    "real_name": "Histoires Crépues",
+    "person_slug": "histoires-crepues",
+    "confidence": "low",
+    "notes": "YouTube channel name; real person unknown"
+  },
+  {
+    "talent_raw": "Hugo Roth",
+    "type": "person",
+    "real_name": "Hugo Roth",
+    "person_slug": "hugo-roth",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Hugo Terra",
+    "type": "person",
+    "real_name": "Hugo Terra",
+    "person_slug": "hugo-terra",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "INERNET (Benoit Blanc, Benjamin Busnel et Mathias Girbig)",
+    "type": "company",
+    "real_name": "Inernet",
+    "person_slug": "inernet",
+    "confidence": "high",
+    "notes": "Collective/trio: Benoit Blanc, Benjamin Busnel and Mathias Girbig"
+  },
+  {
+    "talent_raw": "Ilyass Zouhry",
+    "type": "person",
+    "real_name": "Ilyass Zouhry",
+    "person_slug": "ilyass-zouhry",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Inas Chanti",
+    "type": "person",
+    "real_name": "Inas Chanti",
+    "person_slug": "inas-chanti",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Inas Chanti \u0026 Jean Chaffard Luçon",
+    "type": "company",
+    "real_name": "Inas Chanti \u0026 Jean Chaffard Luçon",
+    "person_slug": "inas-chanti-jean-chaffard-lucon",
+    "confidence": "medium",
+    "notes": "Collaboration between two individuals"
+  },
+  {
+    "talent_raw": "Indécis - Chaine d'interview politique",
+    "type": "person",
+    "real_name": "Indécis",
+    "person_slug": "indecis",
+    "confidence": "low",
+    "notes": "YouTube channel name; real creator unknown"
+  },
+  {
+    "talent_raw": "Inernet",
+    "type": "company",
+    "real_name": "Inernet",
+    "person_slug": "inernet",
+    "confidence": "high",
+    "notes": "Collective YouTube channel (Benoit Blanc, Benjamin Busnel, Mathias Girbig)"
+  },
+  {
+    "talent_raw": "Into the Rewild",
+    "type": "person",
+    "real_name": "Into the Rewild",
+    "person_slug": "into-the-rewild",
+    "confidence": "low",
+    "notes": "YouTube channel name; real creator unknown"
+  },
+  {
+    "talent_raw": "Inès Banzet-Benhagouga",
+    "type": "person",
+    "real_name": "Inès Banzet-Benhagouga",
+    "person_slug": "ines-banzet-benhagouga",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Irvin Anneix",
+    "type": "person",
+    "real_name": "Irvin Anneix",
+    "person_slug": "irvin-anneix",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Ismail ALAOUI FDILI",
+    "type": "person",
+    "real_name": "Ismail Alaoui Fdili",
+    "person_slug": "ismail-alaoui-fdili",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "JEAN 2 MAHJ",
+    "type": "person",
+    "real_name": "Jean 2 Mahj",
+    "person_slug": "jean-2-mahj",
+    "confidence": "medium",
+    "notes": "YouTube channel/pseudonym"
+  },
+  {
+    "talent_raw": "JTM",
+    "type": "person",
+    "real_name": "JTM",
+    "person_slug": "jtm",
+    "confidence": "low",
+    "notes": "Pseudonym/channel name; real name unknown"
+  },
+  {
+    "talent_raw": "Jacob Karhu",
+    "type": "person",
+    "real_name": "Jacob Karhu",
+    "person_slug": "jacob-karhu",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Jean 2 Mahj",
+    "type": "person",
+    "real_name": "Jean 2 Mahj",
+    "person_slug": "jean-2-mahj",
+    "confidence": "medium",
+    "notes": "YouTube channel/pseudonym"
+  },
+  {
+    "talent_raw": "Jean MASSIET",
+    "type": "person",
+    "real_name": "Jean Massiet",
+    "person_slug": "jean-massiet",
+    "confidence": "high",
+    "notes": "French political YouTuber/streamer"
+  },
+  {
+    "talent_raw": "Jean Massiet",
+    "type": "person",
+    "real_name": "Jean Massiet",
+    "person_slug": "jean-massiet",
+    "confidence": "high",
+    "notes": "French political YouTuber/streamer"
+  },
+  {
+    "talent_raw": "Jean PEBEREAU",
+    "type": "person",
+    "real_name": "Jean Pébereau",
+    "person_slug": "jean-pebereau",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Jean-Baptiste DUSSEAUX",
+    "type": "person",
+    "real_name": "Jean-Baptiste Dusseaux",
+    "person_slug": "jean-baptiste-dusseaux",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Jean-Baptiste Toussaint",
+    "type": "person",
+    "real_name": "Jean-Baptiste Toussaint",
+    "person_slug": "jean-baptiste-toussaint",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Jeanne SEIGNOL",
+    "type": "person",
+    "real_name": "Jeanne Seignol",
+    "person_slug": "jeanne-seignol",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Jeanne Seignol",
+    "type": "person",
+    "real_name": "Jeanne Seignol",
+    "person_slug": "jeanne-seignol",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Jeanne Seignol (Jeannot se livre)",
+    "type": "person",
+    "real_name": "Jeanne Seignol",
+    "person_slug": "jeanne-seignol",
+    "confidence": "high",
+    "notes": "Channel name is 'Jeannot se livre'"
+  },
+  {
+    "talent_raw": "Jeremy Bismuth",
+    "type": "person",
+    "real_name": "Jeremy Bismuth",
+    "person_slug": "jeremy-bismuth",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Jeremy Strohm \u0026 Mehdi M'Hamdi",
+    "type": "company",
+    "real_name": "Jeremy Strohm \u0026 Mehdi M'Hamdi",
+    "person_slug": "jeremy-strohm-mehdi-mhamdi",
+    "confidence": "medium",
+    "notes": "Collaboration between two individuals"
+  },
+  {
+    "talent_raw": "Jessy DUBUIS",
+    "type": "person",
+    "real_name": "Jessy Dubuis",
+    "person_slug": "jessy-dubuis",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Jessy Dubuis",
+    "type": "person",
+    "real_name": "Jessy Dubuis",
+    "person_slug": "jessy-dubuis",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Jhon Rachid",
+    "type": "person",
+    "real_name": "Jhon Rachid",
+    "person_slug": "jhon-rachid",
+    "confidence": "high",
+    "notes": "French YouTuber/comedian"
+  },
+  {
+    "talent_raw": "Jimmy MAGARDEAU",
+    "type": "person",
+    "real_name": "Jimmy Magardeau",
+    "person_slug": "jimmy-magardeau",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Jimmy Magardeau",
+    "type": "person",
+    "real_name": "Jimmy Magardeau",
+    "person_slug": "jimmy-magardeau",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Jivay",
+    "type": "person",
+    "real_name": "Jivay",
+    "person_slug": "jivay",
+    "confidence": "low",
+    "notes": "Pseudonym, real name unknown"
+  },
+  {
+    "talent_raw": "Joff Turner",
+    "type": "person",
+    "real_name": "Joff Turner",
+    "person_slug": "joff-turner",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Jonas Brisé",
+    "type": "person",
+    "real_name": "Jonas Brisé",
+    "person_slug": "jonas-brise",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Joséphine Ha",
+    "type": "person",
+    "real_name": "Joséphine Ha",
+    "person_slug": "josephine-ha",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Judi Tudisco",
+    "type": "person",
+    "real_name": "Judi Tudisco",
+    "person_slug": "judi-tudisco",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Judith Beauvallet",
+    "type": "person",
+    "real_name": "Judith Beauvallet",
+    "person_slug": "judith-beauvallet",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Judith Beauvallet alias Demoiselles d'Horreur",
+    "type": "person",
+    "real_name": "Judith Beauvallet",
+    "person_slug": "judith-beauvallet",
+    "confidence": "high",
+    "notes": "Channel name is 'Demoiselles d'Horreur'"
+  },
+  {
+    "talent_raw": "Jules Laguilhaumie",
+    "type": "person",
+    "real_name": "Jules Laguilhaumie",
+    "person_slug": "jules-laguilhaumie",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Julie Gautier",
+    "type": "person",
+    "real_name": "Julie Gautier",
+    "person_slug": "julie-gautier",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Julie TRILLO / Zoé LABASSE",
+    "type": "company",
+    "real_name": "Julie Trillo / Zoé Labasse",
+    "person_slug": "julie-trillo-zoe-labasse",
+    "confidence": "medium",
+    "notes": "Collaboration between two individuals"
+  },
+  {
+    "talent_raw": "Julie TRILLO et Zoé LABASSE",
+    "type": "company",
+    "real_name": "Julie Trillo et Zoé Labasse",
+    "person_slug": "julie-trillo-zoe-labasse",
+    "confidence": "medium",
+    "notes": "Collaboration between two individuals; beneficiary is Les Filmeuses"
+  },
+  {
+    "talent_raw": "Julien Aveque",
+    "type": "person",
+    "real_name": "Julien Aveque",
+    "person_slug": "julien-aveque",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Julien Josselin",
+    "type": "person",
+    "real_name": "Julien Josselin",
+    "person_slug": "julien-josselin",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Julien LAHMI",
+    "type": "person",
+    "real_name": "Julien Lahmi",
+    "person_slug": "julien-lahmi",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Julien Lahmi",
+    "type": "person",
+    "real_name": "Julien Lahmi",
+    "person_slug": "julien-lahmi",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Julien Magalaës",
+    "type": "person",
+    "real_name": "Julien Magalhaes",
+    "person_slug": "julien-magalhaes",
+    "confidence": "high",
+    "notes": "Variant spelling of Magalhaes"
+  },
+  {
+    "talent_raw": "Julien Magalhaes",
+    "type": "person",
+    "real_name": "Julien Magalhaes",
+    "person_slug": "julien-magalhaes",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Julien Menielle",
+    "type": "person",
+    "real_name": "Julien Menielle",
+    "person_slug": "julien-menielle",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Julien Pestel",
+    "type": "person",
+    "real_name": "Julien Pestel",
+    "person_slug": "julien-pestel",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Juliette Todisco",
+    "type": "person",
+    "real_name": "Juliette Todisco",
+    "person_slug": "juliette-todisco",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Juliette Tresanini",
+    "type": "person",
+    "real_name": "Juliette Tresanini",
+    "person_slug": "juliette-tresanini",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Juliette Tresanini et Maud Bettina-Marie",
+    "type": "company",
+    "real_name": "Juliette Tresanini et Maud Bettina-Marie",
+    "person_slug": "juliette-tresanini-maud-bettina-marie",
+    "confidence": "medium",
+    "notes": "Collaboration between two individuals"
+  },
+  {
+    "talent_raw": "Jusqu'au Bout de Vos Rêves",
+    "type": "person",
+    "real_name": "Jusqu'au Bout de Vos Rêves",
+    "person_slug": "jusquau-bout-de-vos-reves",
+    "confidence": "low",
+    "notes": "YouTube channel name; real creator unknown"
+  },
+  {
+    "talent_raw": "Justine Le Pottier",
+    "type": "person",
+    "real_name": "Justine Le Pottier",
+    "person_slug": "justine-le-pottier",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Justine Lossa",
+    "type": "person",
+    "real_name": "Justine Lossa",
+    "person_slug": "justine-lossa",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Justine Reix",
+    "type": "person",
+    "real_name": "Justine Reix",
+    "person_slug": "justine-reix",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Jérémi STADLER",
+    "type": "person",
+    "real_name": "Jérémi Stadler",
+    "person_slug": "jeremi-stadler",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Jérémie Maire",
+    "type": "person",
+    "real_name": "Jérémie Maire",
+    "person_slug": "jeremie-maire",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Jérémy Denis",
+    "type": "person",
+    "real_name": "Jérémy Denis",
+    "person_slug": "jeremy-denis",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Jérémy Strohm",
+    "type": "person",
+    "real_name": "Jérémy Strohm",
+    "person_slug": "jeremy-strohm",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Jérôme ZINDY",
+    "type": "person",
+    "real_name": "Jérôme Zindy",
+    "person_slug": "jerome-zindy",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "KICK!",
+    "type": "person",
+    "real_name": "KICK!",
+    "person_slug": "kick",
+    "confidence": "low",
+    "notes": "Pseudonym/channel name; real creator unknown"
+  },
+  {
+    "talent_raw": "Kadiatou TRAORE",
+    "type": "person",
+    "real_name": "Kadiatou Traore",
+    "person_slug": "kadiatou-traore",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Kajika AKI FERRAZZINI",
+    "type": "person",
+    "real_name": "Kajika Aki Ferrazzini",
+    "person_slug": "kajika-aki-ferrazzini",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Kevin Payet",
+    "type": "person",
+    "real_name": "Kevin Payet",
+    "person_slug": "kevin-payet",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Kick Sama",
+    "type": "person",
+    "real_name": "Théo Munck",
+    "person_slug": "theo-munck",
+    "confidence": "high",
+    "notes": "Pseudonym 'Kick Sama'; real name confirmed by beneficiary"
+  },
+  {
+    "talent_raw": "Komune",
+    "type": "company",
+    "real_name": "Komune",
+    "person_slug": "komune",
+    "confidence": "medium",
+    "notes": "Media collective/company; beneficiary is Komune Media"
+  },
+  {
+    "talent_raw": "Kon sud Productions",
+    "type": "company",
+    "real_name": "Kôn Sud Productions",
+    "person_slug": "kon-sud-productions",
+    "confidence": "high",
+    "notes": "Production company"
+  },
+  {
+    "talent_raw": "L'Usine à Merveilles",
+    "type": "person",
+    "real_name": "L'Usine à Merveilles",
+    "person_slug": "l-usine-a-merveilles",
+    "confidence": "low",
+    "notes": "YouTube channel name; real creator unknown"
+  },
+  {
+    "talent_raw": "L'académie des haut-parleurs",
+    "type": "company",
+    "real_name": "L'académie des haut-parleurs",
+    "person_slug": "l-academie-des-haut-parleurs",
+    "confidence": "medium",
+    "notes": "Appears to be a collective/organization"
+  },
+  {
+    "talent_raw": "LA CURIEUSE SOIRÉE 2",
+    "type": "person",
+    "real_name": "La Curieuse Soirée",
+    "person_slug": "la-curieuse-soiree",
+    "confidence": "low",
+    "notes": "Project/channel name; real creator unknown"
+  },
+  {
+    "talent_raw": "LE GRAND PARI",
+    "type": "person",
+    "real_name": "Le Grand Pari",
+    "person_slug": "le-grand-pari",
+    "confidence": "low",
+    "notes": "Channel/project name; real creator unknown"
+  },
+  {
+    "talent_raw": "LEPRINCE Gildas",
+    "type": "person",
+    "real_name": "Gildas Leprince",
+    "person_slug": "gildas-leprince",
+    "confidence": "high",
+    "notes": "Name appears reversed; known as Mister Geopolitix on YouTube"
+  },
+  {
+    "talent_raw": "LES GLANDS NE SAVENT PAS SAUTER",
+    "type": "person",
+    "real_name": "Les Glands Ne Savent Pas Sauter",
+    "person_slug": "les-glands-ne-savent-pas-sauter",
+    "confidence": "low",
+    "notes": "Channel/project name; real creator unknown"
+  },
+  {
+    "talent_raw": "La Débande",
+    "type": "company",
+    "real_name": "La Débande",
+    "person_slug": "la-debande",
+    "confidence": "medium",
+    "notes": "Appears to be a collective/group channel"
+  },
+  {
+    "talent_raw": "La Manie Du Cinéma",
+    "type": "person",
+    "real_name": "La Manie Du Cinéma",
+    "person_slug": "la-manie-du-cinema",
+    "confidence": "low",
+    "notes": "YouTube channel name, real person behind it not identified"
+  },
+  {
+    "talent_raw": "La Manie du Cinéma",
+    "type": "person",
+    "real_name": "La Manie du Cinéma",
+    "person_slug": "la-manie-du-cinema",
+    "confidence": "low",
+    "notes": "Duplicate entry with different casing, YouTube channel name"
+  },
+  {
+    "talent_raw": "La Tronche en Biais",
+    "type": "person",
+    "real_name": "La Tronche en Biais",
+    "person_slug": "la-tronche-en-biais",
+    "confidence": "medium",
+    "notes": "Popular French skepticism YouTube channel, run by Tristan Mahut and Richard Monvoisin collectively under ASTEC"
+  },
+  {
+    "talent_raw": "La chaîne de P.A.U.L",
+    "type": "person",
+    "real_name": "La chaîne de P.A.U.L",
+    "person_slug": "la-chaine-de-paul",
+    "confidence": "low",
+    "notes": "YouTube channel name, real person not identified"
+  },
+  {
+    "talent_raw": "Lacrem",
+    "type": "person",
+    "real_name": "Lucas Richez",
+    "person_slug": "lucas-richez",
+    "confidence": "high",
+    "notes": "Pseudonym, beneficiary confirms real name as Lucas Richez"
+  },
+  {
+    "talent_raw": "Lapeint",
+    "type": "person",
+    "real_name": "Lapeint",
+    "person_slug": "lapeint",
+    "confidence": "low",
+    "notes": "Channel/pseudonym name, real person not identified"
+  },
+  {
+    "talent_raw": "Laura Ghazal",
+    "type": "person",
+    "real_name": "Laura Ghazal",
+    "person_slug": "laura-ghazal",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Laure BERNARD (Art comptant pour rien)",
+    "type": "person",
+    "real_name": "Laure Bernard",
+    "person_slug": "laure-bernard",
+    "confidence": "high",
+    "notes": "YouTube channel 'Art comptant pour rien'"
+  },
+  {
+    "talent_raw": "Laureline Amanieux",
+    "type": "person",
+    "real_name": "Laureline Amanieux",
+    "person_slug": "laureline-amanieux",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Laurent Breillat / Apprendre la Photo",
+    "type": "person",
+    "real_name": "Laurent Breillat",
+    "person_slug": "laurent-breillat",
+    "confidence": "high",
+    "notes": "YouTube channel 'Apprendre la Photo'"
+  },
+  {
+    "talent_raw": "Le Biais Vert",
+    "type": "person",
+    "real_name": "Le Biais Vert",
+    "person_slug": "le-biais-vert",
+    "confidence": "low",
+    "notes": "YouTube channel name, real person not identified"
+  },
+  {
+    "talent_raw": "Le Crossover",
+    "type": "person",
+    "real_name": "Le Crossover",
+    "person_slug": "le-crossover",
+    "confidence": "low",
+    "notes": "YouTube channel name, real person not identified"
+  },
+  {
+    "talent_raw": "Le Fossoyeur de Films",
+    "type": "person",
+    "real_name": "Vincent Turhan",
+    "person_slug": "vincent-turhan",
+    "confidence": "high",
+    "notes": "Popular French cinema YouTube channel run by Vincent Turhan"
+  },
+  {
+    "talent_raw": "Le Mock",
+    "type": "person",
+    "real_name": "Le Mock",
+    "person_slug": "le-mock",
+    "confidence": "low",
+    "notes": "YouTube channel name, real person not identified"
+  },
+  {
+    "talent_raw": "Le Média Positif",
+    "type": "person",
+    "real_name": "Le Média Positif",
+    "person_slug": "le-media-positif",
+    "confidence": "low",
+    "notes": "YouTube channel name, real person not identified"
+  },
+  {
+    "talent_raw": "Le Nouveau Programme",
+    "type": "company",
+    "real_name": "Le Nouveau Programme",
+    "person_slug": "le-nouveau-programme",
+    "confidence": "medium",
+    "notes": "Appears to be a media/production entity rather than a solo creator"
+  },
+  {
+    "talent_raw": "Le Règlement",
+    "type": "person",
+    "real_name": "Maxime Braud",
+    "person_slug": "maxime-braud",
+    "confidence": "high",
+    "notes": "YouTube channel, beneficiary lists Maxime BRAUD as individual"
+  },
+  {
+    "talent_raw": "Le Tatou",
+    "type": "person",
+    "real_name": "Le Tatou",
+    "person_slug": "le-tatou",
+    "confidence": "low",
+    "notes": "YouTube channel name, real person not identified"
+  },
+  {
+    "talent_raw": "Le Vortex",
+    "type": "person",
+    "real_name": "Le Vortex",
+    "person_slug": "le-vortex",
+    "confidence": "low",
+    "notes": "YouTube channel under Nerd Entertainment System, likely a collective or duo"
+  },
+  {
+    "talent_raw": "Leo Boudet",
+    "type": "person",
+    "real_name": "Leo Boudet",
+    "person_slug": "leo-boudet",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Leo Grasset (DirtyBiology)",
+    "type": "person",
+    "real_name": "Léo Grasset",
+    "person_slug": "leo-grasset",
+    "confidence": "high",
+    "notes": "YouTube channel DirtyBiology"
+  },
+  {
+    "talent_raw": "Les Artisans de Demain",
+    "type": "company",
+    "real_name": "Les Artisans de Demain",
+    "person_slug": "les-artisans-de-demain",
+    "confidence": "medium",
+    "notes": "Appears to be a collective/organization"
+  },
+  {
+    "talent_raw": "Les Beelzebros",
+    "type": "person",
+    "real_name": "Les Beelzebros",
+    "person_slug": "les-beelzebros",
+    "confidence": "low",
+    "notes": "Likely a duo or group YouTube channel"
+  },
+  {
+    "talent_raw": "Les Coflocs (Florian Mosca et Laurent Lingelser)",
+    "type": "person",
+    "real_name": "Les Coflocs",
+    "person_slug": "les-coflocs",
+    "confidence": "high",
+    "notes": "Duo: Florian Mosca and Laurent Lingelser"
+  },
+  {
+    "talent_raw": "Les Fanatiques",
+    "type": "person",
+    "real_name": "Les Fanatiques",
+    "person_slug": "les-fanatiques",
+    "confidence": "low",
+    "notes": "YouTube channel name, real person(s) not identified"
+  },
+  {
+    "talent_raw": "Les Frères Poulain",
+    "type": "person",
+    "real_name": "Baptiste Poulain",
+    "person_slug": "baptiste-poulain",
+    "confidence": "medium",
+    "notes": "YouTube channel, beneficiary is Baptiste Poulain"
+  },
+  {
+    "talent_raw": "Les Haut-Parleurs",
+    "type": "company",
+    "real_name": "Les Haut-Parleurs",
+    "person_slug": "les-haut-parleurs",
+    "confidence": "medium",
+    "notes": "Media collective under FABLABCHANNEL"
+  },
+  {
+    "talent_raw": "Les Haut-Parleurs : ALADINE ZAIANE et TRESOR N'TOR",
+    "type": "company",
+    "real_name": "Les Haut-Parleurs",
+    "person_slug": "les-haut-parleurs",
+    "confidence": "medium",
+    "notes": "Media collective, members Aladine Zaiane and Trésor N'Tor listed"
+  },
+  {
+    "talent_raw": "Les Hauts-Parleurs",
+    "type": "company",
+    "real_name": "Les Haut-Parleurs",
+    "person_slug": "les-haut-parleurs",
+    "confidence": "medium",
+    "notes": "Variant spelling of Les Haut-Parleurs, same entity under FABLABCHANNEL"
+  },
+  {
+    "talent_raw": "Les Parasites",
+    "type": "person",
+    "real_name": "Les Parasites",
+    "person_slug": "les-parasites",
+    "confidence": "low",
+    "notes": "YouTube channel, likely a duo or collective"
+  },
+  {
+    "talent_raw": "Les vidéos de Léo",
+    "type": "person",
+    "real_name": "Les vidéos de Léo",
+    "person_slug": "les-videos-de-leo",
+    "confidence": "low",
+    "notes": "YouTube channel name, real person not identified"
+  },
+  {
+    "talent_raw": "Leslie Barbara Butch",
+    "type": "person",
+    "real_name": "Leslie Barbara Butch",
+    "person_slug": "leslie-barbara-butch",
+    "confidence": "high",
+    "notes": "Real name / stage name of French creator"
+  },
+  {
+    "talent_raw": "Leslie Menahem et Julie Joseph",
+    "type": "person",
+    "real_name": "Leslie Menahem et Julie Joseph",
+    "person_slug": "leslie-menahem-et-julie-joseph",
+    "confidence": "high",
+    "notes": "Duo of creators"
+  },
+  {
+    "talent_raw": "Lila Poppins",
+    "type": "person",
+    "real_name": "Lila Poppins",
+    "person_slug": "lila-poppins",
+    "confidence": "medium",
+    "notes": "Likely a pseudonym, real name not identified"
+  },
+  {
+    "talent_raw": "Lily Papamiltiades",
+    "type": "person",
+    "real_name": "Lily Papamiltiades",
+    "person_slug": "lily-papamiltiades",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Linguisticae",
+    "type": "person",
+    "real_name": "Romain Filstroff",
+    "person_slug": "romain-filstroff",
+    "confidence": "high",
+    "notes": "Popular French linguistics YouTube channel run by Romain Filstroff"
+  },
+  {
+    "talent_raw": "Linguisticae / Scilabus / J'm'énerve pas, j'explique",
+    "type": "person",
+    "real_name": "Linguisticae / Scilabus / J'm'énerve pas, j'explique",
+    "person_slug": "linguisticae-scilabus-jmenerve-pas-jexplique",
+    "confidence": "medium",
+    "notes": "Multi-creator project: Linguisticae (Romain Filstroff), Scilabus (Viviane Lalande), J'm'énerve pas j'explique"
+  },
+  {
+    "talent_raw": "Lisa Miquet",
+    "type": "person",
+    "real_name": "Lisa Miquet",
+    "person_slug": "lisa-miquet",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Loan OLIVARI",
+    "type": "person",
+    "real_name": "Loan Olivari",
+    "person_slug": "loan-olivari",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Loopsider",
+    "type": "company",
+    "real_name": "Loopsider",
+    "person_slug": "loopsider",
+    "confidence": "high",
+    "notes": "French digital media company/news outlet, not a solo creator"
+  },
+  {
+    "talent_raw": "Lou Howard",
+    "type": "person",
+    "real_name": "Lou Howard",
+    "person_slug": "lou-howard",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Lou Howard, Florent Dorin, PV NOVA",
+    "type": "person",
+    "real_name": "Lou Howard, Florent Dorin, PV Nova",
+    "person_slug": "lou-howard-florent-dorin-pv-nova",
+    "confidence": "high",
+    "notes": "Multi-creator project"
+  },
+  {
+    "talent_raw": "Louane Carmona",
+    "type": "person",
+    "real_name": "Louane Carmona",
+    "person_slug": "louane-carmona",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Louis Chamard",
+    "type": "person",
+    "real_name": "Louis Chamard",
+    "person_slug": "louis-chamard",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Loup Espargilière",
+    "type": "person",
+    "real_name": "Loup Espargilière",
+    "person_slug": "loup-espargiliere",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Loïc Adrien",
+    "type": "person",
+    "real_name": "Loïc Adrien",
+    "person_slug": "loic-adrien",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Lucas Stoll",
+    "type": "person",
+    "real_name": "Lucas Stoll",
+    "person_slug": "lucas-stoll",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Lucas Zef pour le Collectif La fabrique",
+    "type": "person",
+    "real_name": "Lucas Zef",
+    "person_slug": "lucas-zef",
+    "confidence": "medium",
+    "notes": "Individual creator associated with Collectif La Fabrique"
+  },
+  {
+    "talent_raw": "Lucien MAINE",
+    "type": "person",
+    "real_name": "Lucien Maine",
+    "person_slug": "lucien-maine",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Lucien Maine",
+    "type": "person",
+    "real_name": "Lucien Maine",
+    "person_slug": "lucien-maine",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Ludoc",
+    "type": "person",
+    "real_name": "Ludoc",
+    "person_slug": "ludoc",
+    "confidence": "low",
+    "notes": "YouTube pseudonym, real name not identified"
+  },
+  {
+    "talent_raw": "Luzzati Héloïse",
+    "type": "person",
+    "real_name": "Héloïse Luzzati",
+    "person_slug": "heloise-luzzati",
+    "confidence": "high",
+    "notes": "Real name, surname listed first"
+  },
+  {
+    "talent_raw": "Léa BORDIER",
+    "type": "person",
+    "real_name": "Léa Bordier",
+    "person_slug": "lea-bordier",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "LéaPassionVintage",
+    "type": "person",
+    "real_name": "LéaPassionVintage",
+    "person_slug": "lea-passion-vintage",
+    "confidence": "low",
+    "notes": "YouTube channel name, real person not identified"
+  },
+  {
+    "talent_raw": "Léane Alestra, Apolline Bazin",
+    "type": "person",
+    "real_name": "Léane Alestra, Apolline Bazin",
+    "person_slug": "leane-alestra-apolline-bazin",
+    "confidence": "high",
+    "notes": "Duo of creators"
+  },
+  {
+    "talent_raw": "Léna Polin",
+    "type": "person",
+    "real_name": "Léna Polin",
+    "person_slug": "lena-polin",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Lénie Cherino - Mathieu Duméry",
+    "type": "person",
+    "real_name": "Lénie Cherino - Mathieu Duméry",
+    "person_slug": "lenie-cherino-mathieu-dumery",
+    "confidence": "high",
+    "notes": "Duo of creators"
+  },
+  {
+    "talent_raw": "Léo Grasset",
+    "type": "person",
+    "real_name": "Léo Grasset",
+    "person_slug": "leo-grasset",
+    "confidence": "high",
+    "notes": "Real name, creator of DirtyBiology YouTube channel"
+  },
+  {
+    "talent_raw": "Léo Techmaker",
+    "type": "person",
+    "real_name": "Léo Techmaker",
+    "person_slug": "leo-techmaker",
+    "confidence": "medium",
+    "notes": "YouTube channel name, real name not confirmed"
+  },
+  {
+    "talent_raw": "Léonie K",
+    "type": "person",
+    "real_name": "Léonie K",
+    "person_slug": "leonie-k",
+    "confidence": "medium",
+    "notes": "Partial name or pseudonym, full surname not identified"
+  },
+  {
+    "talent_raw": "Léonie Violain",
+    "type": "person",
+    "real_name": "Léonie Violain",
+    "person_slug": "leonie-violain",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Léopold Lemarchand",
+    "type": "person",
+    "real_name": "Léopold Lemarchand",
+    "person_slug": "leopold-lemarchand",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "MANON VUOKO",
+    "type": "person",
+    "real_name": "Manon Vuoko",
+    "person_slug": "manon-vuoko",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "MATTHIEU LONGATTE",
+    "type": "person",
+    "real_name": "Matthieu Longatte",
+    "person_slug": "matthieu-longatte",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "MAUD BETTINA-MARIE",
+    "type": "person",
+    "real_name": "Maud Bettina-Marie",
+    "person_slug": "maud-bettina-marie",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "MOOVANCE",
+    "type": "person",
+    "real_name": "MOOVANCE",
+    "person_slug": "moovance",
+    "confidence": "low",
+    "notes": "Channel/pseudonym name, real person not identified"
+  },
+  {
+    "talent_raw": "MalcolmToTheWorld",
+    "type": "person",
+    "real_name": "MalcolmToTheWorld",
+    "person_slug": "malcolm-to-the-world",
+    "confidence": "low",
+    "notes": "YouTube channel name, real person not identified"
+  },
+  {
+    "talent_raw": "Malec",
+    "type": "person",
+    "real_name": "Malec",
+    "person_slug": "malec",
+    "confidence": "low",
+    "notes": "YouTube pseudonym, real name not identified"
+  },
+  {
+    "talent_raw": "Malik BOURKACHE",
+    "type": "person",
+    "real_name": "Malik Bourkache",
+    "person_slug": "malik-bourkache",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Mamytwink",
+    "type": "person",
+    "real_name": "Mamytwink",
+    "person_slug": "mamytwink",
+    "confidence": "medium",
+    "notes": "YouTube/gaming pseudonym, real name not confirmed"
+  },
+  {
+    "talent_raw": "Manon Bril",
+    "type": "person",
+    "real_name": "Manon Champier",
+    "person_slug": "manon-champier",
+    "confidence": "high",
+    "notes": "YouTube pseudonym 'Manon Bril', real name Manon Champier, channel 'C'est une autre histoire'"
+  },
+  {
+    "talent_raw": "Manon Bril (C'est une autre histoire)",
+    "type": "person",
+    "real_name": "Manon Champier",
+    "person_slug": "manon-champier",
+    "confidence": "high",
+    "notes": "YouTube channel 'C'est une autre histoire', real name confirmed as Manon Champier"
+  },
+  {
+    "talent_raw": "Manon Bril (Manon Champier)",
+    "type": "person",
+    "real_name": "Manon Champier",
+    "person_slug": "manon-champier",
+    "confidence": "high",
+    "notes": "Real name explicitly given"
+  },
+  {
+    "talent_raw": "Margorito",
+    "type": "person",
+    "real_name": "Margot Spindler",
+    "person_slug": "margot-spindler",
+    "confidence": "high",
+    "notes": "Pseudonym, beneficiary confirms real name as Margot Spindler"
+  },
+  {
+    "talent_raw": "Marie Durrieu",
+    "type": "person",
+    "real_name": "Marie Durrieu",
+    "person_slug": "marie-durrieu",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Marie Treibert",
+    "type": "person",
+    "real_name": "Marie Treibert",
+    "person_slug": "marie-treibert",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Marie de Brauer",
+    "type": "person",
+    "real_name": "Marie de Brauer",
+    "person_slug": "marie-de-brauer",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Mariette Auvray",
+    "type": "person",
+    "real_name": "Mariette Auvray",
+    "person_slug": "mariette-auvray",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Marina Quenan",
+    "type": "person",
+    "real_name": "Marina Quenan",
+    "person_slug": "marina-quenan",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Marina Ziolkowski",
+    "type": "person",
+    "real_name": "Marina Ziolkowski",
+    "person_slug": "marina-ziolkowski",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Marine PERIN",
+    "type": "person",
+    "real_name": "Marine Perin",
+    "person_slug": "marine-perin",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Marion séclin et Elvire Duvelle-Charles",
+    "type": "person",
+    "real_name": "Marion Séclin et Elvire Duvelle-Charles",
+    "person_slug": "marion-seclin-et-elvire-duvelle-charles",
+    "confidence": "high",
+    "notes": "Duo of creators, associated with Clit Révolution"
+  },
+  {
+    "talent_raw": "Martial LOMBARD",
+    "type": "person",
+    "real_name": "Martial Lombard",
+    "person_slug": "martial-lombard",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Martial Obry",
+    "type": "person",
+    "real_name": "Martial Obry",
+    "person_slug": "martial-obry",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Matdeuh",
+    "type": "person",
+    "real_name": "Matdeuh",
+    "person_slug": "matdeuh",
+    "confidence": "low",
+    "notes": "YouTube pseudonym, real name not identified"
+  },
+  {
+    "talent_raw": "Mathias Joubert X Surf Island Family",
+    "type": "person",
+    "real_name": "Mathias Joubert",
+    "person_slug": "mathias-joubert",
+    "confidence": "medium",
+    "notes": "Individual creator collaborating with Surf Island Family"
+  },
+  {
+    "talent_raw": "Mathieu Burgalassi",
+    "type": "person",
+    "real_name": "Mathieu Burgalassi",
+    "person_slug": "mathieu-burgalassi",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Mathieu Courdesses",
+    "type": "person",
+    "real_name": "Mathieu Courdesses",
+    "person_slug": "mathieu-courdesses",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Mathieu Duméry et Lénie Cherino",
+    "type": "person",
+    "real_name": "Mathieu Duméry et Lénie Cherino",
+    "person_slug": "mathieu-dumery-et-lenie-cherino",
+    "confidence": "high",
+    "notes": "Duo of creators"
+  },
+  {
+    "talent_raw": "Mathilde HIRSCH",
+    "type": "person",
+    "real_name": "Mathilde Hirsch",
+    "person_slug": "mathilde-hirsch",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Matthias Quiviger",
+    "type": "person",
+    "real_name": "Matthias Quiviger",
+    "person_slug": "matthias-quiviger",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Max Bird",
+    "type": "person",
+    "real_name": "Max Bird",
+    "person_slug": "max-bird",
+    "confidence": "medium",
+    "notes": "Likely a pseudonym or stage name, real name not confirmed"
+  },
+  {
+    "talent_raw": "Max Laulom",
+    "type": "person",
+    "real_name": "Max Laulom",
+    "person_slug": "max-laulom",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Maxime Noyon",
+    "type": "person",
+    "real_name": "Maxime Noyon",
+    "person_slug": "maxime-noyon",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Maxime QUERE",
+    "type": "person",
+    "real_name": "Maxime Quere",
+    "person_slug": "maxime-quere",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Maxime THUILLEZ",
+    "type": "person",
+    "real_name": "Maxime Thuillez",
+    "person_slug": "maxime-thuillez",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "McFly et Carlito",
+    "type": "person",
+    "real_name": "McFly et Carlito",
+    "person_slug": "mcfly-et-carlito",
+    "confidence": "high",
+    "notes": "Duo: McFly (David Coscas) and Carlito (Corentin Séminel), popular French YouTubers"
+  },
+  {
+    "talent_raw": "Mehdi Gatao",
+    "type": "person",
+    "real_name": "Mehdi Boudhraa",
+    "person_slug": "mehdi-boudhraa",
+    "confidence": "high",
+    "notes": "Pseudonym Mehdi Gatao, real name confirmed by beneficiary as Mehdi Boudhraa"
+  },
+  {
+    "talent_raw": "Mehdi H'Hamdi",
+    "type": "person",
+    "real_name": "Mehdi H'Hamdi",
+    "person_slug": "mehdi-hhamdi",
+    "confidence": "high",
+    "notes": "Real name"
+  },
+  {
+    "talent_raw": "Mehdi M'Hamdi",
+    "type": "person",
+    "real_name": "Mehdi M'Hamdi",
+    "person_slug": "mehdi-mhamdi",
+    "confidence": "high",
+    "notes": "Real name, likely same person as Mehdi H'Hamdi with spelling variant"
+  },
+  {
+    "talent_raw": "Mehdi Moussaïd",
+    "type": "person",
+    "real_name": "Mehdi Moussaïd",
+    "person_slug": "mehdi-moussaid",
+    "confidence": "high",
+    "notes": "Science YouTuber (Fouloscopie)"
+  },
+  {
+    "talent_raw": "Merci Beaucul",
+    "type": "person",
+    "real_name": "Merci Beaucul",
+    "person_slug": "merci-beaucul",
+    "confidence": "low",
+    "notes": "Channel name, real name unknown"
+  },
+  {
+    "talent_raw": "Merick \u0026 Gohu",
+    "type": "person",
+    "real_name": "Merick \u0026 Gohu",
+    "person_slug": "merick-gohu",
+    "confidence": "medium",
+    "notes": "Duo of creators"
+  },
+  {
+    "talent_raw": "Micmac Officiel (Charles Falanga \u0026 Dorian Hays)",
+    "type": "person",
+    "real_name": "Charles Falanga \u0026 Dorian Hays",
+    "person_slug": "charles-falanga-dorian-hays",
+    "confidence": "high",
+    "notes": "Duo behind Micmac Officiel YouTube channel"
+  },
+  {
+    "talent_raw": "Micmac_Officiel (Charles Falanga \u0026 Dorian Hays)",
+    "type": "person",
+    "real_name": "Charles Falanga \u0026 Dorian Hays",
+    "person_slug": "charles-falanga-dorian-hays",
+    "confidence": "high",
+    "notes": "Duplicate entry for Micmac Officiel duo"
+  },
+  {
+    "talent_raw": "MisterMV",
+    "type": "person",
+    "real_name": "Maxime Verlhac",
+    "person_slug": "maxime-verlhac",
+    "confidence": "high",
+    "notes": "French streamer/YouTuber known as MisterMV"
+  },
+  {
+    "talent_raw": "Monsieur Phi",
+    "type": "person",
+    "real_name": "Thibaut Giraud",
+    "person_slug": "thibaut-giraud",
+    "confidence": "high",
+    "notes": "Philosophy YouTuber known as Monsieur Phi"
+  },
+  {
+    "talent_raw": "Monsieurlechat94",
+    "type": "person",
+    "real_name": "Monsieurlechat94",
+    "person_slug": "monsieurlechat94",
+    "confidence": "low",
+    "notes": "Channel name, real name unknown"
+  },
+  {
+    "talent_raw": "Mordred Guadagno",
+    "type": "person",
+    "real_name": "Mordred Guadagno",
+    "person_slug": "mordred-guadagno",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Morgan LE FAUCHEUR",
+    "type": "person",
+    "real_name": "Morgan Le Faucheur",
+    "person_slug": "morgan-le-faucheur",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Morgan Le Clec'h",
+    "type": "person",
+    "real_name": "Morgan Le Clec'h",
+    "person_slug": "morgan-le-clech",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Mouedi Jimmy",
+    "type": "person",
+    "real_name": "Jimmy Mouedi",
+    "person_slug": "jimmy-mouedi",
+    "confidence": "high",
+    "notes": "Name listed in reverse order"
+  },
+  {
+    "talent_raw": "Mounib BEN ABBES (BA Mounib)",
+    "type": "person",
+    "real_name": "Mounib Ben Abbes",
+    "person_slug": "mounib-ben-abbes",
+    "confidence": "high",
+    "notes": "Real name with channel alias BA Mounib"
+  },
+  {
+    "talent_raw": "Mélanie Toubeau",
+    "type": "person",
+    "real_name": "Mélanie Toubeau",
+    "person_slug": "melanie-toubeau",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "NEXUS VI",
+    "type": "person",
+    "real_name": "Benjamin Combes",
+    "person_slug": "benjamin-combes",
+    "confidence": "high",
+    "notes": "YouTube channel Nexus VI run by Benjamin Combes"
+  },
+  {
+    "talent_raw": "Nacache Jérémie",
+    "type": "person",
+    "real_name": "Jérémie Nacache",
+    "person_slug": "jeremie-nacache",
+    "confidence": "high",
+    "notes": "Name listed in reverse order"
+  },
+  {
+    "talent_raw": "Nawal STOULI",
+    "type": "person",
+    "real_name": "Nawal Stouli",
+    "person_slug": "nawal-stouli",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Nebuleuses et Cacao",
+    "type": "person",
+    "real_name": "Corentin Kimenau",
+    "person_slug": "corentin-kimenau",
+    "confidence": "high",
+    "notes": "Channel name Nébuleuses et Cacao; beneficiary lists real name"
+  },
+  {
+    "talent_raw": "Nexus VI",
+    "type": "person",
+    "real_name": "Benjamin Combes",
+    "person_slug": "benjamin-combes",
+    "confidence": "high",
+    "notes": "YouTube channel run by Benjamin Combes"
+  },
+  {
+    "talent_raw": "Nicolas Berno",
+    "type": "person",
+    "real_name": "Nicolas Berno",
+    "person_slug": "nicolas-berno",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Nicolas Capus, Anais Fabre \u0026 Ingrid Graziani",
+    "type": "person",
+    "real_name": "Nicolas Capus, Anaïs Fabre \u0026 Ingrid Graziani",
+    "person_slug": "nicolas-capus-anais-fabre-ingrid-graziani",
+    "confidence": "high",
+    "notes": "Trio of creators"
+  },
+  {
+    "talent_raw": "Nicolas Delage",
+    "type": "person",
+    "real_name": "Nicolas Delage",
+    "person_slug": "nicolas-delage",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Nicolas Meyrieux",
+    "type": "person",
+    "real_name": "Nicolas Meyrieux",
+    "person_slug": "nicolas-meyrieux",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Ninar AL HIMDANI et Zhéva BLOUD",
+    "type": "person",
+    "real_name": "Ninar Al Himdani \u0026 Zhéva Bloud",
+    "person_slug": "ninar-al-himdani-zheva-bloud",
+    "confidence": "high",
+    "notes": "Duo of creators"
+  },
+  {
+    "talent_raw": "Nono",
+    "type": "person",
+    "real_name": "Nono",
+    "person_slug": "nono",
+    "confidence": "low",
+    "notes": "Pseudonym, real name unknown"
+  },
+  {
+    "talent_raw": "Nora Bouazzouni",
+    "type": "person",
+    "real_name": "Nora Bouazzouni",
+    "person_slug": "nora-bouazzouni",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Néhémie Lemal",
+    "type": "person",
+    "real_name": "Néhémie Lemal",
+    "person_slug": "nehemie-lemal",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "OBSCURIA",
+    "type": "person",
+    "real_name": "OBSCURIA",
+    "person_slug": "obscuria",
+    "confidence": "low",
+    "notes": "Channel/pseudonym, real name unknown"
+  },
+  {
+    "talent_raw": "Observateur Ebène",
+    "type": "person",
+    "real_name": "Observateur Ebène",
+    "person_slug": "observateur-ebene",
+    "confidence": "low",
+    "notes": "Channel name, real name unknown"
+  },
+  {
+    "talent_raw": "Ockam Razor",
+    "type": "person",
+    "real_name": "Martial Lombard",
+    "person_slug": "martial-lombard",
+    "confidence": "high",
+    "notes": "Channel name Ockam Razor; beneficiary lists real name Martial Lombard"
+  },
+  {
+    "talent_raw": "Off Investigation",
+    "type": "company",
+    "real_name": "Off Investigation",
+    "person_slug": "off-investigation",
+    "confidence": "high",
+    "notes": "Investigative media company/collective"
+  },
+  {
+    "talent_raw": "Off investigation",
+    "type": "company",
+    "real_name": "Off Investigation",
+    "person_slug": "off-investigation",
+    "confidence": "high",
+    "notes": "Duplicate entry for Off Investigation media company"
+  },
+  {
+    "talent_raw": "Olbius",
+    "type": "person",
+    "real_name": "Pierre Albisser",
+    "person_slug": "pierre-albisser",
+    "confidence": "high",
+    "notes": "Channel name Olbius; beneficiary lists Pierre Albisser"
+  },
+  {
+    "talent_raw": "Oldyssey",
+    "type": "person",
+    "real_name": "Clément Boxebeld",
+    "person_slug": "clement-boxebeld",
+    "confidence": "high",
+    "notes": "Channel name Oldyssey; beneficiary lists Clément Boxebeld"
+  },
+  {
+    "talent_raw": "Olivier CARPENTIER",
+    "type": "person",
+    "real_name": "Olivier Carpentier",
+    "person_slug": "olivier-carpentier",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Olivier Lallart",
+    "type": "person",
+    "real_name": "Olivier Lallart",
+    "person_slug": "olivier-lallart",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Olivier MAGERMANS",
+    "type": "person",
+    "real_name": "Olivier Magermans",
+    "person_slug": "olivier-magermans",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Olivier Magermans",
+    "type": "person",
+    "real_name": "Olivier Magermans",
+    "person_slug": "olivier-magermans",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Olivier Schmitt",
+    "type": "person",
+    "real_name": "Olivier Schmitt",
+    "person_slug": "olivier-schmitt",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "On Stairs",
+    "type": "person",
+    "real_name": "On Stairs",
+    "person_slug": "on-stairs",
+    "confidence": "low",
+    "notes": "Channel/pseudonym, real name unknown"
+  },
+  {
+    "talent_raw": "On est prêt !",
+    "type": "company",
+    "real_name": "On est prêt !",
+    "person_slug": "on-est-pret",
+    "confidence": "medium",
+    "notes": "Appears to be a media/content collective rather than a solo creator"
+  },
+  {
+    "talent_raw": "Ophélie DAMBLÉ - Ta Mère Nature",
+    "type": "person",
+    "real_name": "Ophélie Damblé",
+    "person_slug": "ophelie-demble",
+    "confidence": "high",
+    "notes": "Real name with channel name Ta Mère Nature"
+  },
+  {
+    "talent_raw": "Or Périph",
+    "type": "person",
+    "real_name": "Or Périph",
+    "person_slug": "or-periph",
+    "confidence": "low",
+    "notes": "Channel/pseudonym, real name unknown"
+  },
+  {
+    "talent_raw": "P.O.V",
+    "type": "person",
+    "real_name": "P.O.V",
+    "person_slug": "pov",
+    "confidence": "low",
+    "notes": "Channel/pseudonym, real name unknown"
+  },
+  {
+    "talent_raw": "PAM - Pan African Music",
+    "type": "company",
+    "real_name": "PAM - Pan African Music",
+    "person_slug": "pam-pan-african-music",
+    "confidence": "high",
+    "notes": "Media company focused on Pan African music"
+  },
+  {
+    "talent_raw": "PAM I Pan African Music",
+    "type": "company",
+    "real_name": "PAM - Pan African Music",
+    "person_slug": "pam-pan-african-music",
+    "confidence": "high",
+    "notes": "Duplicate entry for PAM media company"
+  },
+  {
+    "talent_raw": "PAM – Pan African Music",
+    "type": "company",
+    "real_name": "PAM - Pan African Music",
+    "person_slug": "pam-pan-african-music",
+    "confidence": "high",
+    "notes": "Duplicate entry for PAM media company"
+  },
+  {
+    "talent_raw": "PARLONS PEU MAIS PARLONS",
+    "type": "person",
+    "real_name": "PARLONS PEU MAIS PARLONS",
+    "person_slug": "parlons-peu-mais-parlons",
+    "confidence": "low",
+    "notes": "Channel name, real name unknown"
+  },
+  {
+    "talent_raw": "POQSSI",
+    "type": "person",
+    "real_name": "POQSSI",
+    "person_slug": "poqssi",
+    "confidence": "low",
+    "notes": "Channel/pseudonym, real name unknown"
+  },
+  {
+    "talent_raw": "PV Nova",
+    "type": "person",
+    "real_name": "Pierre-Valentin Nova",
+    "person_slug": "pierre-valentin-nova",
+    "confidence": "medium",
+    "notes": "French music/YouTube creator known as PV Nova"
+  },
+  {
+    "talent_raw": "Pablo PINASCO",
+    "type": "person",
+    "real_name": "Pablo Pinasco",
+    "person_slug": "pablo-pinasco",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Pangäa",
+    "type": "person",
+    "real_name": "Pangäa",
+    "person_slug": "pangaea",
+    "confidence": "low",
+    "notes": "Channel/pseudonym, real name unknown"
+  },
+  {
+    "talent_raw": "Partager C'est Sympa",
+    "type": "person",
+    "real_name": "Partager C'est Sympa",
+    "person_slug": "partager-cest-sympa",
+    "confidence": "low",
+    "notes": "Channel name, real name unknown"
+  },
+  {
+    "talent_raw": "Partager c'est Sympa",
+    "type": "person",
+    "real_name": "Partager C'est Sympa",
+    "person_slug": "partager-cest-sympa",
+    "confidence": "low",
+    "notes": "Duplicate entry, channel name"
+  },
+  {
+    "talent_raw": "Partager c'est sympa",
+    "type": "person",
+    "real_name": "Partager C'est Sympa",
+    "person_slug": "partager-cest-sympa",
+    "confidence": "low",
+    "notes": "Duplicate entry, channel name"
+  },
+  {
+    "talent_raw": "Pascal Goblot",
+    "type": "person",
+    "real_name": "Pascal Goblot",
+    "person_slug": "pascal-goblot",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Passé Sauvage",
+    "type": "person",
+    "real_name": "Passé Sauvage",
+    "person_slug": "passe-sauvage",
+    "confidence": "low",
+    "notes": "Channel name, real name unknown"
+  },
+  {
+    "talent_raw": "Passé sauvage",
+    "type": "person",
+    "real_name": "Passé Sauvage",
+    "person_slug": "passe-sauvage",
+    "confidence": "low",
+    "notes": "Duplicate entry, channel name"
+  },
+  {
+    "talent_raw": "Patrick BAUD",
+    "type": "person",
+    "real_name": "Patrick Baud",
+    "person_slug": "patrick-baud",
+    "confidence": "high",
+    "notes": "Creator behind Axolot YouTube channel"
+  },
+  {
+    "talent_raw": "Patrick Baud et AudeGogny-Goubert",
+    "type": "person",
+    "real_name": "Patrick Baud \u0026 Aude Gogny-Goubert",
+    "person_slug": "patrick-baud-aude-gogny-goubert",
+    "confidence": "high",
+    "notes": "Duo of creators"
+  },
+  {
+    "talent_raw": "Paul Lascabettes",
+    "type": "person",
+    "real_name": "Paul Lascabettes",
+    "person_slug": "paul-lascabettes",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Paul MARQUES DUARTE",
+    "type": "person",
+    "real_name": "Paul Marques Duarte",
+    "person_slug": "paul-marques-duarte",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Paul Raillard",
+    "type": "person",
+    "real_name": "Paul Raillard",
+    "person_slug": "paul-raillard",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Paul Trandonnet",
+    "type": "person",
+    "real_name": "Paul Trandonnet",
+    "person_slug": "paul-trandonnet",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Paye Ton Crush",
+    "type": "person",
+    "real_name": "Paye Ton Crush",
+    "person_slug": "paye-ton-crush",
+    "confidence": "low",
+    "notes": "Channel name, real name unknown"
+  },
+  {
+    "talent_raw": "Pensée sauvage",
+    "type": "person",
+    "real_name": "Pensée sauvage",
+    "person_slug": "pensee-sauvage",
+    "confidence": "low",
+    "notes": "Channel name, real name unknown"
+  },
+  {
+    "talent_raw": "Permavenir",
+    "type": "person",
+    "real_name": "Permavenir",
+    "person_slug": "permavenir",
+    "confidence": "low",
+    "notes": "Channel name, real name unknown"
+  },
+  {
+    "talent_raw": "Phosphore",
+    "type": "company",
+    "real_name": "Phosphore",
+    "person_slug": "phosphore",
+    "confidence": "high",
+    "notes": "Phosphore is a Bayard Presse youth media brand/magazine"
+  },
+  {
+    "talent_raw": "Pierre-Emmanuel Urcun, Bertrand Basset Sébastien",
+    "type": "person",
+    "real_name": "Pierre-Emmanuel Urcun \u0026 Bertrand Basset Sébastien",
+    "person_slug": "pierre-emmanuel-urcun-bertrand-basset-sebastien",
+    "confidence": "medium",
+    "notes": "Duo/trio of creators"
+  },
+  {
+    "talent_raw": "Poisson Fécond",
+    "type": "person",
+    "real_name": "Poisson Fécond",
+    "person_slug": "poisson-fecond",
+    "confidence": "low",
+    "notes": "Channel/pseudonym, real name unknown"
+  },
+  {
+    "talent_raw": "PolyHeart",
+    "type": "person",
+    "real_name": "PolyHeart",
+    "person_slug": "polyheart",
+    "confidence": "low",
+    "notes": "Channel/pseudonym, real name unknown"
+  },
+  {
+    "talent_raw": "Professeur Feuillage",
+    "type": "person",
+    "real_name": "Professeur Feuillage",
+    "person_slug": "professeur-feuillage",
+    "confidence": "low",
+    "notes": "Channel/pseudonym, real name unknown"
+  },
+  {
+    "talent_raw": "Punchologue",
+    "type": "person",
+    "real_name": "Ryan Mahieddine",
+    "person_slug": "ryan-mahieddine",
+    "confidence": "high",
+    "notes": "Channel name Punchologue; beneficiary lists M. Ryan Mahieddine"
+  },
+  {
+    "talent_raw": "Queen Camille",
+    "type": "person",
+    "real_name": "Queen Camille",
+    "person_slug": "queen-camille",
+    "confidence": "low",
+    "notes": "Channel/pseudonym, real name unknown"
+  },
+  {
+    "talent_raw": "Queenie TASSELL et Ambre LARRAZET",
+    "type": "person",
+    "real_name": "Queenie Tassell \u0026 Ambre Larrazet",
+    "person_slug": "queenie-tassell-ambre-larrazet",
+    "confidence": "high",
+    "notes": "Duo of creators"
+  },
+  {
+    "talent_raw": "Quentin Herlemont \u0026 Thibault Gilles",
+    "type": "person",
+    "real_name": "Quentin Herlemont \u0026 Thibault Gilles",
+    "person_slug": "quentin-herlemont-thibault-gilles",
+    "confidence": "high",
+    "notes": "Duo of creators"
+  },
+  {
+    "talent_raw": "Quentin Keriven",
+    "type": "person",
+    "real_name": "Quentin Keriven",
+    "person_slug": "quentin-keriven",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Rachel Kwarteng \u0026 Nicolas Jalu",
+    "type": "person",
+    "real_name": "Rachel Kwarteng \u0026 Nicolas Jalu",
+    "person_slug": "rachel-kwarteng-nicolas-jalu",
+    "confidence": "high",
+    "notes": "Duo of creators from BKE collective"
+  },
+  {
+    "talent_raw": "Rachel Kwarteng du collectif BKE",
+    "type": "person",
+    "real_name": "Rachel Kwarteng",
+    "person_slug": "rachel-kwarteng",
+    "confidence": "high",
+    "notes": "Individual creator from BKE collective"
+  },
+  {
+    "talent_raw": "Rancho Webshow",
+    "type": "person",
+    "real_name": "Rancho Webshow",
+    "person_slug": "rancho-webshow",
+    "confidence": "low",
+    "notes": "Channel name, real name unknown"
+  },
+  {
+    "talent_raw": "Raphael MARRIQ - ARTOUS",
+    "type": "person",
+    "real_name": "Raphaël Marriq",
+    "person_slug": "raphael-marriq",
+    "confidence": "high",
+    "notes": "Real name with production company ARTOUS"
+  },
+  {
+    "talent_raw": "Rilès",
+    "type": "person",
+    "real_name": "Rilès",
+    "person_slug": "riles",
+    "confidence": "medium",
+    "notes": "French rapper/creator; stage name used as talent name"
+  },
+  {
+    "talent_raw": "Robin Deriaud",
+    "type": "person",
+    "real_name": "Robin Deriaud",
+    "person_slug": "robin-deriaud",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Rokhaya Diallo",
+    "type": "person",
+    "real_name": "Rokhaya Diallo",
+    "person_slug": "rokhaya-diallo",
+    "confidence": "high",
+    "notes": "French journalist and activist"
+  },
+  {
+    "talent_raw": "Romain Filstroff - Linguisticae",
+    "type": "person",
+    "real_name": "Romain Filstroff",
+    "person_slug": "romain-filstroff",
+    "confidence": "high",
+    "notes": "Creator behind Linguisticae YouTube channel"
+  },
+  {
+    "talent_raw": "Rose Carpet",
+    "type": "person",
+    "real_name": "Rose Carpet",
+    "person_slug": "rose-carpet",
+    "confidence": "low",
+    "notes": "Channel/pseudonym, real name unknown"
+  },
+  {
+    "talent_raw": "Roxane Bret",
+    "type": "person",
+    "real_name": "Roxane Bret",
+    "person_slug": "roxane-bret",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Ruddy LAPORAL",
+    "type": "person",
+    "real_name": "Ruddy Laporal",
+    "person_slug": "ruddy-laporal",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "SCIC BLAST LE SOUFFLE DE L'INFO",
+    "type": "company",
+    "real_name": "BLAST Le Souffle de l'Info",
+    "person_slug": "blast-le-souffle-de-linfo",
+    "confidence": "high",
+    "notes": "French online news media company (SCIC cooperative)"
+  },
+  {
+    "talent_raw": "SCILABUS",
+    "type": "person",
+    "real_name": "Viviane Lalande",
+    "person_slug": "viviane-lalande",
+    "confidence": "high",
+    "notes": "Science YouTube channel run by Viviane Lalande"
+  },
+  {
+    "talent_raw": "SELFIE'STORIQUE",
+    "type": "person",
+    "real_name": "SELFIE'STORIQUE",
+    "person_slug": "selfiestorique",
+    "confidence": "low",
+    "notes": "Channel name, real name unknown"
+  },
+  {
+    "talent_raw": "SPOT",
+    "type": "person",
+    "real_name": "SPOT",
+    "person_slug": "spot",
+    "confidence": "low",
+    "notes": "Channel/pseudonym, real name unknown"
+  },
+  {
+    "talent_raw": "SUPERAMA",
+    "type": "company",
+    "real_name": "SUPERAMA",
+    "person_slug": "superama",
+    "confidence": "medium",
+    "notes": "Appears to be a production/media company (also beneficiary for Science de Comptoir)"
+  },
+  {
+    "talent_raw": "SUPERFLAME",
+    "type": "person",
+    "real_name": "SUPERFLAME",
+    "person_slug": "superflame",
+    "confidence": "low",
+    "notes": "Channel/pseudonym, real name unknown"
+  },
+  {
+    "talent_raw": "Sabine",
+    "type": "person",
+    "real_name": "Sabine",
+    "person_slug": "sabine",
+    "confidence": "low",
+    "notes": "First name only, real name unknown"
+  },
+  {
+    "talent_raw": "Sacha Picard",
+    "type": "person",
+    "real_name": "Sacha Picard",
+    "person_slug": "sacha-picard",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Samir Tidmint",
+    "type": "person",
+    "real_name": "Samir Tidmint",
+    "person_slug": "samir-tidmint",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Sandra Parra et Armand Robin",
+    "type": "person",
+    "real_name": "Sandra Parra \u0026 Armand Robin",
+    "person_slug": "sandra-parra-armand-robin",
+    "confidence": "high",
+    "notes": "Duo of creators"
+  },
+  {
+    "talent_raw": "Sandy Lobry",
+    "type": "person",
+    "real_name": "Sandy Lobry",
+    "person_slug": "sandy-lobry",
+    "confidence": "high",
+    "notes": "Real name used directly"
+  },
+  {
+    "talent_raw": "Science de Comptoir",
+    "type": "person",
+    "real_name": "Science de Comptoir",
+    "person_slug": "science-de-comptoir",
+    "confidence": "low",
+    "notes": "Channel name, real name unknown"
+  },
+  {
+    "talent_raw": "Scotty Bernard et Maïssa Diawara",
+    "type": "person",
+    "real_name": "Scotty Bernard et Maïssa Diawara",
+    "person_slug": "scotty-bernard-et-maissa-diawara",
+    "confidence": "high",
+    "notes": "Duo of creators"
+  },
+  {
+    "talent_raw": "Sebastian Marx",
+    "type": "person",
+    "real_name": "Sebastian Marx",
+    "person_slug": "sebastian-marx",
+    "confidence": "high",
+    "notes": "American-French stand-up comedian and YouTuber"
+  },
+  {
+    "talent_raw": "Seumboy",
+    "type": "person",
+    "real_name": "Seumboy Vrainom",
+    "person_slug": "seumboy-vrainom",
+    "confidence": "high",
+    "notes": "YouTube channel name / pseudonym"
+  },
+  {
+    "talent_raw": "Seumboy Vrainom (chaîne Histoires Crépues)",
+    "type": "person",
+    "real_name": "Seumboy Vrainom",
+    "person_slug": "seumboy-vrainom",
+    "confidence": "high",
+    "notes": "Channel Histoires Crépues"
+  },
+  {
+    "talent_raw": "Shirley Souagnon",
+    "type": "person",
+    "real_name": "Shirley Souagnon",
+    "person_slug": "shirley-souagnon",
+    "confidence": "high",
+    "notes": "French comedian and YouTuber"
+  },
+  {
+    "talent_raw": "Simon Puech",
+    "type": "person",
+    "real_name": "Simon Puech",
+    "person_slug": "simon-puech",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Simon [Officiel]",
+    "type": "person",
+    "real_name": "Simon Clair",
+    "person_slug": "simon-clair",
+    "confidence": "medium",
+    "notes": "French YouTube children's channel; real name Simon Clair"
+  },
+  {
+    "talent_raw": "Solange te parle",
+    "type": "person",
+    "real_name": "Solange Duacastella",
+    "person_slug": "solange-duacastella",
+    "confidence": "high",
+    "notes": "YouTube channel name"
+  },
+  {
+    "talent_raw": "SolangeTeParle",
+    "type": "person",
+    "real_name": "Solange Duacastella",
+    "person_slug": "solange-duacastella",
+    "confidence": "high",
+    "notes": "YouTube channel name"
+  },
+  {
+    "talent_raw": "Solène Azoulay",
+    "type": "person",
+    "real_name": "Solène Azoulay",
+    "person_slug": "solene-azoulay",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Sonia Krief",
+    "type": "person",
+    "real_name": "Sonia Krief",
+    "person_slug": "sonia-krief",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Sonia Terrab",
+    "type": "person",
+    "real_name": "Sonia Terrab",
+    "person_slug": "sonia-terrab",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Sophie Marie Larrouy",
+    "type": "person",
+    "real_name": "Sophie-Marie Larrouy",
+    "person_slug": "sophie-marie-larrouy",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Sophie Nahum",
+    "type": "person",
+    "real_name": "Sophie Nahum",
+    "person_slug": "sophie-nahum",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Sophie-Helene Zaimi",
+    "type": "person",
+    "real_name": "Sophie-Hélène Zaimi",
+    "person_slug": "sophie-helene-zaimi",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Sophie-Marie Larrouy",
+    "type": "person",
+    "real_name": "Sophie-Marie Larrouy",
+    "person_slug": "sophie-marie-larrouy",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Sorya MESNAGE",
+    "type": "person",
+    "real_name": "Sorya Mesnage",
+    "person_slug": "sorya-mesnage",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Sorya Mesnage",
+    "type": "person",
+    "real_name": "Sorya Mesnage",
+    "person_slug": "sorya-mesnage",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Souad Arsane et Inas Chanti",
+    "type": "person",
+    "real_name": "Souad Arsane et Inas Chanti",
+    "person_slug": "souad-arsane-et-inas-chanti",
+    "confidence": "high",
+    "notes": "Duo of creators"
+  },
+  {
+    "talent_raw": "Sourdoreille",
+    "type": "company",
+    "real_name": "Sourdoreille",
+    "person_slug": "sourdoreille",
+    "confidence": "high",
+    "notes": "Music media collective/company"
+  },
+  {
+    "talent_raw": "Sourdoreille Collectif",
+    "type": "company",
+    "real_name": "Sourdoreille",
+    "person_slug": "sourdoreille",
+    "confidence": "high",
+    "notes": "Music media collective/company"
+  },
+  {
+    "talent_raw": "StreetPress",
+    "type": "company",
+    "real_name": "StreetPress",
+    "person_slug": "streetpress",
+    "confidence": "high",
+    "notes": "Online media company"
+  },
+  {
+    "talent_raw": "String Theory",
+    "type": "company",
+    "real_name": "String Theory",
+    "person_slug": "string-theory",
+    "confidence": "high",
+    "notes": "Production/media company"
+  },
+  {
+    "talent_raw": "Stupid Economics",
+    "type": "person",
+    "real_name": "Stupid Economics",
+    "person_slug": "stupid-economics",
+    "confidence": "medium",
+    "notes": "YouTube channel name; real name not determined with confidence"
+  },
+  {
+    "talent_raw": "Stéphane Nguende et Sirayah6",
+    "type": "person",
+    "real_name": "Stéphane Nguende et Sirayah6",
+    "person_slug": "stephane-nguende-et-sirayah6",
+    "confidence": "high",
+    "notes": "Duo of creators"
+  },
+  {
+    "talent_raw": "Suillaud",
+    "type": "person",
+    "real_name": "Suillaud",
+    "person_slug": "suillaud",
+    "confidence": "low",
+    "notes": "Pseudonym; real name not determined"
+  },
+  {
+    "talent_raw": "Super Pâté",
+    "type": "person",
+    "real_name": "Super Pâté",
+    "person_slug": "super-pate",
+    "confidence": "medium",
+    "notes": "YouTube channel/pseudonym; real name not determined"
+  },
+  {
+    "talent_raw": "Swann Périssé",
+    "type": "person",
+    "real_name": "Swann Périssé",
+    "person_slug": "swann-perisse",
+    "confidence": "high",
+    "notes": "French comedian and YouTuber"
+  },
+  {
+    "talent_raw": "Swany Landau",
+    "type": "person",
+    "real_name": "Swany Landau",
+    "person_slug": "swany-landau",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Sylvain Pioutaz",
+    "type": "person",
+    "real_name": "Sylvain Pioutaz",
+    "person_slug": "sylvain-pioutaz",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Sébastien LE DIVENAH",
+    "type": "person",
+    "real_name": "Sébastien Le Divenah",
+    "person_slug": "sebastien-le-divenah",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "TOLT (Benjamin MARTINIE)",
+    "type": "person",
+    "real_name": "Benjamin Martinie",
+    "person_slug": "benjamin-martinie",
+    "confidence": "high",
+    "notes": "TOLT is the YouTube channel name"
+  },
+  {
+    "talent_raw": "TRALALERE",
+    "type": "company",
+    "real_name": "TRALALERE",
+    "person_slug": "tralalere",
+    "confidence": "high",
+    "notes": "Digital education media company"
+  },
+  {
+    "talent_raw": "Tanguy Leroux",
+    "type": "person",
+    "real_name": "Tanguy Leroux",
+    "person_slug": "tanguy-leroux",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Techniques Spatiales",
+    "type": "person",
+    "real_name": "Techniques Spatiales",
+    "person_slug": "techniques-spatiales",
+    "confidence": "medium",
+    "notes": "YouTube channel name; real name not determined"
+  },
+  {
+    "talent_raw": "Tempura Magazine",
+    "type": "company",
+    "real_name": "Tempura Magazine",
+    "person_slug": "tempura-magazine",
+    "confidence": "high",
+    "notes": "Online magazine/media entity"
+  },
+  {
+    "talent_raw": "The Good Goods",
+    "type": "company",
+    "real_name": "The Good Goods",
+    "person_slug": "the-good-goods",
+    "confidence": "high",
+    "notes": "Online media company focused on sustainable lifestyle"
+  },
+  {
+    "talent_raw": "The Sense of WOnder",
+    "type": "company",
+    "real_name": "The Sense of Wonder",
+    "person_slug": "the-sense-of-wonder",
+    "confidence": "medium",
+    "notes": "Media/production entity linked to String Theory"
+  },
+  {
+    "talent_raw": "Thibault Gilles",
+    "type": "person",
+    "real_name": "Thibault Gilles",
+    "person_slug": "thibault-gilles",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Thibault Jandot",
+    "type": "person",
+    "real_name": "Thibault Jandot",
+    "person_slug": "thibault-jandot",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Thibaut Giraud",
+    "type": "person",
+    "real_name": "Thibaut Giraud",
+    "person_slug": "thibaut-giraud",
+    "confidence": "high",
+    "notes": "Known as Monsieur Phi on YouTube"
+  },
+  {
+    "talent_raw": "Thibaut Giraud (Monsieur Phi)",
+    "type": "person",
+    "real_name": "Thibaut Giraud",
+    "person_slug": "thibaut-giraud",
+    "confidence": "high",
+    "notes": "Known as Monsieur Phi on YouTube"
+  },
+  {
+    "talent_raw": "Thierry PUPIER",
+    "type": "person",
+    "real_name": "Thierry Pupier",
+    "person_slug": "thierry-pupier",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Thinkerview",
+    "type": "company",
+    "real_name": "Thinkerview",
+    "person_slug": "thinkerview",
+    "confidence": "high",
+    "notes": "Online interview media channel/company"
+  },
+  {
+    "talent_raw": "Thomas \u0026 Rémi d'Undropdanslamare",
+    "type": "person",
+    "real_name": "Thomas \u0026 Rémi d'Undropdanslamare",
+    "person_slug": "thomas-et-remi-undropdanslamare",
+    "confidence": "medium",
+    "notes": "Duo behind YouTube channel Undropdanslamare; Rémi Abida confirmed"
+  },
+  {
+    "talent_raw": "Thomas Baronnet et Cyril Leulier (Studio Vrac)",
+    "type": "person",
+    "real_name": "Thomas Baronnet et Cyril Leulier",
+    "person_slug": "thomas-baronnet-et-cyril-leulier",
+    "confidence": "high",
+    "notes": "Duo behind Studio Vrac"
+  },
+  {
+    "talent_raw": "Thomas COMBRET",
+    "type": "person",
+    "real_name": "Thomas Combret",
+    "person_slug": "thomas-combret",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Thomas Gauthier",
+    "type": "person",
+    "real_name": "Thomas Gauthier",
+    "person_slug": "thomas-gauthier",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Thomas Métivier, Camille Fievez, Ambroise Carminati",
+    "type": "person",
+    "real_name": "Thomas Métivier, Camille Fievez, Ambroise Carminati",
+    "person_slug": "thomas-metivier-camille-fievez-ambroise-carminati",
+    "confidence": "high",
+    "notes": "Trio of creators"
+  },
+  {
+    "talent_raw": "Thomas Olland",
+    "type": "person",
+    "real_name": "Thomas Olland",
+    "person_slug": "thomas-olland",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Thomas Versaveau",
+    "type": "person",
+    "real_name": "Thomas Versaveau",
+    "person_slug": "thomas-versaveau",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Théodore Tomasz",
+    "type": "person",
+    "real_name": "Théodore Tomasz",
+    "person_slug": "theodore-tomasz",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Timothée MARTIN",
+    "type": "person",
+    "real_name": "Timothée Martin",
+    "person_slug": "timothee-martin",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Tito Gonzalez Garcia",
+    "type": "person",
+    "real_name": "Tito Gonzalez Garcia",
+    "person_slug": "tito-gonzalez-garcia",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Tom Cooks",
+    "type": "person",
+    "real_name": "Tom Cooks",
+    "person_slug": "tom-cooks",
+    "confidence": "medium",
+    "notes": "YouTube channel/pseudonym; real name not determined"
+  },
+  {
+    "talent_raw": "Tommy TAHIR",
+    "type": "person",
+    "real_name": "Tommy Tahir",
+    "person_slug": "tommy-tahir",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Tommy Tahir",
+    "type": "person",
+    "real_name": "Tommy Tahir",
+    "person_slug": "tommy-tahir",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Tommy-Lee BAÏK",
+    "type": "person",
+    "real_name": "Tommy-Lee Baïk",
+    "person_slug": "tommy-lee-baik",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Tommy-Lee Baïk",
+    "type": "person",
+    "real_name": "Tommy-Lee Baïk",
+    "person_slug": "tommy-lee-baik",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Tommy-Tahir",
+    "type": "person",
+    "real_name": "Tommy Tahir",
+    "person_slug": "tommy-tahir",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Tragha Hicham",
+    "type": "person",
+    "real_name": "Hicham Tragha",
+    "person_slug": "hicham-tragha",
+    "confidence": "high",
+    "notes": "Name appears in reversed order in talent_raw"
+  },
+  {
+    "talent_raw": "Trash",
+    "type": "person",
+    "real_name": "Trash",
+    "person_slug": "trash",
+    "confidence": "low",
+    "notes": "YouTube channel/pseudonym; real name not determined"
+  },
+  {
+    "talent_raw": "Tristan KOPP",
+    "type": "person",
+    "real_name": "Tristan Kopp",
+    "person_slug": "tristan-kopp",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Tristan Kopp",
+    "type": "person",
+    "real_name": "Tristan Kopp",
+    "person_slug": "tristan-kopp",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "USUL et COTENTIN",
+    "type": "person",
+    "real_name": "USUL et COTENTIN",
+    "person_slug": "usul-et-cotentin",
+    "confidence": "high",
+    "notes": "Duo of creators; USUL is pseudonym of Nicolas Bervas, Cotentin is pseudonym of François Saltiel"
+  },
+  {
+    "talent_raw": "Un Créatif",
+    "type": "person",
+    "real_name": "Un Créatif",
+    "person_slug": "un-creatif",
+    "confidence": "low",
+    "notes": "YouTube channel/pseudonym; real name not determined"
+  },
+  {
+    "talent_raw": "VALD",
+    "type": "person",
+    "real_name": "Valentin Le Du",
+    "person_slug": "valentin-le-du",
+    "confidence": "high",
+    "notes": "VALD is pseudonym of French rapper/YouTuber Valentin Le Du"
+  },
+  {
+    "talent_raw": "Valentin Blais",
+    "type": "person",
+    "real_name": "Valentin Blais",
+    "person_slug": "valentin-blais",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Valentin Squirelo",
+    "type": "person",
+    "real_name": "Valentin Squirelo",
+    "person_slug": "valentin-squirelo",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Valentine Delattre",
+    "type": "person",
+    "real_name": "Valentine Delattre",
+    "person_slug": "valentine-delattre",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Valentine Jongen",
+    "type": "person",
+    "real_name": "Valentine Jongen",
+    "person_slug": "valentine-jongen",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Valyu",
+    "type": "person",
+    "real_name": "Valyu",
+    "person_slug": "valyu",
+    "confidence": "low",
+    "notes": "YouTube channel/pseudonym; real name not determined"
+  },
+  {
+    "talent_raw": "Varnish la piscine",
+    "type": "person",
+    "real_name": "Varnish la piscine",
+    "person_slug": "varnish-la-piscine",
+    "confidence": "medium",
+    "notes": "YouTube channel/pseudonym; real name not determined"
+  },
+  {
+    "talent_raw": "Vert le média",
+    "type": "company",
+    "real_name": "Vert le média",
+    "person_slug": "vert-le-media",
+    "confidence": "high",
+    "notes": "Online environmental media outlet"
+  },
+  {
+    "talent_raw": "Victor HABCHY",
+    "type": "person",
+    "real_name": "Victor Habchy",
+    "person_slug": "victor-habchy",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Victor Hérault",
+    "type": "person",
+    "real_name": "Victor Hérault",
+    "person_slug": "victor-herault",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Vincent Leplat",
+    "type": "person",
+    "real_name": "Vincent Leplat",
+    "person_slug": "vincent-leplat",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Vincent Verzat",
+    "type": "person",
+    "real_name": "Vincent Verzat",
+    "person_slug": "vincent-verzat",
+    "confidence": "high",
+    "notes": "Behind YouTube channel Partager c'est Sympa"
+  },
+  {
+    "talent_raw": "Viviane Lalande",
+    "type": "person",
+    "real_name": "Viviane Lalande",
+    "person_slug": "viviane-lalande",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "WIZZ design",
+    "type": "person",
+    "real_name": "WIZZ design",
+    "person_slug": "wizz-design",
+    "confidence": "low",
+    "notes": "YouTube channel/pseudonym; real name not determined"
+  },
+  {
+    "talent_raw": "Winteractivity",
+    "type": "person",
+    "real_name": "Winteractivity",
+    "person_slug": "winteractivity",
+    "confidence": "low",
+    "notes": "YouTube channel/pseudonym; real name not determined"
+  },
+  {
+    "talent_raw": "Wladimir Autain",
+    "type": "person",
+    "real_name": "Wladimir Autain",
+    "person_slug": "wladimir-autain",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Xavier Bourgois",
+    "type": "person",
+    "real_name": "Xavier Bourgois",
+    "person_slug": "xavier-bourgois",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Xuman Gunman / LES HAUT-PARLEURS",
+    "type": "person",
+    "real_name": "Xuman Gunman",
+    "person_slug": "xuman-gunman",
+    "confidence": "medium",
+    "notes": "Channel Les Haut-Parleurs; Xuman Gunman appears to be a pseudonym"
+  },
+  {
+    "talent_raw": "YARD",
+    "type": "company",
+    "real_name": "YARD",
+    "person_slug": "yard",
+    "confidence": "high",
+    "notes": "Online youth culture media company"
+  },
+  {
+    "talent_raw": "Yacine Belhousse",
+    "type": "person",
+    "real_name": "Yacine Belhousse",
+    "person_slug": "yacine-belhousse",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Yann Tout Court",
+    "type": "person",
+    "real_name": "Yann Tout Court",
+    "person_slug": "yann-tout-court",
+    "confidence": "medium",
+    "notes": "YouTube channel/pseudonym; real name not determined"
+  },
+  {
+    "talent_raw": "Yes Vous Aime",
+    "type": "person",
+    "real_name": "Yes Vous Aime",
+    "person_slug": "yes-vous-aime",
+    "confidence": "medium",
+    "notes": "YouTube channel/pseudonym; real name not determined"
+  },
+  {
+    "talent_raw": "Yes vous aime",
+    "type": "person",
+    "real_name": "Yes Vous Aime",
+    "person_slug": "yes-vous-aime",
+    "confidence": "medium",
+    "notes": "YouTube channel/pseudonym; real name not determined"
+  },
+  {
+    "talent_raw": "Yoann Bomal",
+    "type": "person",
+    "real_name": "Yoann Bomal",
+    "person_slug": "yoann-bomal",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Yoann Clemente",
+    "type": "person",
+    "real_name": "Yoann Clemente",
+    "person_slug": "yoann-clemente",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Yoann Garel",
+    "type": "person",
+    "real_name": "Yoann Garel",
+    "person_slug": "yoann-garel",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Youssoupha Diaby",
+    "type": "person",
+    "real_name": "Youssoupha Diaby",
+    "person_slug": "youssoupha-diaby",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Ysaora Thibus",
+    "type": "person",
+    "real_name": "Ysaora Thibus",
+    "person_slug": "ysaora-thibus",
+    "confidence": "high",
+    "notes": "French fencer and content creator"
+  },
+  {
+    "talent_raw": "Yvana Aletas et Samora Curier",
+    "type": "person",
+    "real_name": "Yvana Aletas et Samora Curier",
+    "person_slug": "yvana-aletas-et-samora-curier",
+    "confidence": "high",
+    "notes": "Duo of creators"
+  },
+  {
+    "talent_raw": "Yvane Jacob",
+    "type": "person",
+    "real_name": "Yvane Jacob",
+    "person_slug": "yvane-jacob",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "Zoé Authier",
+    "type": "person",
+    "real_name": "Zoé Authier",
+    "person_slug": "zoe-authier",
+    "confidence": "high"
+  },
+  {
+    "talent_raw": "e-penser",
+    "type": "person",
+    "real_name": "Bruce Benamran",
+    "person_slug": "bruce-benamran",
+    "confidence": "high",
+    "notes": "e-penser is the YouTube channel of Bruce Benamran"
+  },
+  {
+    "talent_raw": "ici Amy Plant",
+    "type": "person",
+    "real_name": "ici Amy Plant",
+    "person_slug": "ici-amy-plant",
+    "confidence": "medium",
+    "notes": "YouTube channel name; real name not determined"
+  },
+  {
+    "talent_raw": "l'histoire racontée par des chaussettes",
+    "type": "person",
+    "real_name": "l'histoire racontée par des chaussettes",
+    "person_slug": "l-histoire-racontee-par-des-chaussettes",
+    "confidence": "medium",
+    "notes": "YouTube channel name; real name not determined"
+  },
+  {
+    "talent_raw": "on-suzane",
+    "type": "person",
+    "real_name": "Suzane",
+    "person_slug": "suzane",
+    "confidence": "medium",
+    "notes": "YouTube/online creator channel name, beneficiary SOEURCIERES suggests feminist content creator; 'on-suzane' likely refers to the creator known as Suzane"
+  },
+  {
+    "talent_raw": "Équipe Komune",
+    "type": "company",
+    "real_name": "Équipe Komune",
+    "person_slug": "equipe-komune",
+    "confidence": "high",
+    "notes": "Komune.media is a media collective/company, not a solo creator"
+  }
+]

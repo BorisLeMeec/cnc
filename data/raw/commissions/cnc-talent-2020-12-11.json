@@ -1,0 +1,275 @@
+{
+  "id": "cnc-talent-2020-12-11",
+  "fund_name": "CNC Talent",
+  "date": "2020-12-11",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-15-octobre-2020_1395148",
+  "jury": [
+    {
+      "person_id": "romain-gavras",
+      "raw_name": "Romain Gavras",
+      "role": "président"
+    },
+    {
+      "person_id": "maurice-barthelemy",
+      "raw_name": "Maurice Barthelemy",
+      "role": "membre"
+    },
+    {
+      "person_id": "galo-diallo",
+      "raw_name": "Galo Diallo",
+      "role": "membre"
+    },
+    {
+      "person_id": "nicolas-capuron",
+      "raw_name": "Nicolas Capuron",
+      "role": "membre"
+    },
+    {
+      "person_id": "barbara-israel",
+      "raw_name": "Barbara Israël",
+      "role": "membre"
+    },
+    {
+      "person_id": "salam-jawad",
+      "raw_name": "Salam Jawad",
+      "role": "membre"
+    },
+    {
+      "person_id": "lawrence-valin",
+      "raw_name": "Lawrence Valin",
+      "role": "membre"
+    },
+    {
+      "person_id": "sophie-garric",
+      "raw_name": "Sophie Garric",
+      "role": "membre"
+    },
+    {
+      "person_id": "aude-gogny-goubert",
+      "raw_name": "Aude Gogny-Goubert",
+      "role": "membre"
+    },
+    {
+      "person_id": "margaux-missika",
+      "raw_name": "Margaux Missika",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2020-12-11-son-en-1h",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-12-11",
+      "talent_raw": "Booska-P",
+      "beneficiary_raw": "Booskap",
+      "amount": 17500,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-12-11-storytank-2020",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-12-11",
+      "talent_raw": "Les Parasites",
+      "talent_person_id": "les-parasites",
+      "beneficiary_raw": "Synchrone Medias",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-12-11-soup",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-12-11",
+      "talent_raw": "Lou Howard, Florent Dorin, PV NOVA",
+      "talent_person_id": "lou-howard-florent-dorin-pv-nova",
+      "beneficiary_raw": "CENTURIONS",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-12-11-intersections",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-12-11",
+      "talent_raw": "Lucas Zef pour le Collectif La fabrique",
+      "talent_person_id": "lucas-zef",
+      "beneficiary_raw": "ANYWAY PICTURES",
+      "amount": 13300,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-12-11-universite-internationale-gardiennage",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-12-11",
+      "talent_raw": "Ismail ALAOUI FDILI",
+      "talent_person_id": "ismail-alaoui-fdili",
+      "beneficiary_raw": "Ismaïl Alaouifdili",
+      "amount": 25000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-12-11-versus-saison-2021",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-12-11",
+      "talent_raw": "Loïc Adrien",
+      "talent_person_id": "loic-adrien",
+      "beneficiary_raw": "Phenomene Films",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-12-11-trac",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-12-11",
+      "talent_raw": "Florence Fauquet",
+      "talent_person_id": "florence-fauquet",
+      "beneficiary_raw": "Florence Fauquet",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-12-11-agri-inside",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-12-11",
+      "talent_raw": "Guillaume Peltier",
+      "talent_person_id": "guillaume-peltier",
+      "beneficiary_raw": "Guillaume Peltier",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-12-11-croix-de-bois",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-12-11",
+      "talent_raw": "David Moerman et Furax Barbarossa",
+      "talent_person_id": "david-moerman-furax-barbarossa",
+      "beneficiary_raw": "Bagarre productions",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-12-11-comment-sortir-film",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-12-11",
+      "talent_raw": "Nicolas Delage",
+      "talent_person_id": "nicolas-delage",
+      "beneficiary_raw": "Nicolas Delage",
+      "amount": 10000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-12-11-angelman",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-12-11",
+      "talent_raw": "Sacha Picard",
+      "talent_person_id": "sacha-picard",
+      "beneficiary_raw": "Sacha Picard",
+      "amount": 25000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-12-11-chronique-de-marino",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-12-11",
+      "talent_raw": "Marina Quenan",
+      "talent_person_id": "marina-quenan",
+      "beneficiary_raw": "Stup",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-12-11-dabeull-funk-machine",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-12-11",
+      "talent_raw": "Dabeull",
+      "talent_person_id": "dabeull",
+      "beneficiary_raw": "Parfaite inconnue",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-12-11-damoiselle",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-12-11",
+      "talent_raw": "Ambre Larrazet et Queenie Tassell",
+      "talent_person_id": "ambre-larrazet-et-queenie-tassell",
+      "beneficiary_raw": "Jeff \u0026 Octave",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-12-11-pensee-sauvage",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-12-11",
+      "talent_raw": "Pensée sauvage",
+      "talent_person_id": "pensee-sauvage",
+      "beneficiary_raw": "Imagine 2050",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-12-11-or-noir-saison-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-12-11",
+      "talent_raw": "Blackvision",
+      "talent_person_id": "blackvision",
+      "beneficiary_raw": "Blackvision",
+      "amount": 30000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-12-11-cru",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-12-11",
+      "talent_raw": "Swany Landau",
+      "talent_person_id": "swany-landau",
+      "beneficiary_raw": "CRU Youtube",
+      "amount": 30000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2020-12-11-winteractivity",
+      "project_id": "",
+      "commission_id": "cnc-talent-2020-12-11",
+      "talent_raw": "Winteractivity",
+      "talent_person_id": "winteractivity",
+      "beneficiary_raw": "WA ! Productions",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

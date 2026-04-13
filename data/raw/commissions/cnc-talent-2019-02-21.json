@@ -2,42 +2,42 @@
   "id": "cnc-talent-2019-02-21",
   "fund_name": "CNC Talent",
   "date": "2019-02-21",
-  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-21-fevrier-2019_969312",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-18-juin-2019_1097133",
   "jury": [
     {
-      "person_id": "",
+      "person_id": "salam-jawad",
       "raw_name": "Salam JAWAD",
       "role": "président suppléant"
     },
     {
-      "person_id": "",
+      "person_id": "margaux-missika",
       "raw_name": "Margaux Missika",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "josza-anjembe",
       "raw_name": "Josza ANJEMBE",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "ina-mihalache",
       "raw_name": "Ina Mihalache",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "florent-bernard",
       "raw_name": "Florent BERNARD",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "lawrence-valin",
       "raw_name": "Lawrence VALIN",
       "role": "membre"
     }
   ],
   "grants": [
     {
-      "id": "cnc-talent-2019-02-21-semi-liberte-coming-out",
+      "id": "cnc-talent-2019-02-21-deux-series-documentaires-semi-liberte-et-coming-out",
       "project_id": "",
       "commission_id": "cnc-talent-2019-02-21",
       "talent_raw": "Les Haut-Parleurs : ALADINE ZAIANE et TRESOR N'TOR",
@@ -52,6 +52,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2019-02-21",
       "talent_raw": "Jean-Baptiste DUSSEAUX",
+      "talent_person_id": "jean-baptiste-dusseaux",
       "beneficiary_raw": "Tamara films",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -63,6 +64,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2019-02-21",
       "talent_raw": "Le Fossoyeur de Films",
+      "talent_person_id": "vincent-turhan",
       "beneficiary_raw": "Image Mouvement",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -74,6 +76,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2019-02-21",
       "talent_raw": "Anaïs VOLPÉ",
+      "talent_person_id": "anais-volpe",
       "beneficiary_raw": "Anaïs VOLPÉ",
       "amount": 20000,
       "aid_section": "aide_creation",
@@ -85,6 +88,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2019-02-21",
       "talent_raw": "Clément MONTFORT",
+      "talent_person_id": "clement-montfort",
       "beneficiary_raw": "42 PRODUCTION",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -96,6 +100,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2019-02-21",
       "talent_raw": "Irvin Anneix",
+      "talent_person_id": "irvin-anneix",
       "beneficiary_raw": "Narrative",
       "amount": 12000,
       "aid_section": "aide_creation",
@@ -107,6 +112,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2019-02-21",
       "talent_raw": "TOLT (Benjamin MARTINIE)",
+      "talent_person_id": "benjamin-martinie",
       "beneficiary_raw": "Benjamin MARTINIE",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -118,6 +124,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2019-02-21",
       "talent_raw": "Delphine Dura - Camille Ghanassia",
+      "talent_person_id": "delphine-dura-camille-ghanassia",
       "beneficiary_raw": "ROSE MECANIQUE PRODUCTION",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -129,6 +136,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2019-02-21",
       "talent_raw": "Kadiatou TRAORE",
+      "talent_person_id": "kadiatou-traore",
       "beneficiary_raw": "Kadiatou TRAORE",
       "amount": 3000,
       "aid_section": "aide_creation",
@@ -140,6 +148,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2019-02-21",
       "talent_raw": "Jean 2 Mahj",
+      "talent_person_id": "jean-2-mahj",
       "beneficiary_raw": "J2M",
       "amount": 3000,
       "aid_section": "aide_creation",
@@ -162,6 +171,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2019-02-21",
       "talent_raw": "LE GRAND PARI",
+      "talent_person_id": "le-grand-pari",
       "beneficiary_raw": "LGMT",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -173,6 +183,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2019-02-21",
       "talent_raw": "Les Fanatiques",
+      "talent_person_id": "les-fanatiques",
       "beneficiary_raw": "Partizan Films",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -191,10 +202,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2019-02-21-et-tout-le-monde-s-en-fout-saison-3",
+      "id": "cnc-talent-2019-02-21-et-tout-le-monde-sen-fout-saison-3",
       "project_id": "",
       "commission_id": "cnc-talent-2019-02-21",
       "talent_raw": "Et Tout le Monde s'en Fout",
+      "talent_person_id": "et-tout-le-monde-sen-fout",
       "beneficiary_raw": "Mia Productions",
       "amount": 50000,
       "aid_section": "aide_chaine",
@@ -206,6 +218,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2019-02-21",
       "talent_raw": "Glamouze",
+      "talent_person_id": "glamouze",
       "beneficiary_raw": "Joji Prod",
       "amount": 30000,
       "aid_section": "aide_chaine",
@@ -217,6 +230,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2019-02-21",
       "talent_raw": "Julien Pestel",
+      "talent_person_id": "julien-pestel",
       "beneficiary_raw": "Wattson",
       "amount": 25000,
       "aid_section": "aide_chaine",

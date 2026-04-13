@@ -2,50 +2,51 @@
   "id": "cnc-talent-2018-10-19",
   "fund_name": "CNC Talent",
   "date": "2018-10-19",
-  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-19-octobre-2018_900051",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-13-decembre-2018_939596",
   "jury": [
     {
-      "person_id": "",
+      "person_id": "jr",
       "raw_name": "JR",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "cyprien-iov",
       "raw_name": "Cyprien Iov",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "lorenzo-benedetti",
       "raw_name": "Lorenzo Benedetti",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "florent-bernard",
       "raw_name": "Florent Bernard",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "barbara-israel",
       "raw_name": "Barbara Israël",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "salam-jawad",
       "raw_name": "Salam Jawad",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "ina-mihalache",
       "raw_name": "Ina Mihalache",
       "role": "membre"
     }
   ],
   "grants": [
     {
-      "id": "cnc-talent-2018-10-19-t-ttoo",
+      "id": "cnc-talent-2018-10-19-ttoo",
       "project_id": "",
       "commission_id": "cnc-talent-2018-10-19",
       "talent_raw": "Lisa Miquet",
+      "talent_person_id": "lisa-miquet",
       "beneficiary_raw": "Bigger Than Fiction",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -57,6 +58,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-10-19",
       "talent_raw": "Axolot",
+      "talent_person_id": "patrick-baud",
       "beneficiary_raw": "IMAGE MOUVEMENT",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -68,6 +70,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-10-19",
       "talent_raw": "Thomas Versaveau",
+      "talent_person_id": "thomas-versaveau",
       "beneficiary_raw": "Thomas Versaveau",
       "amount": 6000,
       "aid_section": "aide_creation",
@@ -79,6 +82,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-10-19",
       "talent_raw": "Mariette Auvray",
+      "talent_person_id": "mariette-auvray",
       "beneficiary_raw": "Dryades Films",
       "amount": 10000,
       "aid_section": "aide_creation",
@@ -86,10 +90,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2018-10-19-le-vortex",
+      "id": "cnc-talent-2018-10-19-vortex",
       "project_id": "",
       "commission_id": "cnc-talent-2018-10-19",
       "talent_raw": "Le Vortex",
+      "talent_person_id": "le-vortex",
       "beneficiary_raw": "Nerd Entertainment System",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -101,6 +106,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-10-19",
       "talent_raw": "Patrick Baud et AudeGogny-Goubert",
+      "talent_person_id": "patrick-baud-aude-gogny-goubert",
       "beneficiary_raw": "La Générale de Production",
       "amount": 25000,
       "aid_section": "aide_creation",
@@ -108,7 +114,7 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2018-10-19-bureau-des-plaintes-films-dhorreur",
+      "id": "cnc-talent-2018-10-19-bureau-plaintes-films-horreur",
       "project_id": "",
       "commission_id": "cnc-talent-2018-10-19",
       "talent_raw": "Golden Moustache",
@@ -119,10 +125,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2018-10-19-vlog-de-la-cop24",
+      "id": "cnc-talent-2018-10-19-vlog-cop24",
       "project_id": "",
       "commission_id": "cnc-talent-2018-10-19",
       "talent_raw": "Partager C'est Sympa",
+      "talent_person_id": "partager-cest-sympa",
       "beneficiary_raw": "Partager C'est Sympa",
       "amount": 18000,
       "aid_section": "aide_creation",
@@ -130,10 +137,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2018-10-19-ritournelle",
+      "id": "cnc-talent-2018-10-19-ritournelle-titre-provisoire",
       "project_id": "",
       "commission_id": "cnc-talent-2018-10-19",
       "talent_raw": "Alexandre Dubosc",
+      "talent_person_id": "alexandre-dubosc",
       "beneficiary_raw": "Alexandre Dubosc",
       "amount": 13500,
       "aid_section": "aide_creation",
@@ -145,6 +153,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-10-19",
       "talent_raw": "Fif Tobossi",
+      "talent_person_id": "fif-tobossi",
       "beneficiary_raw": "696 Storyfilms",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -152,10 +161,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2018-10-19-naitre-et-etre-accueilli",
+      "id": "cnc-talent-2018-10-19-naitre-etre-accueilli",
       "project_id": "",
       "commission_id": "cnc-talent-2018-10-19",
       "talent_raw": "Sonia Krief",
+      "talent_person_id": "sonia-krief",
       "beneficiary_raw": "AM FILMS",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -163,10 +173,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2018-10-19-une-seance-presque-parfaite",
+      "id": "cnc-talent-2018-10-19-seance-presque-parfaite",
       "project_id": "",
       "commission_id": "cnc-talent-2018-10-19",
       "talent_raw": "Axel LATTUADA",
+      "talent_person_id": "axel-lattuada",
       "beneficiary_raw": "Première Média",
       "amount": 10000,
       "aid_section": "aide_creation",
@@ -189,6 +200,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-10-19",
       "talent_raw": "Clara Griot et Estelle Walton pour Francetv slash",
+      "talent_person_id": "clara-griot-estelle-walton",
       "beneficiary_raw": "CAE CLARAbis",
       "amount": 10000,
       "aid_section": "aide_creation",
@@ -196,10 +208,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2018-10-19-et-la-caravane-passe",
+      "id": "cnc-talent-2018-10-19-caravane-passe",
       "project_id": "",
       "commission_id": "cnc-talent-2018-10-19",
       "talent_raw": "USUL et COTENTIN",
+      "talent_person_id": "usul-et-cotentin",
       "beneficiary_raw": "FENSCH TOAST",
       "amount": 10000,
       "aid_section": "aide_creation",
@@ -211,6 +224,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-10-19",
       "talent_raw": "Camille Ghanassia",
+      "talent_person_id": "camille-ghanassia",
       "beneficiary_raw": "ROSE MECANIQUE PRODUCTION",
       "amount": 20000,
       "aid_section": "aide_creation",
@@ -222,6 +236,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-10-19",
       "talent_raw": "Grünt",
+      "talent_person_id": "grunt",
       "beneficiary_raw": "Grünt",
       "amount": 50000,
       "aid_section": "aide_chaine",
@@ -229,10 +244,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2018-10-19-lodyssee-dun-croissant-parisien",
+      "id": "cnc-talent-2018-10-19-odyssee-croissant-parisien",
       "project_id": "",
       "commission_id": "cnc-talent-2018-10-19",
       "talent_raw": "AlexFrenchGuyCooking",
+      "talent_person_id": "alex-cuisine",
       "beneficiary_raw": "Next Originals",
       "amount": 40000,
       "aid_section": "aide_chaine",
@@ -244,6 +260,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-10-19",
       "talent_raw": "Juliette Tresanini",
+      "talent_person_id": "juliette-tresanini",
       "beneficiary_raw": "TALENT WEB",
       "amount": 30000,
       "aid_section": "aide_chaine",
@@ -266,6 +283,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-10-19",
       "talent_raw": "Thibaut Giraud (Monsieur Phi)",
+      "talent_person_id": "thibaut-giraud",
       "beneficiary_raw": "ÉPhiScience",
       "amount": 15000,
       "aid_section": "aide_chaine",

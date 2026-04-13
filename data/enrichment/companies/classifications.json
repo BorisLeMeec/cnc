@@ -1,0 +1,233 @@
+[
+  {
+    "jury_slug": "anis-rhali",
+    "company_raw": "DIVERSIFICATION",
+    "type": "mentioned",
+    "evidence": "Snippets mention Anis Rhali's diversification strategy across video content, brand partnerships, and filmmaking, but 'DIVERSIFICATION' appears to be a concept/strategy rather than a company name. No real professional link to an entity.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "anis-rhali",
+    "company_raw": "Diversification",
+    "type": "mentioned",
+    "evidence": "Same as above - 'diversification' is a strategic concept being discussed about Anis Rhali's work, not a company entity.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "anis-rhali",
+    "company_raw": "StreetPress",
+    "type": "mentioned",
+    "evidence": "Anis Rhali appears in a StreetPress article and podcast episode, but the connection is just being mentioned together as content creators. No employment or business relationship evident.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "barbara-israel",
+    "company_raw": "Brut",
+    "type": "mentioned",
+    "evidence": "Snippet mentions 'La beauté des ruines' by Barbara Israël but the word 'brut' (brutal/raw in French) appears in the description, not as a company connection.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "benjamin-bonnet",
+    "company_raw": "YARD",
+    "type": "mentioned",
+    "evidence": "LinkedIn snippet discusses a shipyard (yard) in the context of ship refitting, but Benjamin Bonnet's connection to a company called 'YARD' is not established. The text refers to a shipyard location, not the jury member's relationship to a company.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "clara-codani",
+    "company_raw": "Les Haut-Parleurs",
+    "type": "mentioned",
+    "evidence": "Clara Codani is listed alongside other creators in a CNC funding results document. 'Les Haut-Parleurs' is listed as a separate talent/project that received aid. No clear professional link between Clara Codani and this entity.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "cyprien-iov",
+    "company_raw": "Golden Moustache",
+    "type": "business",
+    "evidence": "Multiple sources confirm Cyprien Iov has worked with Golden Moustache - he appeared in episodes of the TV series and is described as having 'amis à lui chez Golden Moustache' (friends at Golden Moustache). He was also on a jury that approved their CNC funding.",
+    "confidence": "high"
+  },
+  {
+    "jury_slug": "cyprien-iov",
+    "company_raw": "Phosphore",
+    "type": "mentioned",
+    "evidence": "Search results mention Norman and Cyprien (referring to Cyprien Verseux, an astrobiologist) being popular with Phosphore's 15-20 year old audience. This is about audience preference, not a professional relationship with Cyprien Iov.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "cyprien-iov",
+    "company_raw": "Thinkerview",
+    "type": "mentioned",
+    "evidence": "Thinkerview is mentioned as a YouTube channel recommendation in a discussion about various creators, but there's no evidence of a professional relationship between Cyprien Iov and Thinkerview.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "florent-bernard",
+    "company_raw": "Golden Moustache",
+    "type": "employee",
+    "evidence": "Multiple sources confirm Florent Bernard ('FloBer') was a member of the Golden Moustache collective from 2012-2016/2019. He wrote, directed, and edited approximately 70 videos for the group as an assistant editor and creative contributor.",
+    "confidence": "high"
+  },
+  {
+    "jury_slug": "galo-diallo",
+    "company_raw": "Booska-P",
+    "type": "mentioned",
+    "evidence": "Galo Diallo appears in a LinkedIn post mentioning Booska-P as a partner in a 2023 project ('Les Flammes'), but the snippet is incomplete. Listed together in context of YARD and SMILE as collaborators.",
+    "confidence": "medium"
+  },
+  {
+    "jury_slug": "galo-diallo",
+    "company_raw": "Brut",
+    "type": "mentioned",
+    "evidence": "Snippet mentions Guillaume Lacroix who founded Brut, and discusses Galo Diallo's reputation as an influencer agent, but no direct professional relationship between Galo Diallo and Brut is established.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "galo-diallo",
+    "company_raw": "StreetPress",
+    "type": "mentioned",
+    "evidence": "Galo Diallo is quoted in a StreetPress article about Babakam and the Smile agency managing urban influencers, but he is being interviewed/mentioned, not employed or in a business relationship with StreetPress.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "galo-diallo",
+    "company_raw": "YARD",
+    "type": "business",
+    "evidence": "LinkedIn post explicitly states 'En 2023, YARD, BOOSKA P \u0026 SMILE lanceront Les Flammes' - indicating Galo Diallo (via his SMILE agency) is collaborating with YARD on this project as a business partnership.",
+    "confidence": "high"
+  },
+  {
+    "jury_slug": "ina-mihalache",
+    "company_raw": "Brut",
+    "type": "mentioned",
+    "evidence": "First result lists various associations including something with 'BRUT' but it's unclear and appears to be a list of French associations. No clear professional connection established.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "ina-mihalache",
+    "company_raw": "Phosphore",
+    "type": "mentioned",
+    "evidence": "Phosphore published a throwback Thursday feature about Ina Mihalache (Solange te parle) discussing her lycée memories, but this is just editorial coverage, not employment or business relationship.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "jr",
+    "company_raw": "Golden Moustache",
+    "type": "mentioned",
+    "evidence": "Search results mention similar YouTube channels and some references to 'Redha Jr' but no clear connection between someone called 'JR' and Golden Moustache as a professional relationship.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "jr",
+    "company_raw": "Loopsider",
+    "type": "mentioned",
+    "evidence": "Results show Loopsider creating content about various people with 'Jr' in their name (Frank Abagnale Jr, Robert Downey Jr, etc.), but no connection between a person named 'JR' and Loopsider.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "jr",
+    "company_raw": "Sourdoreille Collectif",
+    "type": "mentioned",
+    "evidence": "Result mentions 'Dinosaur Jr.' performing at a concert that was shared by Sourdoreille Collectif, but this is about a band, not a jury member named 'JR'.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "jr",
+    "company_raw": "String Theory",
+    "type": "mentioned",
+    "evidence": "Results discuss S. James Gates Jr., a theoretical physicist, and string theory concepts. No professional relationship to a company called 'String Theory' - it's an academic field of study.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "julien-aubert",
+    "company_raw": "YARD",
+    "type": "mentioned",
+    "evidence": "LinkedIn snippet shows Julien Aubert at CEA participating in a safety ceremony at 'a yard' in China, but this refers to a shipyard location, not a company relationship with an entity called 'YARD'.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "lawrence-valin",
+    "company_raw": "Brut",
+    "type": "mentioned",
+    "evidence": "Snippets describe Lawrence Valin as a comedian/actor with 'brute' (brutal/raw) energy, but the word 'brut' is a French adjective, not a company connection.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "lorenzo-benedetti",
+    "company_raw": "Golden Moustache",
+    "type": "business",
+    "evidence": "Multiple sources compare Studio Bagel (founded by Lorenzo Benedetti) with Golden Moustache as competitors in the web humor space. They are described as separate competing collectives, with no direct employment or partnership.",
+    "confidence": "medium"
+  },
+  {
+    "jury_slug": "margaux-missika",
+    "company_raw": "Bigger Than Fiction",
+    "type": "mentioned",
+    "evidence": "Margaux Missika is listed alongside Julien Aubert (founder of Bigger Than Fiction) in a panel discussion context, but no direct professional relationship is established.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "margaux-missika",
+    "company_raw": "Golden Moustache",
+    "type": "mentioned",
+    "evidence": "Margaux Missika appears in a panel discussion about YouTubers as filmmakers alongside discussion of Golden Moustache founder Adrien Labastire, but no direct relationship to the company.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "marion-seclin",
+    "company_raw": "StreetPress",
+    "type": "mentioned",
+    "evidence": "Marion Seclin is mentioned in StreetPress articles about YouTube content creators and feminist issues, but she is being written about by the publication, not employed or in business relationship with it.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "nora-hamzawi",
+    "company_raw": "StreetPress",
+    "type": "mentioned",
+    "evidence": "StreetPress published articles mentioning Nora Hamzawi as a performer who started at La Loge theater, but this is editorial coverage, not employment or business relationship.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "romain-gavras",
+    "company_raw": "Booska-P",
+    "type": "mentioned",
+    "evidence": "Booska-P forum mentions Romain Gavras in the context of entertainment news and celebrity gossip, but no professional relationship is established.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "romain-gavras",
+    "company_raw": "Brut",
+    "type": "mentioned",
+    "evidence": "Snippets describe Romain Gavras's visual style as 'brute' (raw/brutal) but this is a French adjective describing his work, not a company connection.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "romain-gavras",
+    "company_raw": "Cyber Group Studios",
+    "type": "mentioned",
+    "evidence": "Netflix article mentions both Romain Gavras (film 'Athena') and Cyber Group Studios as separate Netflix productions, but no direct relationship between them.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "romain-gavras",
+    "company_raw": "StreetPress",
+    "type": "mentioned",
+    "evidence": "StreetPress published interviews and articles about Romain Gavras and his work, but these are editorial features, not employment or business relationships.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "shirley-souagnon",
+    "company_raw": "Brut",
+    "type": "mentioned",
+    "evidence": "Brut published a video where Shirley Souagnon explains stand-up comedy, but this is content coverage, not employment or business relationship.",
+    "confidence": "low"
+  },
+  {
+    "jury_slug": "sophie-garric",
+    "company_raw": "Golden Moustache",
+    "type": "business",
+    "evidence": "Sophie Garric is credited in 'Springdale' (2018) as an actress/contributor for Golden Moustache. She worked on a project produced by the collective.",
+    "confidence": "medium"
+  }
+]

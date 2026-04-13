@@ -1,0 +1,1579 @@
+{
+  "jury_and_talent_same_year": [
+    {
+      "person_slug": "aude-gogny-goubert",
+      "person_name": "Aude Gogny-Goubert",
+      "jury_sessions": [
+        "cnc-talent-2021-06-17",
+        "cnc-talent-2021-10-12",
+        "cnc-talent-2021-02-11",
+        "cnc-talent-2021-04-02"
+      ],
+      "grants_same_year": [
+        {
+          "commission": "cnc-talent-2021-12-07",
+          "date": "2021-12-07",
+          "talent_raw": "Aude GG",
+          "amount": 50000
+        }
+      ]
+    },
+    {
+      "person_slug": "cyprien-iov",
+      "person_name": "Cyprien Iov",
+      "jury_sessions": [
+        "cnc-talent-2018-03-19",
+        "cnc-talent-2018-04-24",
+        "cnc-talent-2018-10-19"
+      ],
+      "grants_same_year": [
+        {
+          "commission": "cnc-talent-2018-06-22",
+          "date": "2018-06-22",
+          "talent_raw": "Cyprien",
+          "amount": 50000
+        }
+      ]
+    },
+    {
+      "person_slug": "jeanne-seignol",
+      "person_name": "Jeanne Seignol",
+      "jury_sessions": [
+        "cnc-talent-2025-09-17"
+      ],
+      "grants_same_year": [
+        {
+          "commission": "cnc-talent-2025-05-23",
+          "date": "2025-05-23",
+          "talent_raw": "Jeanne Seignol (Jeannot se livre)",
+          "amount": 30000
+        }
+      ]
+    },
+    {
+      "person_slug": "laureline-amanieux",
+      "person_name": "Laureline Amanieux",
+      "jury_sessions": [
+        "cnc-talent-2023-09-18"
+      ],
+      "grants_same_year": [
+        {
+          "commission": "cnc-talent-2023-04-17",
+          "date": "2023-04-17",
+          "talent_raw": "Laureline Amanieux",
+          "amount": 3000
+        },
+        {
+          "commission": "cnc-talent-2023-11-22",
+          "date": "2023-11-22",
+          "talent_raw": "Laureline Amanieux",
+          "amount": 30000
+        }
+      ]
+    }
+  ],
+  "same_beneficiary": [
+    {
+      "beneficiary_raw": "Inès Banzet-Benhagouga",
+      "talents": [
+        {
+          "talent_slug": "amadou-diallo",
+          "talent_name": "Amadou Diallo",
+          "talent_raw": "Bisskit (Amadou Diallo)",
+          "grants": 1,
+          "total_amount": 2000
+        },
+        {
+          "talent_slug": "charlotte-pouget",
+          "talent_name": "Charlotte Pouget",
+          "talent_raw": "Charlotte POUGET",
+          "grants": 1,
+          "total_amount": 3000
+        },
+        {
+          "talent_slug": "christophe-asselin",
+          "talent_name": "Christophe Asselin",
+          "talent_raw": "Christophe ASSELIN",
+          "grants": 1,
+          "total_amount": 50000
+        },
+        {
+          "talent_slug": "clementine-haynes",
+          "talent_name": "Clémentine Haynes",
+          "talent_raw": "Clémentine HAYNES",
+          "grants": 1,
+          "total_amount": 14500
+        },
+        {
+          "talent_slug": "ines-banzet-benhagouga",
+          "talent_name": "Inès Banzet-Benhagouga",
+          "talent_raw": "Inès Banzet-Benhagouga",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "jeanne-seignol",
+          "talent_name": "Jeanne Seignol",
+          "talent_raw": "Jeanne Seignol (Jeannot se livre)",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "lenie-cherino-mathieu-dumery",
+          "talent_name": "Lénie Cherino - Mathieu Duméry",
+          "talent_raw": "Lénie Cherino - Mathieu Duméry",
+          "grants": 1,
+          "total_amount": 15000
+        },
+        {
+          "talent_slug": "leonie-k",
+          "talent_name": "Léonie K",
+          "talent_raw": "Léonie K",
+          "grants": 1,
+          "total_amount": 25000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "SELFIE'STORIQUE",
+      "talents": [
+        {
+          "talent_slug": "calvin-lutherer",
+          "talent_name": "Calvin Lutherer",
+          "talent_raw": "Calvin Lutherer",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "histoire-appliquee",
+          "talent_name": "Histoire Appliquée",
+          "talent_raw": "Histoire Appliquée",
+          "grants": 1,
+          "total_amount": 35000
+        },
+        {
+          "talent_slug": "la-chaine-de-paul",
+          "talent_name": "La chaîne de P.A.U.L",
+          "talent_raw": "La chaîne de P.A.U.L",
+          "grants": 1,
+          "total_amount": 3000
+        },
+        {
+          "talent_slug": "lena-polin",
+          "talent_name": "Léna Polin",
+          "talent_raw": "Léna Polin",
+          "grants": 2,
+          "total_amount": 32000
+        },
+        {
+          "talent_slug": "marie-treibert",
+          "talent_name": "Marie Treibert",
+          "talent_raw": "Marie Treibert",
+          "grants": 1,
+          "total_amount": 25000
+        },
+        {
+          "talent_slug": "mehdi-moussaid",
+          "talent_name": "Mehdi Moussaïd",
+          "talent_raw": "Mehdi Moussaïd",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "selfiestorique",
+          "talent_name": "SELFIE'STORIQUE",
+          "talent_raw": "SELFIE'STORIQUE",
+          "grants": 1,
+          "total_amount": 11000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "SCILABUS",
+      "talents": [
+        {
+          "talent_slug": "aliciane-guitard-et-pierre-kerner",
+          "talent_name": "Aliciane Guitard et Pierre Kerner",
+          "talent_raw": "Aliciane Guitard et Pierre Kerner",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "clothilde-chamussy",
+          "talent_name": "Clothilde Chamussy",
+          "talent_raw": "Clothilde Chamussy",
+          "grants": 1,
+          "total_amount": 32000
+        },
+        {
+          "talent_slug": "jules-laguilhaumie",
+          "talent_name": "Jules Laguilhaumie",
+          "talent_raw": "Jules Laguilhaumie",
+          "grants": 2,
+          "total_amount": 60000
+        },
+        {
+          "talent_slug": "la-manie-du-cinema",
+          "talent_name": "La Manie Du Cinéma",
+          "talent_raw": "La Manie Du Cinéma",
+          "grants": 2,
+          "total_amount": 25000
+        },
+        {
+          "talent_slug": "thomas-gauthier",
+          "talent_name": "Thomas Gauthier",
+          "talent_raw": "Thomas Gauthier",
+          "grants": 2,
+          "total_amount": 33000
+        },
+        {
+          "talent_slug": "viviane-lalande",
+          "talent_name": "Viviane Lalande",
+          "talent_raw": "SCILABUS",
+          "grants": 2,
+          "total_amount": 96752
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Axolot",
+      "talents": [
+        {
+          "talent_slug": "alt236",
+          "talent_name": "Alt236",
+          "talent_raw": "Alt236",
+          "grants": 1,
+          "total_amount": 20000
+        },
+        {
+          "talent_slug": "francois-theurel",
+          "talent_name": "François Theurel",
+          "talent_raw": "François Theurel",
+          "grants": 1,
+          "total_amount": 20000
+        },
+        {
+          "talent_slug": "laure-bernard",
+          "talent_name": "Laure Bernard",
+          "talent_raw": "Laure BERNARD (Art comptant pour rien)",
+          "grants": 1,
+          "total_amount": 3000
+        },
+        {
+          "talent_slug": "patrick-baud",
+          "talent_name": "Patrick Baud",
+          "talent_raw": "Axolot",
+          "grants": 2,
+          "total_amount": 50000
+        },
+        {
+          "talent_slug": "valentine-jongen",
+          "talent_name": "Valentine Jongen",
+          "talent_raw": "Valentine Jongen",
+          "grants": 2,
+          "total_amount": 18000
+        },
+        {
+          "talent_slug": "vincent-turhan",
+          "talent_name": "Vincent Turhan",
+          "talent_raw": "Le Fossoyeur de Films",
+          "grants": 1,
+          "total_amount": 30000
+        }
+      ],
+      "jury_conflicts": [
+        {
+          "jury_slug": "aude-gogny-goubert",
+          "jury_name": "Aude Gogny-Goubert",
+          "knows_talent": "Patrick Baud",
+          "evaluated_other_talent_from_same_company": "Valentine Jongen",
+          "commission": "cnc-talent-2020-01-09",
+          "amount": 3000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Marie de Brauer",
+      "talents": [
+        {
+          "talent_slug": "alix-martineau-et-kalindi-ramphul",
+          "talent_name": "Alix Martineau et Kalindi Ramphul",
+          "talent_raw": "Alix Martineau et Kalindi Ramphul",
+          "grants": 1,
+          "total_amount": 3000
+        },
+        {
+          "talent_slug": "dayan-doualid",
+          "talent_name": "Dayan D.Oualid",
+          "talent_raw": "Dayan D.Oualid",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "judith-beauvallet",
+          "talent_name": "Judith Beauvallet",
+          "talent_raw": "Judith Beauvallet alias Demoiselles d'Horreur",
+          "grants": 1,
+          "total_amount": 24000
+        },
+        {
+          "talent_slug": "les-beelzebros",
+          "talent_name": "Les Beelzebros",
+          "talent_raw": "Les Beelzebros",
+          "grants": 1,
+          "total_amount": 22000
+        },
+        {
+          "talent_slug": "marie-de-brauer",
+          "talent_name": "Marie de Brauer",
+          "talent_raw": "Marie de Brauer",
+          "grants": 2,
+          "total_amount": 34600
+        },
+        {
+          "talent_slug": "pov",
+          "talent_name": "P.O.V",
+          "talent_raw": "P.O.V",
+          "grants": 1,
+          "total_amount": 3000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Le Vortex",
+      "talents": [
+        {
+          "talent_slug": "le-vortex",
+          "talent_name": "Le Vortex",
+          "talent_raw": "Le Vortex",
+          "grants": 3,
+          "total_amount": 70000
+        },
+        {
+          "talent_slug": "leo-grasset",
+          "talent_name": "Léo Grasset",
+          "talent_raw": "Léo Grasset",
+          "grants": 1,
+          "total_amount": 25000
+        },
+        {
+          "talent_slug": "romain-filstroff",
+          "talent_name": "Romain Filstroff",
+          "talent_raw": "Romain Filstroff - Linguisticae",
+          "grants": 2,
+          "total_amount": 68500
+        },
+        {
+          "talent_slug": "thibaut-giraud",
+          "talent_name": "Thibaut Giraud",
+          "talent_raw": "Monsieur Phi",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "un-creatif",
+          "talent_name": "Un Créatif",
+          "talent_raw": "Un Créatif",
+          "grants": 1,
+          "total_amount": 50000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Juliette Tresanini",
+      "talents": [
+        {
+          "talent_slug": "akim-omiri",
+          "talent_name": "Akim Omiri",
+          "talent_raw": "Akim Omiri",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "jean-baptiste-toussaint",
+          "talent_name": "Jean-Baptiste Toussaint",
+          "talent_raw": "Jean-Baptiste Toussaint",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "julien-menielle",
+          "talent_name": "Julien Menielle",
+          "talent_raw": "Julien Menielle",
+          "grants": 1,
+          "total_amount": 50000
+        },
+        {
+          "talent_slug": "juliette-tresanini",
+          "talent_name": "Juliette Tresanini",
+          "talent_raw": "Juliette Tresanini",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "mcfly-et-carlito",
+          "talent_name": "McFly et Carlito",
+          "talent_raw": "McFly et Carlito",
+          "grants": 1,
+          "total_amount": 30000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "USUL et COTENTIN",
+      "talents": [
+        {
+          "talent_slug": "benjamin-combes",
+          "talent_name": "Benjamin Combes",
+          "talent_raw": "NEXUS VI",
+          "grants": 2,
+          "total_amount": 80000
+        },
+        {
+          "talent_slug": "bolchegeek",
+          "talent_name": "Bolchegeek",
+          "talent_raw": "Bolchegeek",
+          "grants": 1,
+          "total_amount": 25000
+        },
+        {
+          "talent_slug": "cyril-chagot",
+          "talent_name": "Cyril Chagot",
+          "talent_raw": "Cyril CHAGOT",
+          "grants": 1,
+          "total_amount": 20000
+        },
+        {
+          "talent_slug": "usul-et-cotentin",
+          "talent_name": "USUL et COTENTIN",
+          "talent_raw": "USUL et COTENTIN",
+          "grants": 1,
+          "total_amount": 10000
+        },
+        {
+          "talent_slug": "yoann-garel",
+          "talent_name": "Yoann Garel",
+          "talent_raw": "Yoann Garel",
+          "grants": 1,
+          "total_amount": 30000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Frédéric Souterelle",
+      "talents": [
+        {
+          "talent_slug": "boxing-academy",
+          "talent_name": "Boxing Academy",
+          "talent_raw": "Boxing Academy",
+          "grants": 1,
+          "total_amount": 20000
+        },
+        {
+          "talent_slug": "diane-truc",
+          "talent_name": "Diane Truc",
+          "talent_raw": "Diane Truc",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "frederic-souterelle",
+          "talent_name": "Frédéric Souterelle",
+          "talent_raw": "Frédéric Souterelle",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "jeremy-denis",
+          "talent_name": "Jérémy Denis",
+          "talent_raw": "Jérémy Denis",
+          "grants": 1,
+          "total_amount": 15000
+        },
+        {
+          "talent_slug": "le-crossover",
+          "talent_name": "Le Crossover",
+          "talent_raw": "Le Crossover",
+          "grants": 2,
+          "total_amount": 60000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Thomas Métivier, Camille Fievez, Ambroise Carminati",
+      "talents": [
+        {
+          "talent_slug": "ambre-larrazet-et-queenie-tassell",
+          "talent_name": "Ambre Larrazet et Queenie Tassell",
+          "talent_raw": "Ambre Larrazet et Queenie Tassell",
+          "grants": 2,
+          "total_amount": 23000
+        },
+        {
+          "talent_slug": "ambroise-carminati",
+          "talent_name": "Ambroise Carminati",
+          "talent_raw": "Ambroise Carminati (chaîne Sympa Cool)",
+          "grants": 1,
+          "total_amount": 50000
+        },
+        {
+          "talent_slug": "queenie-tassell-ambre-larrazet",
+          "talent_name": "Queenie Tassell \u0026 Ambre Larrazet",
+          "talent_raw": "Queenie TASSELL et Ambre LARRAZET",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "thomas-metivier-camille-fievez-ambroise-carminati",
+          "talent_name": "Thomas Métivier, Camille Fievez, Ambroise Carminati",
+          "talent_raw": "Thomas Métivier, Camille Fievez, Ambroise Carminati",
+          "grants": 1,
+          "total_amount": 30000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Cass Andre",
+      "talents": [
+        {
+          "talent_slug": "arcade",
+          "talent_name": "Arcade",
+          "talent_raw": "Arcade",
+          "grants": 1,
+          "total_amount": 11200
+        },
+        {
+          "talent_slug": "cass-andre",
+          "talent_name": "Cass Andre",
+          "talent_raw": "Cass Andre",
+          "grants": 1,
+          "total_amount": 3000
+        },
+        {
+          "talent_slug": "dany-caligula",
+          "talent_name": "Dany Caligula",
+          "talent_raw": "DanyCaligula",
+          "grants": 2,
+          "total_amount": 45000
+        },
+        {
+          "talent_slug": "danyetraz",
+          "talent_name": "DANYetRAZ",
+          "talent_raw": "DANYetRAZ",
+          "grants": 1,
+          "total_amount": 50000
+        }
+      ],
+      "jury_conflicts": [
+        {
+          "jury_slug": "charlie-danger",
+          "jury_name": "Charlie Danger",
+          "knows_talent": "DANYetRAZ",
+          "evaluated_other_talent_from_same_company": "Arcade",
+          "commission": "cnc-talent-2023-02-17",
+          "amount": 11200
+        },
+        {
+          "jury_slug": "charlie-danger",
+          "jury_name": "Charlie Danger",
+          "knows_talent": "DANYetRAZ",
+          "evaluated_other_talent_from_same_company": "Cass Andre",
+          "commission": "cnc-talent-2024-11-20",
+          "amount": 3000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Marie Treibert",
+      "talents": [
+        {
+          "talent_slug": "julien-magalhaes",
+          "talent_name": "Julien Magalhaes",
+          "talent_raw": "Julien Magalhaes",
+          "grants": 2,
+          "total_amount": 28000
+        },
+        {
+          "talent_slug": "marie-treibert",
+          "talent_name": "Marie Treibert",
+          "talent_raw": "Marie Treibert",
+          "grants": 2,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "thibault-gilles",
+          "talent_name": "Thibault Gilles",
+          "talent_raw": "Thibault Gilles",
+          "grants": 1,
+          "total_amount": 2000
+        },
+        {
+          "talent_slug": "yvane-jacob",
+          "talent_name": "Yvane Jacob",
+          "talent_raw": "Yvane Jacob",
+          "grants": 1,
+          "total_amount": 28000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Aude GG",
+      "talents": [
+        {
+          "talent_slug": "athena-sol",
+          "talent_name": "Athéna Sol",
+          "talent_raw": "Athéna Sol",
+          "grants": 1,
+          "total_amount": 15000
+        },
+        {
+          "talent_slug": "aude-gogny-goubert",
+          "talent_name": "Aude Gogny-Goubert",
+          "talent_raw": "Aude GG",
+          "grants": 2,
+          "total_amount": 80000
+        },
+        {
+          "talent_slug": "justine-lossa",
+          "talent_name": "Justine Lossa",
+          "talent_raw": "Justine Lossa",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "marine-perin",
+          "talent_name": "Marine Perin",
+          "talent_raw": "Marine PERIN",
+          "grants": 1,
+          "total_amount": 30000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "AlexFrenchGuyCooking",
+      "talents": [
+        {
+          "talent_slug": "alex-cuisine",
+          "talent_name": "Alex Cuisine",
+          "talent_raw": "AlexFrenchGuyCooking",
+          "grants": 2,
+          "total_amount": 60000
+        },
+        {
+          "talent_slug": "florence-porcel",
+          "talent_name": "Florence Porcel",
+          "talent_raw": "Florence Porcel",
+          "grants": 1,
+          "total_amount": 25000
+        },
+        {
+          "talent_slug": "louane-carmona",
+          "talent_name": "Louane Carmona",
+          "talent_raw": "Louane Carmona",
+          "grants": 1,
+          "total_amount": 25000
+        },
+        {
+          "talent_slug": "solange-duacastella",
+          "talent_name": "Solange Duacastella",
+          "talent_raw": "SolangeTeParle",
+          "grants": 1,
+          "total_amount": 15000
+        }
+      ],
+      "jury_conflicts": [
+        {
+          "jury_slug": "cyprien-iov",
+          "jury_name": "Cyprien Iov",
+          "knows_talent": "Florence Porcel",
+          "evaluated_other_talent_from_same_company": "Alex Cuisine",
+          "commission": "cnc-talent-2018-10-19",
+          "amount": 40000
+        },
+        {
+          "jury_slug": "cyprien-iov",
+          "jury_name": "Cyprien Iov",
+          "knows_talent": "Solange Duacastella",
+          "evaluated_other_talent_from_same_company": "Alex Cuisine",
+          "commission": "cnc-talent-2018-10-19",
+          "amount": 40000
+        },
+        {
+          "jury_slug": "cyprien-iov",
+          "jury_name": "Cyprien Iov",
+          "knows_talent": "Florence Porcel",
+          "evaluated_other_talent_from_same_company": "Solange Duacastella",
+          "commission": "cnc-talent-2018-04-24",
+          "amount": 50000
+        },
+        {
+          "jury_slug": "cyprien-iov",
+          "jury_name": "Cyprien Iov",
+          "knows_talent": "Solange Duacastella",
+          "evaluated_other_talent_from_same_company": "Florence Porcel",
+          "commission": "cnc-talent-2018-04-24",
+          "amount": 25000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Maxime QUERE",
+      "talents": [
+        {
+          "talent_slug": "marina-quenan",
+          "talent_name": "Marina Quenan",
+          "talent_raw": "Marina Quenan",
+          "grants": 1,
+          "total_amount": 15000
+        },
+        {
+          "talent_slug": "maxime-quere",
+          "talent_name": "Maxime Quere",
+          "talent_raw": "Maxime QUERE",
+          "grants": 1,
+          "total_amount": 29000
+        },
+        {
+          "talent_slug": "stupid-economics",
+          "talent_name": "Stupid Economics",
+          "talent_raw": "Stupid Economics",
+          "grants": 2,
+          "total_amount": 43499
+        },
+        {
+          "talent_slug": "viviane-lalande",
+          "talent_name": "Viviane Lalande",
+          "talent_raw": "Viviane Lalande",
+          "grants": 1,
+          "total_amount": 20000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Alexandra Mignien \u0026 Alexa Lasfargues",
+      "talents": [
+        {
+          "talent_slug": "alexandra-mignien",
+          "talent_name": "Alexandra Mignien",
+          "talent_raw": "Alexandra Mignien",
+          "grants": 1,
+          "total_amount": 20000
+        },
+        {
+          "talent_slug": "alexandra-mignien-et-alexa-lasfargues",
+          "talent_name": "Alexandra Mignien \u0026 Alexa Lasfargues",
+          "talent_raw": "Alexandra Mignien \u0026 Alexa Lasfargues",
+          "grants": 1,
+          "total_amount": 15000
+        },
+        {
+          "talent_slug": "tommy-lee-baik",
+          "talent_name": "Tommy-Lee Baïk",
+          "talent_raw": "Tommy-Lee Baïk",
+          "grants": 1,
+          "total_amount": 2000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Irvin Anneix",
+      "talents": [
+        {
+          "talent_slug": "irvin-anneix",
+          "talent_name": "Irvin Anneix",
+          "talent_raw": "Irvin Anneix",
+          "grants": 2,
+          "total_amount": 32000
+        },
+        {
+          "talent_slug": "leslie-menahem-et-julie-joseph",
+          "talent_name": "Leslie Menahem et Julie Joseph",
+          "talent_raw": "Leslie Menahem et Julie Joseph",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "marie-durrieu",
+          "talent_name": "Marie Durrieu",
+          "talent_raw": "Marie Durrieu",
+          "grants": 1,
+          "total_amount": 30000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Mehdi H'Hamdi",
+      "talents": [
+        {
+          "talent_slug": "jeremy-strohm",
+          "talent_name": "Jérémy Strohm",
+          "talent_raw": "Jérémy Strohm",
+          "grants": 3,
+          "total_amount": 13000
+        },
+        {
+          "talent_slug": "lou-howard-florent-dorin-pv-nova",
+          "talent_name": "Lou Howard, Florent Dorin, PV Nova",
+          "talent_raw": "Lou Howard, Florent Dorin, PV NOVA",
+          "grants": 1,
+          "total_amount": 20000
+        },
+        {
+          "talent_slug": "mehdi-hhamdi",
+          "talent_name": "Mehdi H'Hamdi",
+          "talent_raw": "Mehdi H'Hamdi",
+          "grants": 1,
+          "total_amount": 15000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Pensée sauvage",
+      "talents": [
+        {
+          "talent_slug": "julie-gautier",
+          "talent_name": "Julie Gautier",
+          "talent_raw": "Julie Gautier",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "pensee-sauvage",
+          "talent_name": "Pensée sauvage",
+          "talent_raw": "Pensée sauvage",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "professeur-feuillage",
+          "talent_name": "Professeur Feuillage",
+          "talent_raw": "Professeur Feuillage",
+          "grants": 1,
+          "total_amount": 10000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Seumboy",
+      "talents": [
+        {
+          "talent_slug": "seumboy-vrainom",
+          "talent_name": "Seumboy Vrainom",
+          "talent_raw": "Seumboy",
+          "grants": 1,
+          "total_amount": 50000
+        },
+        {
+          "talent_slug": "yvana-aletas-et-samora-curier",
+          "talent_name": "Yvana Aletas et Samora Curier",
+          "talent_raw": "Yvana Aletas et Samora Curier",
+          "grants": 1,
+          "total_amount": 5000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "SUPERFLAME",
+      "talents": [
+        {
+          "talent_slug": "kevin-payet",
+          "talent_name": "Kevin Payet",
+          "talent_raw": "Kevin Payet",
+          "grants": 1,
+          "total_amount": 20000
+        },
+        {
+          "talent_slug": "superflame",
+          "talent_name": "SUPERFLAME",
+          "talent_raw": "SUPERFLAME",
+          "grants": 1,
+          "total_amount": 25000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "MisterMV",
+      "talents": [
+        {
+          "talent_slug": "frederick-gau",
+          "talent_name": "Fréderick Gau",
+          "talent_raw": "Fréderick GAU",
+          "grants": 1,
+          "total_amount": 50000
+        },
+        {
+          "talent_slug": "maxime-verlhac",
+          "talent_name": "Maxime Verlhac",
+          "talent_raw": "MisterMV",
+          "grants": 1,
+          "total_amount": 50000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Avant l'Orage",
+      "talents": [
+        {
+          "talent_slug": "avant-l-orage",
+          "talent_name": "Avant l'Orage",
+          "talent_raw": "Avant l'Orage",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "la-curieuse-soiree",
+          "talent_name": "La Curieuse Soirée",
+          "talent_raw": "LA CURIEUSE SOIRÉE 2",
+          "grants": 1,
+          "total_amount": 30000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Calmos",
+      "talents": [
+        {
+          "talent_slug": "calmos",
+          "talent_name": "Calmos",
+          "talent_raw": "Calmos",
+          "grants": 2,
+          "total_amount": 80000
+        },
+        {
+          "talent_slug": "judith-beauvallet",
+          "talent_name": "Judith Beauvallet",
+          "talent_raw": "Judith Beauvallet",
+          "grants": 1,
+          "total_amount": 30000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Benoit Blanc",
+      "talents": [
+        {
+          "talent_slug": "benoit-blanc",
+          "talent_name": "Benoit Blanc",
+          "talent_raw": "Benoit Blanc",
+          "grants": 1,
+          "total_amount": 15000
+        },
+        {
+          "talent_slug": "benoit-blanc-et-riad-gahmi",
+          "talent_name": "Benoit Blanc \u0026 Riad Gahmi",
+          "talent_raw": "Benoit Blanc \u0026 Riad Gahmi",
+          "grants": 1,
+          "total_amount": 30000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Zoé Authier",
+      "talents": [
+        {
+          "talent_slug": "alexandra-mignien-et-maxime-lavalle",
+          "talent_name": "Alexandra Mignien et Maxime Lavalle",
+          "talent_raw": "Alexandra Mignien et Maxime Lavalle",
+          "grants": 1,
+          "total_amount": 28000
+        },
+        {
+          "talent_slug": "zoe-authier",
+          "talent_name": "Zoé Authier",
+          "talent_raw": "Zoé Authier",
+          "grants": 1,
+          "total_amount": 5000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Avner",
+      "talents": [
+        {
+          "talent_slug": "avner-peres",
+          "talent_name": "Avner Peres",
+          "talent_raw": "Avner",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "dani-caligula",
+          "talent_name": "Dani Caligula",
+          "talent_raw": "Dani Caligula",
+          "grants": 1,
+          "total_amount": 20000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Passé sauvage",
+      "talents": [
+        {
+          "talent_slug": "clothilde-chamussy",
+          "talent_name": "Clothilde Chamussy",
+          "talent_raw": "Clothilde Chamussy",
+          "grants": 1,
+          "total_amount": 10000
+        },
+        {
+          "talent_slug": "passe-sauvage",
+          "talent_name": "Passé Sauvage",
+          "talent_raw": "Passé sauvage",
+          "grants": 1,
+          "total_amount": 3000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Léopold Lemarchand",
+      "talents": [
+        {
+          "talent_slug": "juliette-tresanini",
+          "talent_name": "Juliette Tresanini",
+          "talent_raw": "Juliette Tresanini",
+          "grants": 1,
+          "total_amount": 25000
+        },
+        {
+          "talent_slug": "leopold-lemarchand",
+          "talent_name": "Léopold Lemarchand",
+          "talent_raw": "Léopold Lemarchand",
+          "grants": 1,
+          "total_amount": 10000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Jean-Baptiste DUSSEAUX",
+      "talents": [
+        {
+          "talent_slug": "jean-baptiste-dusseaux",
+          "talent_name": "Jean-Baptiste Dusseaux",
+          "talent_raw": "Jean-Baptiste DUSSEAUX",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "tito-gonzalez-garcia",
+          "talent_name": "Tito Gonzalez Garcia",
+          "talent_raw": "Tito Gonzalez Garcia",
+          "grants": 2,
+          "total_amount": 22000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Camille Ghanassia",
+      "talents": [
+        {
+          "talent_slug": "camille-ghanassia",
+          "talent_name": "Camille Ghanassia",
+          "talent_raw": "Camille Ghanassia",
+          "grants": 1,
+          "total_amount": 20000
+        },
+        {
+          "talent_slug": "delphine-dura-camille-ghanassia",
+          "talent_name": "Delphine Dura et Camille Ghanassia",
+          "talent_raw": "Delphine Dura - Camille Ghanassia",
+          "grants": 1,
+          "total_amount": 15000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Esteban Vidal",
+      "talents": [
+        {
+          "talent_slug": "esteban-vidal",
+          "talent_name": "Esteban Vidal",
+          "talent_raw": "Esteban Vidal",
+          "grants": 1,
+          "total_amount": 5000
+        },
+        {
+          "talent_slug": "paye-ton-crush",
+          "talent_name": "Paye Ton Crush",
+          "talent_raw": "Paye Ton Crush",
+          "grants": 1,
+          "total_amount": 15000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Etoiles",
+      "talents": [
+        {
+          "talent_slug": "alphacast",
+          "talent_name": "Alphacast",
+          "talent_raw": "Alphacast",
+          "grants": 2,
+          "total_amount": 80000
+        },
+        {
+          "talent_slug": "etoiles",
+          "talent_name": "Etoiles",
+          "talent_raw": "Etoiles",
+          "grants": 1,
+          "total_amount": 30000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Inès Banzet-Benhagouga",
+      "talents": [
+        {
+          "talent_slug": "avner-peres",
+          "talent_name": "Avner Peres",
+          "talent_raw": "Avner",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "ines-banzet-benhagouga",
+          "talent_name": "Inès Banzet-Benhagouga",
+          "talent_raw": "Inès Banzet-Benhagouga",
+          "grants": 1,
+          "total_amount": 30000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Scotty Bernard et Maïssa Diawara",
+      "talents": [
+        {
+          "talent_slug": "aude-favre",
+          "talent_name": "Aude Favre",
+          "talent_raw": "Aude Favre",
+          "grants": 2,
+          "total_amount": 40000
+        },
+        {
+          "talent_slug": "scotty-bernard-et-maissa-diawara",
+          "talent_name": "Scotty Bernard et Maïssa Diawara",
+          "talent_raw": "Scotty Bernard et Maïssa Diawara",
+          "grants": 1,
+          "total_amount": 30000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Eve Simonet",
+      "talents": [
+        {
+          "talent_slug": "eve-simonet",
+          "talent_name": "Eve Simonet",
+          "talent_raw": "Eve Simonet",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "suzane",
+          "talent_name": "Suzane",
+          "talent_raw": "on-suzane",
+          "grants": 3,
+          "total_amount": 40000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Victor Hérault",
+      "talents": [
+        {
+          "talent_slug": "julien-aveque",
+          "talent_name": "Julien Aveque",
+          "talent_raw": "Julien Aveque",
+          "grants": 1,
+          "total_amount": 3000
+        },
+        {
+          "talent_slug": "victor-herault",
+          "talent_name": "Victor Hérault",
+          "talent_raw": "Victor Hérault",
+          "grants": 1,
+          "total_amount": 19000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Cyrus North",
+      "talents": [
+        {
+          "talent_slug": "camille-et-justine",
+          "talent_name": "Camille \u0026 Justine",
+          "talent_raw": "Camille \u0026 Justine",
+          "grants": 1,
+          "total_amount": 15000
+        },
+        {
+          "talent_slug": "cyrus-north",
+          "talent_name": "Cyrus North",
+          "talent_raw": "Cyrus North",
+          "grants": 1,
+          "total_amount": 50000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Patrick Baud et AudeGogny-Goubert",
+      "talents": [
+        {
+          "talent_slug": "alexandre-pierrin",
+          "talent_name": "Alexandre Pierrin",
+          "talent_raw": "Alexandre Pierrin",
+          "grants": 1,
+          "total_amount": 28000
+        },
+        {
+          "talent_slug": "patrick-baud-aude-gogny-goubert",
+          "talent_name": "Patrick Baud \u0026 Aude Gogny-Goubert",
+          "talent_raw": "Patrick Baud et AudeGogny-Goubert",
+          "grants": 1,
+          "total_amount": 25000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Eléonore Costes",
+      "talents": [
+        {
+          "talent_slug": "eleonore-costes",
+          "talent_name": "Éléonore Costes",
+          "talent_raw": "Eléonore Costes",
+          "grants": 2,
+          "total_amount": 65000
+        },
+        {
+          "talent_slug": "nicolas-berno",
+          "talent_name": "Nicolas Berno",
+          "talent_raw": "Nicolas Berno",
+          "grants": 1,
+          "total_amount": 30000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Loïc Adrien",
+      "talents": [
+        {
+          "talent_slug": "gorkab",
+          "talent_name": "Gorkab",
+          "talent_raw": "Gorkab",
+          "grants": 1,
+          "total_amount": 15000
+        },
+        {
+          "talent_slug": "loic-adrien",
+          "talent_name": "Loïc Adrien",
+          "talent_raw": "Loïc Adrien",
+          "grants": 1,
+          "total_amount": 30000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Xuman Gunman / LES HAUT-PARLEURS",
+      "talents": [
+        {
+          "talent_slug": "sonia-terrab",
+          "talent_name": "Sonia Terrab",
+          "talent_raw": "Sonia Terrab",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "xuman-gunman",
+          "talent_name": "Xuman Gunman",
+          "talent_raw": "Xuman Gunman / LES HAUT-PARLEURS",
+          "grants": 1,
+          "total_amount": 16000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Glamouze",
+      "talents": [
+        {
+          "talent_slug": "allison-chassagne",
+          "talent_name": "Allison Chassagne",
+          "talent_raw": "Allison Chassagne",
+          "grants": 1,
+          "total_amount": 15000
+        },
+        {
+          "talent_slug": "glamouze",
+          "talent_name": "Glamouze",
+          "talent_raw": "Glamouze",
+          "grants": 1,
+          "total_amount": 30000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Mamytwink",
+      "talents": [
+        {
+          "talent_slug": "francois-calvier",
+          "talent_name": "François Calvier",
+          "talent_raw": "François CALVIER",
+          "grants": 1,
+          "total_amount": 50000
+        },
+        {
+          "talent_slug": "mamytwink",
+          "talent_name": "Mamytwink",
+          "talent_raw": "Mamytwink",
+          "grants": 2,
+          "total_amount": 65000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Partager C'est Sympa",
+      "talents": [
+        {
+          "talent_slug": "partager-cest-sympa",
+          "talent_name": "Partager C'est Sympa",
+          "talent_raw": "Partager C'est Sympa",
+          "grants": 3,
+          "total_amount": 63000
+        },
+        {
+          "talent_slug": "vincent-verzat",
+          "talent_name": "Vincent Verzat",
+          "talent_raw": "Vincent Verzat",
+          "grants": 1,
+          "total_amount": 30000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Et Tout le Monde s'en Fout",
+      "talents": [
+        {
+          "talent_slug": "et-tout-le-monde-sen-fout",
+          "talent_name": "Et Tout le Monde s'en Fout",
+          "talent_raw": "Et Tout le Monde s'en Fout",
+          "grants": 3,
+          "total_amount": 110000
+        },
+        {
+          "talent_slug": "max-bird",
+          "talent_name": "Max Bird",
+          "talent_raw": "Max Bird",
+          "grants": 1,
+          "total_amount": 35000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Seumboy Vrainom (chaîne Histoires Crépues)",
+      "talents": [
+        {
+          "talent_slug": "histoires-crepues",
+          "talent_name": "Histoires Crépues",
+          "talent_raw": "Histoires Crépues",
+          "grants": 1,
+          "total_amount": 20000
+        },
+        {
+          "talent_slug": "seumboy-vrainom",
+          "talent_name": "Seumboy Vrainom",
+          "talent_raw": "Seumboy Vrainom (chaîne Histoires Crépues)",
+          "grants": 1,
+          "total_amount": 35000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Les Fanatiques",
+      "talents": [
+        {
+          "talent_slug": "les-fanatiques",
+          "talent_name": "Les Fanatiques",
+          "talent_raw": "Les Fanatiques",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "nora-bouazzouni",
+          "talent_name": "Nora Bouazzouni",
+          "talent_raw": "Nora Bouazzouni",
+          "grants": 1,
+          "total_amount": 30000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "PARLONS PEU MAIS PARLONS",
+      "talents": [
+        {
+          "talent_slug": "maud-bettina-marie",
+          "talent_name": "Maud Bettina-Marie",
+          "talent_raw": "MAUD BETTINA-MARIE",
+          "grants": 1,
+          "total_amount": 31000
+        },
+        {
+          "talent_slug": "parlons-peu-mais-parlons",
+          "talent_name": "PARLONS PEU MAIS PARLONS",
+          "talent_raw": "PARLONS PEU MAIS PARLONS",
+          "grants": 1,
+          "total_amount": 10000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Max Bird",
+      "talents": [
+        {
+          "talent_slug": "max-bird",
+          "talent_name": "Max Bird",
+          "talent_raw": "Max Bird",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "souad-arsane-et-inas-chanti",
+          "talent_name": "Souad Arsane et Inas Chanti",
+          "talent_raw": "Souad Arsane et Inas Chanti",
+          "grants": 1,
+          "total_amount": 30000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Marina Ziolkowski",
+      "talents": [
+        {
+          "talent_slug": "leslie-barbara-butch",
+          "talent_name": "Leslie Barbara Butch",
+          "talent_raw": "Leslie Barbara Butch",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "marina-ziolkowski",
+          "talent_name": "Marina Ziolkowski",
+          "talent_raw": "Marina Ziolkowski",
+          "grants": 1,
+          "total_amount": 30000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Lisa Miquet",
+      "talents": [
+        {
+          "talent_slug": "lisa-miquet",
+          "talent_name": "Lisa Miquet",
+          "talent_raw": "Lisa Miquet",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "malec",
+          "talent_name": "Malec",
+          "talent_raw": "Malec",
+          "grants": 1,
+          "total_amount": 30000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "VALD",
+      "talents": [
+        {
+          "talent_slug": "leonie-violain",
+          "talent_name": "Léonie Violain",
+          "talent_raw": "Léonie Violain",
+          "grants": 1,
+          "total_amount": 30000
+        },
+        {
+          "talent_slug": "valentin-le-du",
+          "talent_name": "Valentin Le Du",
+          "talent_raw": "VALD",
+          "grants": 1,
+          "total_amount": 30000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Rachel Kwarteng \u0026 Nicolas Jalu",
+      "talents": [
+        {
+          "talent_slug": "rachel-kwarteng",
+          "talent_name": "Rachel Kwarteng",
+          "talent_raw": "Rachel Kwarteng du collectif BKE",
+          "grants": 1,
+          "total_amount": 5000
+        },
+        {
+          "talent_slug": "rachel-kwarteng-nicolas-jalu",
+          "talent_name": "Rachel Kwarteng \u0026 Nicolas Jalu",
+          "talent_raw": "Rachel Kwarteng \u0026 Nicolas Jalu",
+          "grants": 1,
+          "total_amount": 30000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Jeremy Bismuth",
+      "talents": [
+        {
+          "talent_slug": "jeremi-stadler",
+          "talent_name": "Jérémi Stadler",
+          "talent_raw": "Jérémi STADLER",
+          "grants": 1,
+          "total_amount": 25000
+        },
+        {
+          "talent_slug": "jeremy-bismuth",
+          "talent_name": "Jeremy Bismuth",
+          "talent_raw": "Jeremy Bismuth",
+          "grants": 1,
+          "total_amount": 10000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Yacine Belhousse",
+      "talents": [
+        {
+          "talent_slug": "l-histoire-racontee-par-des-chaussettes",
+          "talent_name": "l'histoire racontée par des chaussettes",
+          "talent_raw": "l'histoire racontée par des chaussettes",
+          "grants": 1,
+          "total_amount": 50000
+        },
+        {
+          "talent_slug": "yacine-belhousse",
+          "talent_name": "Yacine Belhousse",
+          "talent_raw": "Yacine Belhousse",
+          "grants": 1,
+          "total_amount": 15000
+        }
+      ]
+    },
+    {
+      "beneficiary_raw": "Lou Howard",
+      "talents": [
+        {
+          "talent_slug": "lou-howard",
+          "talent_name": "Lou Howard",
+          "talent_raw": "Lou Howard",
+          "grants": 2,
+          "total_amount": 35000
+        },
+        {
+          "talent_slug": "vincent-leplat",
+          "talent_name": "Vincent Leplat",
+          "talent_raw": "Vincent Leplat",
+          "grants": 1,
+          "total_amount": 20000
+        }
+      ]
+    }
+  ]
+}

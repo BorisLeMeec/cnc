@@ -1,0 +1,249 @@
+{
+  "id": "cnc-talent-2022-06-14",
+  "fund_name": "CNC Talent",
+  "date": "2022-06-14",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-14-octobre-2022_1829503",
+  "jury": [
+    {
+      "person_id": "marie-agnely",
+      "raw_name": "Marie Agnely",
+      "role": "membre"
+    },
+    {
+      "person_id": "gilles-boussion",
+      "raw_name": "Gilles Boussion",
+      "role": "membre"
+    },
+    {
+      "person_id": "constance-le-scouarnec",
+      "raw_name": "Constance Le Scouarnec",
+      "role": "membre"
+    },
+    {
+      "person_id": "anis-rhali",
+      "raw_name": "Anis Rhali",
+      "role": "membre"
+    },
+    {
+      "person_id": "theodore-sanchez",
+      "raw_name": "Théodore Sanchez",
+      "role": "membre"
+    },
+    {
+      "person_id": "hugo-travers",
+      "raw_name": "Hugo Travers",
+      "role": "membre"
+    },
+    {
+      "person_id": "anais-volpe",
+      "raw_name": "Anaïs Volpé",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2022-06-14-les-groos",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-06-14",
+      "talent_raw": "David MIRAILLES",
+      "talent_person_id": "david-mirailles",
+      "beneficiary_raw": "David Mirailles",
+      "amount": 14000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-06-14-les-trois-sorcieres",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-06-14",
+      "talent_raw": "Judith Beauvallet alias Demoiselles d'Horreur",
+      "talent_person_id": "judith-beauvallet",
+      "beneficiary_raw": "Trois Jours De Marche",
+      "amount": 24000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-06-14-les-yeux-fermes-les-doigts-dans-le-nez",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-06-14",
+      "talent_raw": "Emie GALLOT",
+      "talent_person_id": "emie-gallot",
+      "beneficiary_raw": "Emie GALLOT",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-06-14-baltringue",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-06-14",
+      "talent_raw": "Justine Lossa",
+      "talent_person_id": "justine-lossa",
+      "beneficiary_raw": "Make Change",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-06-14-le-geant-bakelite",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-06-14",
+      "talent_raw": "Julie Gautier",
+      "talent_person_id": "julie-gautier",
+      "beneficiary_raw": "Imagine 2050",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-06-14-la-petite-fille-qui-voulait-etre-blanche",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-06-14",
+      "talent_raw": "Alexandra Mignien et Maxime Lavalle",
+      "talent_person_id": "alexandra-mignien-et-maxime-lavalle",
+      "beneficiary_raw": "Les Créations Androgyne",
+      "amount": 28000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-06-14-degourdie",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-06-14",
+      "talent_raw": "Inas Chanti",
+      "talent_person_id": "inas-chanti",
+      "beneficiary_raw": "Dobro Films",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-06-14-av",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-06-14",
+      "talent_raw": "Céline Ribard",
+      "talent_person_id": "celine-ribard",
+      "beneficiary_raw": "Ose Production",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-06-14-frerot",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-06-14",
+      "talent_raw": "Jimmy MAGARDEAU",
+      "talent_person_id": "jimmy-magardeau",
+      "beneficiary_raw": "Jimmy MAGARDEAU",
+      "amount": 10000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-06-14-la-nouvelle-maison",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-06-14",
+      "talent_raw": "Yoann Garel",
+      "talent_person_id": "yoann-garel",
+      "beneficiary_raw": "FENSCH TOAST",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-06-14-rip-madame-joseph",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-06-14",
+      "talent_raw": "Florence FAUQUET",
+      "talent_person_id": "florence-fauquet",
+      "beneficiary_raw": "Florence FAUQUET",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-06-14-paris-saint-charles",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-06-14",
+      "talent_raw": "Joséphine Ha",
+      "talent_person_id": "josephine-ha",
+      "beneficiary_raw": "Paris Brest Productions",
+      "amount": 9500,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-06-14-clash-courtois",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-06-14",
+      "talent_raw": "Jérémy Strohm",
+      "talent_person_id": "jeremy-strohm",
+      "beneficiary_raw": "Centurions",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-06-14-agent-b-spy-d",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-06-14",
+      "talent_raw": "Ninar AL HIMDANI et Zhéva BLOUD",
+      "talent_person_id": "ninar-al-himdani-zheva-bloud",
+      "beneficiary_raw": "Ninar AL HIMDANI",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-06-14-ya-r",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-06-14",
+      "talent_raw": "Dycosh",
+      "talent_person_id": "dycosh",
+      "beneficiary_raw": "SALOMON PRODUCTIONS",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-06-14-editorialisation-de-la-chaine-suillaud",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-06-14",
+      "talent_raw": "Suillaud",
+      "talent_person_id": "suillaud",
+      "beneficiary_raw": "CORNEA",
+      "amount": 30000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2022-06-14-game-of-roles-saison-7",
+      "project_id": "",
+      "commission_id": "cnc-talent-2022-06-14",
+      "talent_raw": "MisterMV",
+      "talent_person_id": "maxime-verlhac",
+      "beneficiary_raw": "Gozulting",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

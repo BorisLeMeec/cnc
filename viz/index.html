@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>CNC Talent — Conflict of Interest Graph</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #0a0a0a; color: #e0e0e0; overflow: hidden; }
+#controls { position: fixed; top: 12px; left: 12px; z-index: 10; background: rgba(20,20,20,0.95); padding: 16px; border-radius: 8px; border: 1px solid #333; max-width: 320px; }
+#controls h1 { font-size: 16px; margin-bottom: 8px; color: #fff; }
+#controls p { font-size: 11px; color: #888; margin-bottom: 12px; }
+#controls label { display: block; font-size: 12px; margin: 6px 0 2px; color: #aaa; }
+#controls select, #controls input { width: 100%; padding: 4px 8px; background: #1a1a1a; color: #e0e0e0; border: 1px solid #444; border-radius: 4px; font-size: 12px; }
+#controls .legend { margin-top: 12px; }
+#controls .legend-item { display: flex; align-items: center; gap: 6px; font-size: 11px; margin: 3px 0; }
+#controls .legend-dot { width: 10px; height: 10px; border-radius: 50%; }
+#controls .stats { margin-top: 10px; font-size: 11px; color: #888; }
+#tooltip { position: fixed; display: none; background: rgba(30,30,30,0.97); border: 1px solid #555; padding: 10px 14px; border-radius: 6px; font-size: 12px; max-width: 350px; z-index: 20; pointer-events: none; }
+#tooltip h3 { font-size: 13px; color: #fff; margin-bottom: 4px; }
+#tooltip .meta { color: #aaa; margin: 2px 0; }
+svg { width: 100vw; height: 100vh; }
+.edge-evaluated { stroke: #222; stroke-opacity: 0.15; }
+.edge-worked_together { stroke: #e74c3c; stroke-opacity: 0.8; }
+.edge-colleague { stroke: #e67e22; stroke-opacity: 0.8; }
+.edge-business { stroke: #f39c12; stroke-opacity: 0.8; }
+.edge-conflict { stroke: #ff0040; stroke-opacity: 1; stroke-dasharray: 4,2; }
+.edge-reciprocal_funding { stroke: #ff00ff; stroke-opacity: 1; stroke-width: 3; }
+.edge-co_jury_then_evaluated { stroke: #00bfff; stroke-opacity: 0.6; stroke-dasharray: 6,3; }
+.edge-same_beneficiary { stroke: #8e44ad; stroke-opacity: 0.5; stroke-dasharray: 2,2; }
+.edge-same_beneficiary_conflict { stroke: #ff6600; stroke-opacity: 0.9; stroke-width: 2; }
+.edge-jury_and_talent_same_year { stroke: #fff; stroke-opacity: 0.8; stroke-width: 2; }
+.node-label { font-size: 9px; fill: #999; pointer-events: none; }
+.node-label-highlight { font-size: 11px; fill: #fff; font-weight: bold; }
+</style>
+</head>
+<body>
+<div id="controls">
+  <h1>CNC Talent — Conflicts</h1>
+  <p>Network of jury members, funded creators, and their connections. Red lines = known YouTube collaborations between jury and talent.</p>
+
+  <label>View</label>
+  <select id="viewMode">
+    <option value="relationships">All relationships</option>
+    <option value="conflicts">Conflicts only (jury ↔ talent with relationship)</option>
+    <option value="cross">Cross-session links (co-jury + reciprocal)</option>
+    <option value="full">Full graph (all evaluated edges)</option>
+  </select>
+
+  <label>Search</label>
+  <input id="search" type="text" placeholder="Search person or company...">
+
+  <div class="legend">
+    <div class="legend-item"><div class="legend-dot" style="background:#ff00ff"></div> Reciprocal funding (funded each other)</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#e74c3c"></div> YouTube collaboration</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#ff6600"></div> Same beneficiary conflict</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#00bfff;border-radius:0;width:16px;height:2px"></div> Co-jury then evaluated</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#f39c12"></div> Business / employee</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#fff;border:1px solid #666"></div> Jury + talent same year</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#3498db"></div> Jury member</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#2ecc71"></div> Talent / Creator</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#e67e22"></div> Both jury + talent</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#9b59b6"></div> Company</div>
+  </div>
+  <div class="stats" id="stats"></div>
+</div>
+<div id="tooltip"></div>
+<svg id="graph"></svg>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+const nodeColors = {
+  jury: '#3498db',
+  talent: '#2ecc71',
+  both: '#e67e22',
+  company: '#9b59b6',
+};
+
+const edgeColors = {
+  evaluated: '#222',
+  worked_together: '#e74c3c',
+  colleague: '#e67e22',
+  business: '#f39c12',
+};
+
+let allData = null;
+let simulation = null;
+
+async function init() {
+  const resp = await fetch('../data/graph.json');
+  allData = await resp.json();
+
+  // Build relationship lookup for conflict detection.
+  // Include strong signals — not co_jury_then_evaluated or same_beneficiary (too many, too weak alone).
+  const conflictTypes = new Set([
+    'worked_together', 'reciprocal_funding', 'colleague', 'business',
+    'same_beneficiary_conflict'
+  ]);
+  allData._relSet = new Set();
+  allData.edges.filter(e => conflictTypes.has(e.type)).forEach(e => {
+    allData._relSet.add(e.source + '|' + e.target);
+    allData._relSet.add(e.target + '|' + e.source);
+  });
+
+  render('relationships');
+
+  document.getElementById('viewMode').addEventListener('change', e => render(e.target.value));
+  document.getElementById('search').addEventListener('input', e => highlightSearch(e.target.value));
+}
+
+function render(mode) {
+  const svg = d3.select('#graph');
+  svg.selectAll('*').remove();
+
+  const width = window.innerWidth;
+  const height = window.innerHeight;
+
+  let nodes, edges;
+
+  if (mode === 'conflicts') {
+    // Only show nodes involved in conflicts (relationship + evaluated).
+    const conflictPairs = [];
+    const involvedNodes = new Set();
+
+    allData.edges.filter(e => e.type === 'evaluated').forEach(evalEdge => {
+      const hasRel = allData._relSet.has(evalEdge.source + '|' + evalEdge.target);
+      if (hasRel) {
+        conflictPairs.push(evalEdge);
+        involvedNodes.add(evalEdge.source);
+        involvedNodes.add(evalEdge.target);
+      }
+    });
+
+    // Also include relationship edges between involved nodes.
+    const relEdges = allData.edges.filter(e =>
+      e.type !== 'evaluated' && involvedNodes.has(e.source) && involvedNodes.has(e.target)
+    );
+
+    nodes = allData.nodes.filter(n => involvedNodes.has(n.id));
+    edges = [...conflictPairs.map(e => ({...e, type: 'conflict'})), ...relEdges];
+
+  } else if (mode === 'relationships') {
+    const nodeSet = new Set(allData.nodes.map(n => n.id));
+    const relEdges = allData.edges.filter(e =>
+      e.type !== 'evaluated' && nodeSet.has(e.source) && nodeSet.has(e.target)
+    );
+    const involvedNodes = new Set();
+    relEdges.forEach(e => {
+      involvedNodes.add(e.source);
+      if (e.source !== e.target) involvedNodes.add(e.target); // skip self-loops for node collection
+    });
+    nodes = allData.nodes.filter(n => involvedNodes.has(n.id));
+    edges = relEdges;
+
+  } else if (mode === 'cross') {
+    const nodeSet = new Set(allData.nodes.map(n => n.id));
+    const crossEdges = allData.edges.filter(e =>
+      (e.type === 'reciprocal_funding' || e.type === 'co_jury_then_evaluated') &&
+      nodeSet.has(e.source) && nodeSet.has(e.target)
+    );
+    // Also include worked_together edges between involved nodes.
+    const involvedNodes = new Set();
+    crossEdges.forEach(e => { involvedNodes.add(e.source); involvedNodes.add(e.target); });
+    const relEdges = allData.edges.filter(e =>
+      e.type !== 'evaluated' && e.type !== 'co_jury_then_evaluated' && e.type !== 'reciprocal_funding' &&
+      involvedNodes.has(e.source) && involvedNodes.has(e.target) && nodeSet.has(e.source) && nodeSet.has(e.target)
+    );
+    nodes = allData.nodes.filter(n => involvedNodes.has(n.id));
+    edges = [...crossEdges, ...relEdges];
+
+  } else {
+    // Full graph — limit evaluated edges to keep it usable.
+    // Only show evaluated edges for nodes that also have a relationship.
+    const relNodes = new Set();
+    allData.edges.filter(e => e.type !== 'evaluated').forEach(e => {
+      relNodes.add(e.source); relNodes.add(e.target);
+    });
+
+    const evalEdges = allData.edges.filter(e =>
+      e.type === 'evaluated' && (relNodes.has(e.source) || relNodes.has(e.target))
+    );
+    const relEdges = allData.edges.filter(e => e.type !== 'evaluated');
+    edges = [...evalEdges, ...relEdges];
+
+    const involvedNodes = new Set();
+    edges.forEach(e => { involvedNodes.add(e.source); involvedNodes.add(e.target); });
+    nodes = allData.nodes.filter(n => involvedNodes.has(n.id));
+  }
+
+  document.getElementById('stats').textContent = `${nodes.length} nodes, ${edges.length} edges`;
+
+  // Clone for D3 (it mutates objects).
+  nodes = nodes.map(n => ({...n}));
+  edges = edges.map(e => ({...e, source: e.source, target: e.target}));
+
+  const g = svg.append('g');
+
+  // Zoom.
+  svg.call(d3.zoom().scaleExtent([0.1, 10]).on('zoom', e => g.attr('transform', e.transform)));
+
+  // Edges.
+  const link = g.append('g')
+    .selectAll('line')
+    .data(edges)
+    .join('line')
+    .attr('class', d => 'edge-' + d.type)
+    .attr('stroke-width', d => {
+      if (d.type === 'reciprocal_funding') return 3;
+      if (d.type === 'same_beneficiary_conflict') return 2.5;
+      if (d.type === 'jury_and_talent_same_year') return 2;
+      if (d.type === 'conflict') return 2;
+      if (d.type === 'co_jury_then_evaluated') return 1;
+      if (d.type === 'same_beneficiary') return 0.8;
+      if (d.type === 'evaluated') return 0.5;
+      return 1.5;
+    });
+
+  // Nodes.
+  const node = g.append('g')
+    .selectAll('circle')
+    .data(nodes)
+    .join('circle')
+    .attr('r', d => {
+      if (d.type === 'company') return 6;
+      const grants = d.metadata?.grants_received || 0;
+      const jury = d.metadata?.jury_sessions || 0;
+      return Math.max(4, Math.min(14, 4 + grants * 0.3 + jury * 1.5));
+    })
+    .attr('fill', d => nodeColors[d.type] || '#666')
+    .attr('stroke', d => {
+      // Highlight conflict nodes.
+      if (d.type === 'both') return '#fff';
+      return 'none';
+    })
+    .attr('stroke-width', 1)
+    .attr('cursor', 'pointer')
+    .call(d3.drag()
+      .on('start', dragstart)
+      .on('drag', dragged)
+      .on('end', dragend))
+    .on('mouseover', showTooltip)
+    .on('mouseout', hideTooltip);
+
+  // Labels (only for nodes with relationships or in conflict view).
+  const labels = g.append('g')
+    .selectAll('text')
+    .data(nodes)
+    .join('text')
+    .attr('class', d => {
+      const hasRel = allData._relSet.has(d.id + '|') ||
+        edges.some(e => (e.source.id || e.source) === d.id && e.type !== 'evaluated' ||
+                        (e.target.id || e.target) === d.id && e.type !== 'evaluated');
+      return hasRel || mode === 'conflicts' ? 'node-label-highlight' : 'node-label';
+    })
+    .text(d => d.label)
+    .attr('dx', 8)
+    .attr('dy', 3)
+    .style('display', d => {
+      if (mode === 'full') return 'none'; // Too many labels.
+      return null;
+    });
+
+  // Simulation.
+  simulation = d3.forceSimulation(nodes)
+    .force('link', d3.forceLink(edges).id(d => d.id).distance(d => {
+      if (d.type === 'evaluated') return 80;
+      return 50;
+    }))
+    .force('charge', d3.forceManyBody().strength(d => {
+      if (mode === 'full') return -20;
+      return -120;
+    }))
+    .force('center', d3.forceCenter(width / 2, height / 2))
+    .force('collision', d3.forceCollide(12))
+    .on('tick', () => {
+      link
+        .attr('x1', d => d.source.x)
+        .attr('y1', d => d.source.y)
+        .attr('x2', d => d.target.x)
+        .attr('y2', d => d.target.y);
+      node
+        .attr('cx', d => d.x)
+        .attr('cy', d => d.y);
+      labels
+        .attr('x', d => d.x)
+        .attr('y', d => d.y);
+    });
+
+  function dragstart(event, d) {
+    if (!event.active) simulation.alphaTarget(0.3).restart();
+    d.fx = d.x; d.fy = d.y;
+  }
+  function dragged(event, d) { d.fx = event.x; d.fy = event.y; }
+  function dragend(event, d) {
+    if (!event.active) simulation.alphaTarget(0);
+    d.fx = null; d.fy = null;
+  }
+}
+
+function showTooltip(event, d) {
+  const tip = document.getElementById('tooltip');
+  let html = `<h3>${d.label}</h3>`;
+  html += `<div class="meta">Type: ${d.type}</div>`;
+
+  if (d.metadata?.jury_sessions) html += `<div class="meta">Jury sessions: ${d.metadata.jury_sessions}</div>`;
+  if (d.metadata?.grants_received) html += `<div class="meta">Grants received: ${d.metadata.grants_received}</div>`;
+  if (d.metadata?.total_amount) html += `<div class="meta">Total funded: ${d.metadata.total_amount.toLocaleString()} €</div>`;
+  if (d.metadata?.aliases?.length) html += `<div class="meta">Aliases: ${d.metadata.aliases.join(', ')}</div>`;
+
+  // Find relationships.
+  const rels = allData.edges.filter(e =>
+    e.type !== 'evaluated' && (e.source === d.id || e.target === d.id ||
+      e.source.id === d.id || e.target.id === d.id)
+  );
+  if (rels.length > 0) {
+    html += `<div class="meta" style="margin-top:6px;color:#e74c3c">Relationships:</div>`;
+    rels.forEach(r => {
+      const other = (r.source === d.id || r.source.id === d.id) ? (r.target.label || r.target) : (r.source.label || r.source);
+      html += `<div class="meta">  ${r.type}: ${other}</div>`;
+      if (r.metadata?.evidence) html += `<div class="meta" style="color:#666">  ${r.metadata.evidence}</div>`;
+    });
+  }
+
+  tip.innerHTML = html;
+  tip.style.display = 'block';
+  tip.style.left = (event.pageX + 15) + 'px';
+  tip.style.top = (event.pageY - 10) + 'px';
+}
+
+function hideTooltip() {
+  document.getElementById('tooltip').style.display = 'none';
+}
+
+function highlightSearch(query) {
+  if (!query) {
+    d3.selectAll('circle').attr('opacity', 1);
+    d3.selectAll('line').attr('opacity', 1);
+    return;
+  }
+  query = query.toLowerCase();
+  d3.selectAll('circle').attr('opacity', d =>
+    d.label.toLowerCase().includes(query) || d.id.includes(query) ? 1 : 0.1
+  );
+}
+
+init();
+</script>
+</body>
+</html>

@@ -6,8 +6,7 @@ Graph-based analysis of French CNC (Centre National du Cinéma) commission resul
 focused exclusively on the **CNC Talent** fund (Fonds d'aide aux créateurs vidéo sur internet).
 
 The goal is to map relationships between jury members, talents/creators, and beneficiary
-companies across all commission sessions, then use AI (Google search, etc.) to discover
-who knows who and surface potential conflicts of interest.
+companies across all commission sessions, then surface potential conflicts of interest.
 
 **Source:** https://www.cnc.fr/professionnels/aides-et-financements/fonds-daide-aux-createurs-video-sur-internet-cnc-talent/resultats-commissions
 
@@ -22,84 +21,125 @@ cnc/
 ├── main.go                         (entrypoint — currently empty)
 │
 ├── cmd/
-│   └── scrape/
-│       └── main.go                 — CLI to run the scraper
+│   ├── scrape/
+│   │   └── main.go                 — CLI to scrape CNC pages
+│   ├── quality/
+│   │   └── main.go                 — data quality check report
+│   ├── resolve/
+│   │   └── main.go                 — AI-based person/talent resolution (Claude Sonnet)
+│   ├── link/
+│   │   └── main.go                 — fill person_id/talent_person_id in commissions
+│   ├── enrich/
+│   │   └── main.go                 — Brave Search YouTube co-occurrence for person↔person
+│   └── company-enrich/
+│       └── main.go                 — Brave Search + Haiku for person↔company connections
 │
 ├── internal/
 │   ├── model/
 │   │   └── types.go                — all domain types (nodes + edges of the graph)
 │   ├── scraper/
-│   │   ├── scraper.go              — fetches HTML, sends to Claude Haiku for parsing
-│   │   └── urls.go                 — hardcoded list of 33 known commission page URLs
+│   │   ├── scraper.go              — fetches HTML, sends to Claude Haiku for parsing (streaming)
+│   │   └── urls.go                 — hardcoded list of 34 known commission page URLs
 │   └── store/
 │       └── graph.go                — file-backed graph: Load, Save, query helpers
 │
 └── data/
     ├── raw/
-    │   └── commissions/            — one JSON per commission session (scraper output)
+    │   └── commissions/            — 38 JSON files, one per commission session
     │       └── {commission-id}.json
-    ├── persons/                    — one JSON per resolved real person (empty for now)
+    ├── persons/                    — 545 JSON files, one per resolved person
     │   └── {person-id}.json
-    ├── companies/                  — one JSON per resolved legal entity (empty for now)
+    ├── companies/                  — (empty for now)
     │   └── {company-id}.json
-    └── relationships/              — one JSON per known person↔person link (empty for now)
-        └── {person-a-id}_{person-b-id}.json
+    ├── relationships/              — 24 person↔person links (YouTube co-occurrence + company)
+    │   └── {person-a-id}_{person-b-id}.json
+    ├── talent_resolution.json      — maps each talent_raw → person (547) or company (55)
+    ├── jury_resolution.json        — maps jury raw_name variants → canonical persons (76)
+    └── enrichment/
+        ├── screen/                 — Haiku screening results (phase 1, low yield)
+        ├── youtube/                — Brave Search YouTube co-occurrence results
+        │   ├── connections.json    — all matched pairs
+        │   ├── progress.json       — resumability tracking
+        │   └── matched.json        — pairs already confirmed
+        └── companies/
+            ├── hits.json           — Brave search hits for jury×company
+            └── classifications.json — Haiku classification of hits
 ```
 
 ---
 
-## Current state (last updated: 2026-03-31)
+## Current state (last updated: 2026-04-01)
 
 ### What's DONE
 
-1. **Domain model** (`internal/model/types.go`) — all Go types defined:
-   - `Person`, `Company`, `Project`, `Commission` (nodes)
-   - `JuryPresence`, `Grant`, `Relationship` (edges)
-   - Enums: `JuryRole`, `AidSection`, `AidType`, `Result`, `RelationshipType`, `Confidence`
+1. **Scraping** — COMPLETE (38/38 sessions, Dec 2017 → Nov 2025)
+   - Scraper uses streaming Claude Haiku API, MaxTokens 32768
+   - All consolidated pages handled
+   - 722 grants total, ~16M € awarded
 
-2. **Graph store** (`internal/store/graph.go`) — file-backed graph with:
-   - `Load(dataDir)` / `Save*()` functions
-   - Index builders: `GrantsByTalentPersonID`, `JuryByPersonID`, `RelationshipIndex`
-   - Query helpers: `JuryCommissions`, `TalentGrants`, `EvaluatorOf`,
-     `PersonsWhoEvaluatedTalent`, `KnownRelationship`, `ConflictsOfInterest`
+2. **Data quality check** (`cmd/quality/`)
+   - 38 sessions, 722 grants (all accepted — CNC doesn't publish rejected)
+   - 570 unique talent names, 86 unique jury names, 465 unique beneficiaries
+   - 7 sessions without a président (labeling variance, not a real issue)
 
-3. **Scraper** (`internal/scraper/` + `cmd/scrape/`) — fully working:
-   - `urls.go`: 33 known CNC Talent commission page URLs (2017–2025)
-   - `scraper.go`: fetches HTML → strips to text → sends to Claude Haiku 4.5 → parses JSON response
-   - Handles consolidated pages (one URL → multiple `Commission` objects)
-   - Skips already-scraped files → safe to re-run
-   - Run with: `go run ./cmd/scrape -data data` (needs `ANTHROPIC_API_KEY` env var)
-   - Single-URL mode: `go run ./cmd/scrape -data data -url <url>`
+3. **Person resolution** (`cmd/resolve/`)
+   - Jury: 103 raw names → 76 unique persons (Claude Sonnet deduplication)
+   - Talents: 602 raw names → 547 persons + 55 companies (Claude Sonnet)
+   - 545 Person records saved to `data/persons/`
+   - Resolution mappings in `talent_resolution.json` and `jury_resolution.json`
 
-4. **Scraped data**: 27 commission sessions in `data/raw/commissions/`:
-   - 2017: 1 session (dec)
-   - 2018: 4 sessions (mar, apr, jun, oct) — **missing: dec 2018**
-   - 2019: 3 sessions (feb, apr, jun) — **missing: oct 2019**
-   - 2020: 4 sessions (jan, mar, jun, oct) — **missing: dec 2020**
-   - 2021: 4 sessions (feb, apr, jun, oct) — **missing: dec 2021**
-   - 2022: 1 session (apr) — **missing: feb, jun, oct 2022**
-   - 2023: 2 sessions (apr, sep) — **missing: feb, jun, nov 2023**
-   - 2024: 4 sessions (mar, apr, jun, sep) — **missing: nov 2024**
-   - 2025: 4 sessions (may, jul, sep, nov) — complete
+4. **Linking** (`cmd/link/`)
+   - `person_id` filled on all 316 jury entries
+   - `talent_person_id` filled on 652 talent entries (55 companies left empty — expected)
+   - Raw fields preserved as source of truth
 
-### What's MISSING from the scrape
+5. **Relationship enrichment — YouTube co-occurrence** (`cmd/enrich/`)
+   - Method: Brave Search API, query `"Person A" "Person B" site:youtube.com`
+   - Scope: 24 creator-jury members × all talents they evaluated (same commission)
+   - Two passes: primary names (1,484 searches) + aliases (1,372 searches)
+   - **24 YouTube collaborations found** → saved to `data/relationships/`
+   - Key finding: **Cyprien Iov** had 8 collab matches with talents he evaluated
 
-~11 sessions are missing. These were on **consolidated year-pages** (one URL
-contains multiple commission sessions). The scraper ran but some consolidated
-pages may have only returned one session, or errored.
+6. **Relationship enrichment — Company connections** (`cmd/company-enrich/`)
+   - Method: Brave Search (general web) + Haiku classification of results
+   - Scope: all 76 jury members × 55 companies (same commission only)
+   - 676 searches → 33 hits → Haiku classified → **5 real connections**
+   - Key finding: **4 jury members connected to Golden Moustache** (Florent Bernard was employee)
 
-**To fix:** re-run the scraper (it skips existing files), then manually check
-consolidated URLs flagged with `Consolidated: true` in `urls.go`. If the page
-truly has multiple sessions, the Claude prompt should extract them all —
-if not, try re-running just that URL with `go run ./cmd/scrape -data data -url <url>`.
+### Conflicts of interest found (same-commission, 24 total)
 
-Consolidated URLs to check:
-- `_2130283` (2023, should have up to 4 sessions)
-- `_1829503` (2022, should have up to 4 sessions)
-- `_1628468` (2021, should have up to 5 sessions)
-- `_1395148` (2020, should have up to 5 sessions)
-- `_1097133` (2019, should have up to 4 sessions)
-- `_2322707` (2024, should have up to 5 sessions)
+Major ones:
+- **Cyprien Iov** (jury 2018): gave grants to 6 collaborators (PV Nova 14K€, Jhon Rachid 25K€,
+  Les Parasites 30K€, Solange te parle 50K€, Florence Porcel 25K€, Éléonore Costes 2K€)
+- **Florent Bernard** (jury 2018): gave 50K€ to Cyprien, 30K€ to Nicolas Berno — was also
+  employee of Golden Moustache which received grants
+- **Aude Gogny-Goubert** (jury 2020-2021): gave grants to 4 collab partners — also connected
+  to Golden Moustache (not caught because different sessions)
+- **Manon Champier** (jury 2022): gave 35K€ to Mamytwink (appeared together on Canal+)
+- **Marion Séclin** (jury 2023): gave 50K€ to Lucien Maine
+- **Charlie Danger** (jury 2024): gave grants to 3 collab partners
+
+### What's NOT YET DONE
+
+#### Immediate next: Non-same-commission enrichment
+Current enrichment only checks jury↔talent pairs within the same commission session.
+But conflicts exist across sessions too (e.g., Aude GG ↔ Golden Moustache). Need to:
+
+- **Person↔person**: expand from 1,484 pairs (same commission) to all 11,736 pairs
+  (24 creators × 489 talents). ~20,800 Brave searches with aliases. ~8 min, ~$10-15.
+- **Person↔company**: expand from 531 pairs (same commission) to all 76 × 55 = 4,180 pairs.
+  ~$3-5 for Brave + Haiku classification.
+
+#### Company resolver (beneficiary_raw → Company records)
+Map 465 unique `beneficiary_raw` values to `Company` records. Not yet started.
+Would enable tracking: same company receiving funds across multiple sessions.
+
+#### Visualization (NEXT STEP)
+Build an interactive network graph showing:
+- **Nodes**: persons (jury/talent/both), companies
+- **Edges**: evaluated (jury→talent), worked_together (YouTube collab),
+  employee/business (person→company), funded (company received grant)
+- Export as flat JSON for D3.js / Sigma.js consumption
 
 ---
 
@@ -120,7 +160,7 @@ Consolidated URLs to check:
 |---|---|---|
 | `JuryPresence` | Person ↔ Commission | `role` (président / président suppléant / membre) |
 | `Grant` | Project ↔ Commission | `talent_raw/person_id`, `beneficiary_raw/company_id`, `amount`, `aid_section`, `aid_type`, `result` |
-| `Relationship` | Person ↔ Person | `type`, `source`, `confidence` — populated via external research |
+| `Relationship` | Person ↔ Person | `type`, `source`, `confidence` — populated via Brave Search + AI |
 
 ### Grant taxonomy
 
@@ -150,102 +190,55 @@ IDs are human-readable kebab-case slugs.
 
 ---
 
-## Resolution pattern (raw → resolved)
+## CLI commands
 
-The scraper stores data exactly as written on the CNC page (zero interpretation).
-Resolution is a separate, manual-or-AI-assisted step:
-
-```
-talent_raw: "Balade mentale"          → talent_person_id: "thomas-dupont"
-beneficiary_raw: "Eigengrau production" → beneficiary_company_id: "eigengrau-production"
-jury raw_name: "Kloé Lang"            → person_id: "kloe-lang"
-```
-
-`person_id` / `company_id` / `beneficiary_company_id` fields are left `""` until resolved.
-Never delete `raw_name` / `talent_raw` / `beneficiary_raw` — they are the source of truth.
-
----
-
-## Graph query capabilities (internal/store/graph.go)
-
-- `g.JuryCommissions(personID)` — all sessions where a person sat on the jury
-- `g.TalentGrants(personID)` — all grants where a person was the talent
-- `g.EvaluatorOf(talentPersonID)` — map of commissionID → jury members who evaluated this talent
-- `g.PersonsWhoEvaluatedTalent(talentPersonID)` — flat set of jury person IDs
-- `g.KnownRelationship(a, b)` — retrieve a relationship between two persons
-- `g.ConflictsOfInterest()` — cross-join: jury member with a known relationship to a talent they evaluated
-
----
-
-## Scraper details (internal/scraper/)
-
-### How it works
-1. Fetches raw HTML from CNC page (`net/http`)
-2. Strips `<script>`, `<style>`, `<nav>`, `<header>`, `<footer>` to reduce tokens
-3. Sends plain text to **Claude Haiku 4.5** (`claude-haiku-4-5`) with a precise system prompt
-4. Claude returns a JSON array of `Commission` objects
-5. Each commission is written to `data/raw/commissions/{id}.json`
-
-### Running it
 ```bash
-# All known URLs (skips already-scraped):
-ANTHROPIC_API_KEY=... go run ./cmd/scrape -data data
+# Scrape all CNC pages (skips existing):
+export $(cat .env | xargs) && go run ./cmd/scrape -data data
 
-# Single URL:
-ANTHROPIC_API_KEY=... go run ./cmd/scrape -data data -url "https://..."
+# Scrape single URL:
+export $(cat .env | xargs) && go run ./cmd/scrape -data data -url "https://..."
+
+# Data quality report:
+go run ./cmd/quality -data data
+
+# Resolve persons (AI — uses Claude Sonnet):
+export $(cat .env | xargs) && go run ./cmd/resolve -data data
+
+# Link person_id/talent_person_id in commissions:
+go run ./cmd/link -data data
+
+# YouTube co-occurrence enrichment (uses Brave Search):
+export $(cat .env | xargs) && go run ./cmd/enrich -data data
+
+# Company enrichment (uses Brave Search + Claude Haiku):
+export $(cat .env | xargs) && go run ./cmd/company-enrich -data data
 ```
+
+---
+
+## Enrichment methodology
+
+### YouTube co-occurrence (person↔person)
+1. For each (jury member, talent) pair, search Brave for `"Name A" "Name B" site:youtube.com`
+2. Check if top 10 results mention both names in title + description
+3. If yes → flag as `worked_together` relationship with YouTube URL as evidence
+4. Two passes: primary legal names, then aliases/channel names
+5. Only 24 creator-jury members searched (not journalists/executives)
+
+### Company connections (person↔company)
+1. Brave Search for `"Person" "Company"` (general web, no site filter)
+2. Filter results that mention both in title + description
+3. Send matched snippets to Claude Haiku for classification:
+   `owns` / `employee` / `business` / `mentioned` (discarded)
 
 ### Key design choices
-- **Claude API for parsing** (not CSS selectors) — the HTML format changed across 8 years of pages
-- **Haiku** model — cheap and fast, accurate enough for structured extraction
-- **1-second delay** between requests to be polite to CNC servers
-- **Idempotent** — skips existing files, safe to re-run
-
----
-
-## Planned work (next steps, in order)
-
-### Step 1: Complete the scrape (IMMEDIATE NEXT)
-Fix the ~11 missing sessions from consolidated pages. Re-run scraper, manually
-check consolidated URLs. See "What's MISSING" section above.
-
-### Step 2: Data quality check
-After all sessions are scraped, write a quick CLI command to:
-- Count total sessions, total grants, total unique talent_raw, total unique jury members
-- Flag any anomalies (empty jury, zero grants, duplicate IDs)
-
-### Step 3: Person resolver
-Map `talent_raw` values + jury `raw_name` values to `Person` records:
-- Many jury members are already real names → auto-slug to person ID
-- Many talents are pseudonyms/channel names → need AI research (Google search)
-  to find the real person behind the channel
-- Create `data/persons/{person-id}.json` files
-- Fill in `person_id` / `talent_person_id` fields in commission JSONs
-
-### Step 4: Company resolver
-Map `beneficiary_raw` values to `Company` records:
-- Create `data/companies/{company-id}.json` files
-- Fill in `beneficiary_company_id` fields
-
-### Step 5: Relationship enrichment
-AI-assisted discovery of who knows who:
-- Google search jury members → find their professional backgrounds, YouTube channels,
-  social media, past projects, company affiliations
-- Cross-reference with talents: did jury member X produce content with talent Y?
-  Did they work at the same company? Appear at the same events?
-- Populate `data/relationships/` with confidence-scored links
-- Use `claude-sonnet-4-6` for research tasks
-
-### Step 6: Analysis & conflict detection
-- Run `g.ConflictsOfInterest()` to find jury↔talent pairs with known relationships
-- Recurring beneficiary tracking (same company getting funded repeatedly)
-- Funding flow analysis: total amounts per talent, per company, per jury composition
-- Jury member influence: who approved what, how many times
-
-### Step 7: Visualisation
-- Export graph to Gephi / D3 / Neo4j-compatible format
-- Interactive network graph of relationships
-- Timeline view of commissions with jury/talent connections
+- **Brave Search API** for web search (cheap: $0.005/query, fast: 50 req/s)
+- **Co-occurrence** as signal — two names appearing together in search results
+- **Alias-aware** — searches both legal names and channel names/pseudonyms
+- **Resumable** — progress tracked in JSON files, safe to re-run
+- **Two-phase for companies** — cheap search filter, then AI classification
+- **API keys** stored in `.env` (ANTHROPIC_API_KEY, BRAVE_API_KEY)
 
 ---
 
@@ -253,13 +246,13 @@ AI-assisted discovery of who knows who:
 
 - **Do not scrape other CNC fund types** — only CNC Talent is in scope.
 - **Preserve `raw_*` fields** — never overwrite with resolved values; always fill the `*_id` field instead.
-- **Keep commission JSON files faithful to the source page** — no inference or normalisation in the raw layer; do that in code.
-- **Use the Claude API for AI-assisted steps** (person resolution, relationship discovery) — prefer `claude-sonnet-4-6` for research tasks, batch requests where possible.
+- **Keep commission JSON files faithful to the source page** — no inference or normalisation in the raw layer.
 - **Store all amounts as integers in euros** (e.g. `30000`, not `"30 000 €"`).
 - **Dates are ISO 8601** (`YYYY-MM-DD`) throughout.
 - **Relationship files use sorted IDs** — always sort `person_a_id` < `person_b_id` alphabetically before writing.
-- **Scraper uses Claude Haiku 4.5** for HTML→JSON extraction (cheap, fast, good enough).
-- **`ANTHROPIC_API_KEY`** must be set as env var or passed with `-key` flag to run the scraper.
+- **Scraper uses Claude Haiku 4.5** for HTML→JSON extraction (streaming, 32768 MaxTokens).
+- **Enrichment uses Brave Search API** for web/YouTube search, Claude Haiku for classification.
+- **`.env`** must contain `ANTHROPIC_API_KEY` and `BRAVE_API_KEY`.
 
 ---
 
@@ -267,7 +260,9 @@ AI-assisted discovery of who knows who:
 
 - **Jury composition changes per session** — same person can have different roles
   (e.g., Benjamin Bonnet: président in Nov 2025, membre in Sep 2025)
-- **"Talent" field is often a pseudonym/channel name**, not a real name → needs resolution
-- **Beneficiary company ≠ talent person** — money goes to the company
-- **Some companies appear across multiple sessions** (e.g., PANDORA Création, URBANIA PRODUCTIONS)
-- **~38 total sessions** from Dec 2017 to Nov 2025, 27 already scraped
+- **20 of 76 jury members were also funded as talents** in other sessions
+- **24 creator-jury members** are YouTubers/content creators (not just industry professionals)
+- **Golden Moustache** is a hotspot: 4 jury members connected, received grants in 2018-2019
+- **Cyprien Iov** had the most conflicts: 8 collaborators received grants while he was jury
+- **Same-commission only** catches 24 conflicts, but cross-session analysis would find more
+  (e.g., Aude GG ↔ Golden Moustache)

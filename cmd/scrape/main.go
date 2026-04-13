@@ -7,6 +7,7 @@ import (
 	"os"
 
 	"cnc/internal/scraper"
+	"cnc/internal/store"
 )
 
 func main() {
@@ -32,7 +33,11 @@ func main() {
 			log.Fatalf("scrape %s: %v", *url, err)
 		}
 		for _, c := range commissions {
-			log.Printf("Parsed: %s (%d jury, %d grants)", c.ID, len(c.Jury), len(c.Grants))
+			if err := store.SaveCommission(*dataDir, c); err != nil {
+				log.Printf("  ERROR saving %s: %v", c.ID, err)
+				continue
+			}
+			log.Printf("Saved: %s (%d jury, %d grants)", c.ID, len(c.Jury), len(c.Grants))
 		}
 		return
 	}

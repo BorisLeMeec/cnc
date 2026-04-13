@@ -5,52 +5,52 @@
   "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-11-decembre-2020_1410353",
   "jury": [
     {
-      "person_id": "",
+      "person_id": "romain-gavras",
       "raw_name": "Romain Gavras",
       "role": "président"
     },
     {
-      "person_id": "",
+      "person_id": "maurice-barthelemy",
       "raw_name": "Maurice Barthelemy",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "lison-daniel",
       "raw_name": "Lison Daniel",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "nicolas-capuron",
       "raw_name": "Nicolas Capuron",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "marie-agnely",
       "raw_name": "Marie Agnely",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "galo-diallo",
       "raw_name": "Galo Diallo",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "oriane-hurard",
       "raw_name": "Oriane Hurard",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "lawrence-valin",
       "raw_name": "Lawrence Valin",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "aude-gogny-goubert",
       "raw_name": "Aude Gogny-Goubert",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "pauline-clement",
       "raw_name": "Pauline Clément",
       "role": "membre"
     }
@@ -61,6 +61,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-02-11",
       "talent_raw": "Matdeuh",
+      "talent_person_id": "matdeuh",
       "beneficiary_raw": "Matdeuh",
       "amount": 7000,
       "aid_section": "aide_creation",
@@ -72,6 +73,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-02-11",
       "talent_raw": "Alexandre Blain",
+      "talent_person_id": "alexandre-blain",
       "beneficiary_raw": "Alexandre BLAIN",
       "amount": 5000,
       "aid_section": "aide_creation",
@@ -79,10 +81,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2021-02-11-demoiselles-d-horreur-saison-2",
+      "id": "cnc-talent-2021-02-11-demoiselles-horreur-saison-2",
       "project_id": "",
       "commission_id": "cnc-talent-2021-02-11",
       "talent_raw": "Judith Beauvallet",
+      "talent_person_id": "judith-beauvallet",
       "beneficiary_raw": "PHENOMENES FILMS",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -94,6 +97,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-02-11",
       "talent_raw": "Patrick BAUD",
+      "talent_person_id": "patrick-baud",
       "beneficiary_raw": "Image Mouvement",
       "amount": 20000,
       "aid_section": "aide_creation",
@@ -105,6 +109,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-02-11",
       "talent_raw": "Leslie Barbara Butch",
+      "talent_person_id": "leslie-barbara-butch",
       "beneficiary_raw": "Manny films",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -116,6 +121,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-02-11",
       "talent_raw": "Vincent Leplat",
+      "talent_person_id": "vincent-leplat",
       "beneficiary_raw": "Jayus",
       "amount": 20000,
       "aid_section": "aide_creation",
@@ -123,10 +129,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2021-02-11-la-femme-objet",
+      "id": "cnc-talent-2021-02-11-femme-objet",
       "project_id": "",
       "commission_id": "cnc-talent-2021-02-11",
       "talent_raw": "Julien Josselin",
+      "talent_person_id": "julien-josselin",
       "beneficiary_raw": "GO BUDDY GO",
       "amount": 20000,
       "aid_section": "aide_creation",
@@ -134,10 +141,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2021-02-11-la-preuve-par-l-epreuve",
+      "id": "cnc-talent-2021-02-11-preuve-par-epreuve",
       "project_id": "",
       "commission_id": "cnc-talent-2021-02-11",
       "talent_raw": "Baladementale",
+      "talent_person_id": "theo-drieu",
       "beneficiary_raw": "EEMC",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -145,10 +153,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2021-02-11-les-chroniques-de-gliwensbourg",
+      "id": "cnc-talent-2021-02-11-chroniques-gliwensbourg",
       "project_id": "",
       "commission_id": "cnc-talent-2021-02-11",
       "talent_raw": "Emilie TOMMASI – Association ACTIO",
+      "talent_person_id": "emilie-tommasi",
       "beneficiary_raw": "ACTIO",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -160,6 +169,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-02-11",
       "talent_raw": "Ruddy LAPORAL",
+      "talent_person_id": "ruddy-laporal",
       "beneficiary_raw": "Ruddy LAPORAL",
       "amount": 5000,
       "aid_section": "aide_creation",
@@ -171,6 +181,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-02-11",
       "talent_raw": "Ludoc",
+      "talent_person_id": "ludoc",
       "beneficiary_raw": "Ovais",
       "amount": 20000,
       "aid_section": "aide_creation",
@@ -182,6 +193,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-02-11",
       "talent_raw": "Kick Sama",
+      "talent_person_id": "theo-munck",
       "beneficiary_raw": "Théo MUNCK",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -189,7 +201,7 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2021-02-11-stambali-derniere-danse-des-esprits",
+      "id": "cnc-talent-2021-02-11-stambali-derniere-danse",
       "project_id": "",
       "commission_id": "cnc-talent-2021-02-11",
       "talent_raw": "PAM – Pan African Music",
@@ -200,10 +212,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2021-02-11-c-est-une-autre-histoire",
+      "id": "cnc-talent-2021-02-11-cest-autre-histoire",
       "project_id": "",
       "commission_id": "cnc-talent-2021-02-11",
       "talent_raw": "Manon Bril (C'est une autre histoire)",
+      "talent_person_id": "manon-champier",
       "beneficiary_raw": "Manon CHAMPIER",
       "amount": 50000,
       "aid_section": "aide_chaine",

@@ -2,45 +2,45 @@
   "id": "cnc-talent-2024-03-15",
   "fund_name": "CNC Talent",
   "date": "2024-03-15",
-  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-15-mars-2024_2190044",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-20-novembre-2024_2322707",
   "jury": [
     {
-      "person_id": "",
+      "person_id": "jeanne-ezvan",
       "raw_name": "Jeanne Ezvan",
       "role": "président"
     },
     {
-      "person_id": "",
+      "person_id": "lea-bordier",
       "raw_name": "Léa Bordier",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "romain-dupouy",
       "raw_name": "Romain Dupouy",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "frederic-carpentier",
       "raw_name": "Frédéric Carpentier",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "benjamin-hoguet",
       "raw_name": "Benjamin Hoguet",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "anis-rhali",
       "raw_name": "Anis Rhali",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "constance-le-scouarnec",
       "raw_name": "Constance Le Scouarnec",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "charlie-danger",
       "raw_name": "Charlie Danger",
       "role": "membre"
     }
@@ -51,6 +51,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-03-15",
       "talent_raw": "Aliciane Guitard et Pierre Kerner",
+      "talent_person_id": "aliciane-guitard-et-pierre-kerner",
       "beneficiary_raw": "Cairn Productions",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -62,6 +63,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-03-15",
       "talent_raw": "Lapeint",
+      "talent_person_id": "lapeint",
       "beneficiary_raw": "Lapeint",
       "amount": 20000,
       "aid_section": "aide_creation",
@@ -73,6 +75,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-03-15",
       "talent_raw": "Judi Tudisco",
+      "talent_person_id": "judi-tudisco",
       "beneficiary_raw": "Avec ou sans Vous",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -84,6 +87,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-03-15",
       "talent_raw": "Benoit Blanc \u0026 Riad Gahmi",
+      "talent_person_id": "benoit-blanc-et-riad-gahmi",
       "beneficiary_raw": "OUPS Prod",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -91,10 +95,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2024-03-15-degourdie-saison-2",
+      "id": "cnc-talent-2024-03-15-degudie-saison-2",
       "project_id": "",
       "commission_id": "cnc-talent-2024-03-15",
       "talent_raw": "Inas Chanti",
+      "talent_person_id": "inas-chanti",
       "beneficiary_raw": "Dobro Films",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -106,6 +111,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-03-15",
       "talent_raw": "Julien Magalaës",
+      "talent_person_id": "julien-magalhaes",
       "beneficiary_raw": "Urbania Productions",
       "amount": 25000,
       "aid_section": "aide_creation",
@@ -117,6 +123,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-03-15",
       "talent_raw": "Aude GG",
+      "talent_person_id": "aude-gogny-goubert",
       "beneficiary_raw": "Make Change",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -128,6 +135,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-03-15",
       "talent_raw": "Antoine Salaün",
+      "talent_person_id": "antoine-salaun",
       "beneficiary_raw": "Antoine Salaün",
       "amount": 28000,
       "aid_section": "aide_creation",
@@ -139,6 +147,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-03-15",
       "talent_raw": "Mamytwink",
+      "talent_person_id": "mamytwink",
       "beneficiary_raw": "Dix Dix-Neuf Production SAS",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -150,6 +159,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-03-15",
       "talent_raw": "Lucas Stoll",
+      "talent_person_id": "lucas-stoll",
       "beneficiary_raw": "Lucas Stoll",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -157,14 +167,15 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2024-03-15-mario-le-plombier-qui-voulait-dethroner-mickey",
+      "id": "cnc-talent-2024-03-15-mario-le-plombier",
       "project_id": "",
       "commission_id": "cnc-talent-2024-03-15",
       "talent_raw": "La chaîne de P.A.U.L",
+      "talent_person_id": "la-chaine-de-paul",
       "beneficiary_raw": "PANDORA Création",
       "amount": 3000,
       "aid_section": "aide_creation",
-      "aid_type": "bourse_encouragement",
+      "aid_type": "standard",
       "result": "accepted"
     },
     {
@@ -172,10 +183,11 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-03-15",
       "talent_raw": "Laura Ghazal",
+      "talent_person_id": "laura-ghazal",
       "beneficiary_raw": "La Féline",
       "amount": 3000,
       "aid_section": "aide_creation",
-      "aid_type": "bourse_encouragement",
+      "aid_type": "standard",
       "result": "accepted"
     },
     {
@@ -183,10 +195,11 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-03-15",
       "talent_raw": "Léane Alestra, Apolline Bazin",
+      "talent_person_id": "leane-alestra-apolline-bazin",
       "beneficiary_raw": "Manifesto XXI",
       "amount": 3000,
       "aid_section": "aide_creation",
-      "aid_type": "bourse_encouragement",
+      "aid_type": "standard",
       "result": "accepted"
     },
     {
@@ -194,6 +207,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-03-15",
       "talent_raw": "Mélanie Toubeau",
+      "talent_person_id": "melanie-toubeau",
       "beneficiary_raw": "Mano Pictures",
       "amount": 50000,
       "aid_section": "aide_chaine",
@@ -205,6 +219,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-03-15",
       "talent_raw": "Marion séclin et Elvire Duvelle-Charles",
+      "talent_person_id": "marion-seclin-et-elvire-duvelle-charles",
       "beneficiary_raw": "Clit Révolution",
       "amount": 5000,
       "aid_section": "aide_chaine",

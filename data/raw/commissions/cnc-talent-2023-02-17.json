@@ -1,0 +1,244 @@
+{
+  "id": "cnc-talent-2023-02-17",
+  "fund_name": "CNC Talent",
+  "date": "2023-02-17",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-22-novembre-2023_2130283",
+  "jury": [
+    {
+      "person_id": "nora-hamzawi",
+      "raw_name": "Nora Hamzawi",
+      "role": "président"
+    },
+    {
+      "person_id": "ambroise-carminati",
+      "raw_name": "Ambroise Carminati",
+      "role": "membre"
+    },
+    {
+      "person_id": "charlie-danger",
+      "raw_name": "Charlie Danger",
+      "role": "membre"
+    },
+    {
+      "person_id": "jeanne-ezvan",
+      "raw_name": "Jeanne Ezvan",
+      "role": "membre"
+    },
+    {
+      "person_id": "timothee-hochet",
+      "raw_name": "Timothée Hochet",
+      "role": "membre"
+    },
+    {
+      "person_id": "benjamin-hoguet",
+      "raw_name": "Benjamin Hoguet",
+      "role": "membre"
+    },
+    {
+      "person_id": "anis-rhali",
+      "raw_name": "Anis Rhali",
+      "role": "membre"
+    },
+    {
+      "person_id": "marion-seclin",
+      "raw_name": "Marion Séclin",
+      "role": "membre"
+    },
+    {
+      "person_id": "constance-le-scouarnec",
+      "raw_name": "Constance Le Scouarnec",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2023-02-17-pastich-saison-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-02-17",
+      "talent_raw": "Sourdoreille",
+      "beneficiary_raw": "Sourdoreille Production",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-02-17-les-mondes-du-dessous-les-vivants-invisibles",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-02-17",
+      "talent_raw": "Balade Mentale",
+      "talent_person_id": "theo-drieu",
+      "beneficiary_raw": "Eigengrau production",
+      "amount": 20000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-02-17-bien-fait-portraits-dartisanes-entre-la-france-et-le-japon",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-02-17",
+      "talent_raw": "Tempura Magazine",
+      "beneficiary_raw": "TEMPURA",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-02-17-etre-un-homme",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-02-17",
+      "talent_raw": "Les vidéos de Léo",
+      "talent_person_id": "les-videos-de-leo",
+      "beneficiary_raw": "Ume Agency",
+      "amount": 24300,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-02-17-couleurs-denfance-ex-le-mystere-pikachu",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-02-17",
+      "talent_raw": "Alexandre Labarussiat",
+      "talent_person_id": "alexandre-labarussiat",
+      "beneficiary_raw": "Hippocampe Productions",
+      "amount": 25000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-02-17-next-saison-3-sensibles-les-artistes-du-vivant",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-02-17",
+      "talent_raw": "Clément Montfort- NEXT La Série",
+      "talent_person_id": "clement-montfort",
+      "beneficiary_raw": "42 PRODUCTION Sas",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-02-17-meilleur-cest-mieux",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-02-17",
+      "talent_raw": "DAMYS",
+      "talent_person_id": "damys",
+      "beneficiary_raw": "ORAGE STUDIO",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-02-17-science-ou-fiction",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-02-17",
+      "talent_raw": "Marie Treibert",
+      "talent_person_id": "marie-treibert",
+      "beneficiary_raw": "PANDORA Création",
+      "amount": 25000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-02-17-pov",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-02-17",
+      "talent_raw": "P.O.V",
+      "talent_person_id": "pov",
+      "beneficiary_raw": "Trois Jours De Marche",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-02-17-toutes-les-femmes-le-font",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-02-17",
+      "talent_raw": "Marina Ziolkowski",
+      "talent_person_id": "marina-ziolkowski",
+      "beneficiary_raw": "Manny films",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-02-17-intra-muros",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-02-17",
+      "talent_raw": "Julie TRILLO / Zoé LABASSE",
+      "beneficiary_raw": "Julie TRILLO",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-02-17-script-celeste-et-la-depression",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-02-17",
+      "talent_raw": "Arcade",
+      "talent_person_id": "arcade",
+      "beneficiary_raw": "Zawa Prod",
+      "amount": 11200,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-02-17-pangaea-requalification",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-02-17",
+      "talent_raw": "Pangäa",
+      "talent_person_id": "pangaea",
+      "beneficiary_raw": "Pangäa",
+      "amount": 2000,
+      "aid_section": "aide_creation",
+      "aid_type": "bourse_encouragement",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-02-17-table-quest",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-02-17",
+      "talent_raw": "Alphacast",
+      "talent_person_id": "alphacast",
+      "beneficiary_raw": "ZQSD Productions",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-02-17-dans-ton-corps",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-02-17",
+      "talent_raw": "Dans Ton Corps",
+      "talent_person_id": "dans-ton-corps",
+      "beneficiary_raw": "Dark Trout Corp",
+      "amount": 49000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2023-02-17-la-bonne-auberge-lucien-maine",
+      "project_id": "",
+      "commission_id": "cnc-talent-2023-02-17",
+      "talent_raw": "Lucien Maine",
+      "talent_person_id": "lucien-maine",
+      "beneficiary_raw": "Studio 17",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

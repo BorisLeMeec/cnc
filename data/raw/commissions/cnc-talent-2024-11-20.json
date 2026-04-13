@@ -1,0 +1,327 @@
+{
+  "id": "cnc-talent-2024-11-20",
+  "fund_name": "CNC Talent",
+  "date": "2024-11-20",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-20-novembre-2024_2322707",
+  "jury": [
+    {
+      "person_id": "nora-hamzawi",
+      "raw_name": "Nora Hamzawi",
+      "role": "président"
+    },
+    {
+      "person_id": "anis-rhali",
+      "raw_name": "Anis Rhali",
+      "role": "membre"
+    },
+    {
+      "person_id": "gilles-boussion",
+      "raw_name": "Gilles BOUSSION",
+      "role": "membre"
+    },
+    {
+      "person_id": "victor-habchy",
+      "raw_name": "Victor HABCHY",
+      "role": "membre"
+    },
+    {
+      "person_id": "romain-dupouy",
+      "raw_name": "Romain DUPOUY",
+      "role": "membre"
+    },
+    {
+      "person_id": "benjamin-hoguet",
+      "raw_name": "Benjamin HOGUET",
+      "role": "membre"
+    },
+    {
+      "person_id": "charlie-danger",
+      "raw_name": "Charlie DANGER",
+      "role": "membre"
+    },
+    {
+      "person_id": "laureline-amanieux",
+      "raw_name": "Laureline Amanieux",
+      "role": "membre"
+    },
+    {
+      "person_id": "marianne-tostivint",
+      "raw_name": "Marianne Tostivint",
+      "role": "membre"
+    },
+    {
+      "person_id": "benjamin-bonnet",
+      "raw_name": "Benjamin Bonnet",
+      "role": "membre"
+    },
+    {
+      "person_id": "judith-beauvallet",
+      "raw_name": "Judith Beauvallet",
+      "role": "membre"
+    }
+  ],
+  "grants": [
+    {
+      "id": "cnc-talent-2024-11-20-cuisine-historique",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-11-20",
+      "talent_raw": "Benjamin Brillaud (dit Nota Bene)",
+      "talent_person_id": "benjamin-brillaud",
+      "beneficiary_raw": "BECEA Production",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-11-20-les-tchinis-saison-4",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-11-20",
+      "talent_raw": "Olivier MAGERMANS",
+      "talent_person_id": "olivier-magermans",
+      "beneficiary_raw": "Olivier MAGERMANS",
+      "amount": 15000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-11-20-immersion-en-laboratoire",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-11-20",
+      "talent_raw": "Tanguy Leroux",
+      "talent_person_id": "tanguy-leroux",
+      "beneficiary_raw": "Tanguy Leroux",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-11-20-a-contre-courant",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-11-20",
+      "talent_raw": "Henry Tran",
+      "talent_person_id": "henry-tran",
+      "beneficiary_raw": "HKLT CORP",
+      "amount": 11420,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-11-20-cinemascu",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-11-20",
+      "talent_raw": "Juliette Todisco",
+      "talent_person_id": "juliette-todisco",
+      "beneficiary_raw": "Crush",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-11-20-tropmytho-tous-terrains",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-11-20",
+      "talent_raw": "Scotty Bernard et Maïssa Diawara",
+      "talent_person_id": "scotty-bernard-et-maissa-diawara",
+      "beneficiary_raw": "Zebra Production",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-11-20-fourmis-et-terrariums",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-11-20",
+      "talent_raw": "AntsFourmis",
+      "talent_person_id": "anthony-basille",
+      "beneficiary_raw": "Basille Anthony",
+      "amount": 2500,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-11-20-heureux-qui-communique-saison-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-11-20",
+      "talent_raw": "LES GLANDS NE SAVENT PAS SAUTER",
+      "talent_person_id": "les-glands-ne-savent-pas-sauter",
+      "beneficiary_raw": "AVPSD",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-11-20-survival-run",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-11-20",
+      "talent_raw": "Rilès",
+      "talent_person_id": "riles",
+      "beneficiary_raw": "RilèsSundayz",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-11-20-uraniborg",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-11-20",
+      "talent_raw": "JTM",
+      "talent_person_id": "jtm",
+      "beneficiary_raw": "ANNA FILMS",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-11-20-grunt-dor",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-11-20",
+      "talent_raw": "Grünt",
+      "talent_person_id": "grunt",
+      "beneficiary_raw": "Grünt",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-11-20-la-nuit-du-musee",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-11-20",
+      "talent_raw": "Etoiles",
+      "talent_person_id": "etoiles",
+      "beneficiary_raw": "ZQSD Productions",
+      "amount": 30000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-11-20-piege-de-freestyle",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-11-20",
+      "talent_raw": "Antoine Smith",
+      "talent_person_id": "antoine-smith",
+      "beneficiary_raw": "Mandibule Production",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-11-20-porter-la-culotte",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-11-20",
+      "talent_raw": "on-suzane",
+      "talent_person_id": "suzane",
+      "beneficiary_raw": "SOEURCIERES",
+      "amount": 5000,
+      "aid_section": "aide_creation",
+      "aid_type": "aide_pilote",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-11-20-la-sante-du-futur",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-11-20",
+      "talent_raw": "Dans ton Corps",
+      "talent_person_id": "dans-ton-corps",
+      "beneficiary_raw": "Dark Trout Corp",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-11-20-meandres-saison-2",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-11-20",
+      "talent_raw": "Exaltia",
+      "talent_person_id": "exaltia",
+      "beneficiary_raw": "Good To Know Studio",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-11-20-de-l-algerie-au-rap-francais",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-11-20",
+      "talent_raw": "Punchologue",
+      "talent_person_id": "ryan-mahieddine",
+      "beneficiary_raw": "M. Ryan Mahieddine",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-11-20-web-serie-les-grands-cineaste",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-11-20",
+      "talent_raw": "Association Cinewax",
+      "beneficiary_raw": "CINEWAX FILMS",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-11-20-tele-realites",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-11-20",
+      "talent_raw": "Cass Andre",
+      "talent_person_id": "cass-andre",
+      "beneficiary_raw": "Zawa Prod",
+      "amount": 3000,
+      "aid_section": "aide_creation",
+      "aid_type": "standard",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-11-20-backseat-les-delocalisations",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-11-20",
+      "talent_raw": "Jean Massiet",
+      "talent_person_id": "jean-massiet",
+      "beneficiary_raw": "EqualProd",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-11-20-off-investigation-saison-3",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-11-20",
+      "talent_raw": "Off Investigation",
+      "beneficiary_raw": "Off Investigation",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    },
+    {
+      "id": "cnc-talent-2024-11-20-table-quest",
+      "project_id": "",
+      "commission_id": "cnc-talent-2024-11-20",
+      "talent_raw": "Alphacast",
+      "talent_person_id": "alphacast",
+      "beneficiary_raw": "ZQSD Productions",
+      "amount": 50000,
+      "aid_section": "aide_chaine",
+      "aid_type": "developpement_chaine",
+      "result": "accepted"
+    }
+  ]
+}

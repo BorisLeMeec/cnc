@@ -2,50 +2,50 @@
   "id": "cnc-talent-2021-10-12",
   "fund_name": "CNC Talent",
   "date": "2021-10-12",
-  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-12-octobre-2021_1578488",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-7-decembre-2021_1628468",
   "jury": [
     {
-      "person_id": "",
+      "person_id": "aude-gogny-goubert",
       "raw_name": "Aude Gogny-Goubert",
       "role": "président suppléant"
     },
     {
-      "person_id": "",
+      "person_id": "marie-agnely",
       "raw_name": "Marie Agnely",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "maurice-barthelemy",
       "raw_name": "Maurice Barthélemy",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "nicolas-capuron",
       "raw_name": "Nicolas Capuron",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "pauline-clement",
       "raw_name": "Pauline Clément",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "galo-diallo",
       "raw_name": "Galo Diallo",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "oriane-hurard",
       "raw_name": "Oriane Hurard",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "justine-le-pottier",
       "raw_name": "Justine Le Pottier",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "lawrence-valin",
       "raw_name": "Lawrence Valin",
       "role": "membre"
     }
@@ -56,6 +56,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-10-12",
       "talent_raw": "Leslie Menahem et Julie Joseph",
+      "talent_person_id": "leslie-menahem-et-julie-joseph",
       "beneficiary_raw": "Narrative",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -78,6 +79,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-10-12",
       "talent_raw": "Dycosh",
+      "talent_person_id": "dycosh",
       "beneficiary_raw": "SALOMON PRODUCTIONS",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -85,10 +87,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2021-10-12-au-dela-du-diagnostic",
+      "id": "cnc-talent-2021-10-12-au-delà-du-diagnostic",
       "project_id": "",
       "commission_id": "cnc-talent-2021-10-12",
       "talent_raw": "Morgan LE FAUCHEUR",
+      "talent_person_id": "morgan-le-faucheur",
       "beneficiary_raw": "ALMO FILM (SARL GANMOR)",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -96,10 +99,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2021-10-12-le-vortex-saison-d-ete-2",
+      "id": "cnc-talent-2021-10-12-le-vortex-saison-d-été-2",
       "project_id": "",
       "commission_id": "cnc-talent-2021-10-12",
       "talent_raw": "Le Vortex",
+      "talent_person_id": "le-vortex",
       "beneficiary_raw": "Nerd Entertainment System",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -111,6 +115,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-10-12",
       "talent_raw": "DanyCaligula",
+      "talent_person_id": "dany-caligula",
       "beneficiary_raw": "Zawa Prod",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -122,6 +127,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-10-12",
       "talent_raw": "Tommy Tahir",
+      "talent_person_id": "tommy-tahir",
       "beneficiary_raw": "BRUTE DE POMME",
       "amount": 28000,
       "aid_section": "aide_creation",
@@ -144,6 +150,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-10-12",
       "talent_raw": "Florence FAUQUET",
+      "talent_person_id": "florence-fauquet",
       "beneficiary_raw": "Florence FAUQUET",
       "amount": 25000,
       "aid_section": "aide_creation",
@@ -166,6 +173,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-10-12",
       "talent_raw": "Thomas Olland",
+      "talent_person_id": "thomas-olland",
       "beneficiary_raw": "Beall Productions",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -177,6 +185,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-10-12",
       "talent_raw": "Marie de Brauer",
+      "talent_person_id": "marie-de-brauer",
       "beneficiary_raw": "Trois Jours De Marche",
       "amount": 5000,
       "aid_section": "aide_creation",
@@ -188,6 +197,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-10-12",
       "talent_raw": "Théodore Tomasz",
+      "talent_person_id": "theodore-tomasz",
       "beneficiary_raw": "Ludore Production",
       "amount": 5000,
       "aid_section": "aide_creation",
@@ -195,10 +205,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2021-10-12-cinemaccessible",
+      "id": "cnc-talent-2021-10-12-cinémaccessible",
       "project_id": "",
       "commission_id": "cnc-talent-2021-10-12",
       "talent_raw": "La Manie Du Cinéma",
+      "talent_person_id": "la-manie-du-cinema",
       "beneficiary_raw": "Cairn Productions",
       "amount": 5000,
       "aid_section": "aide_creation",
@@ -206,14 +217,15 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2021-10-12-web-serie-kuss-mar-et-ca-demarre",
+      "id": "cnc-talent-2021-10-12-web-série-kuss-mar-et-ça-démarre",
       "project_id": "",
       "commission_id": "cnc-talent-2021-10-12",
       "talent_raw": "Bob Dylem",
+      "talent_person_id": "dylan-perez",
       "beneficiary_raw": "Dylan Perez",
       "amount": 5000,
       "aid_section": "aide_creation",
-      "aid_type": "standard",
+      "aid_type": "aide_pilote",
       "result": "accepted"
     },
     {
@@ -224,7 +236,7 @@
       "beneficiary_raw": "ACTEUR DU NORD",
       "amount": 3000,
       "aid_section": "aide_creation",
-      "aid_type": "standard",
+      "aid_type": "bourse_encouragement",
       "result": "accepted"
     },
     {
@@ -232,6 +244,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-10-12",
       "talent_raw": "Alexandre Jollien",
+      "talent_person_id": "alexandre-jollien",
       "beneficiary_raw": "Pan Europenne",
       "amount": 5000,
       "aid_section": "aide_creation",
@@ -243,6 +256,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2021-10-12",
       "talent_raw": "Blackvision",
+      "talent_person_id": "blackvision",
       "beneficiary_raw": "Blackvision",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -250,7 +264,7 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2021-10-12-a-la-rencontre-des-artisans-de-demain",
+      "id": "cnc-talent-2021-10-12-à-la-rencontre-des-artisans-de-demain",
       "project_id": "",
       "commission_id": "cnc-talent-2021-10-12",
       "talent_raw": "Les Artisans de Demain",

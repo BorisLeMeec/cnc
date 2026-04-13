@@ -2,50 +2,50 @@
   "id": "cnc-talent-2024-09-18",
   "fund_name": "CNC Talent",
   "date": "2024-09-18",
-  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-18-septembre-2024_2282280",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-20-novembre-2024_2322707",
   "jury": [
     {
-      "person_id": "",
+      "person_id": "nora-hamzawi",
       "raw_name": "Nora Hamzawi",
       "role": "président"
     },
     {
-      "person_id": "",
+      "person_id": "anis-rhali",
       "raw_name": "Anis Rhali",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "constance-le-scouarnec",
       "raw_name": "Constance LE SCOUARNEC",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "victor-habchy",
       "raw_name": "Victor HABCHY",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "romain-dupouy",
       "raw_name": "Romain DUPOUY",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "benjamin-hoguet",
       "raw_name": "Benjamin HOGUET",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "charlie-danger",
       "raw_name": "Charlie DANGER",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "ambroise-carminati",
       "raw_name": "Ambroise CARMINATTI",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "jeanne-ezvan",
       "raw_name": "Jeanne EZVAN",
       "role": "membre"
     }
@@ -56,6 +56,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-09-18",
       "talent_raw": "Quentin Keriven",
+      "talent_person_id": "quentin-keriven",
       "beneficiary_raw": "Blaise Léa",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -67,6 +68,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-09-18",
       "talent_raw": "Mehdi Moussaïd",
+      "talent_person_id": "mehdi-moussaid",
       "beneficiary_raw": "PANDORA Création",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -78,6 +80,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-09-18",
       "talent_raw": "SPOT",
+      "talent_person_id": "spot",
       "beneficiary_raw": "DILLAWAVE PRODUCTION",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -89,6 +92,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-09-18",
       "talent_raw": "CALMOS",
+      "talent_person_id": "calmos",
       "beneficiary_raw": "PHENOMENES FILMS",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -100,6 +104,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-09-18",
       "talent_raw": "Paul Trandonnet",
+      "talent_person_id": "paul-trandonnet",
       "beneficiary_raw": "Nuits Bleues",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -107,10 +112,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2024-09-18-heiva-i-paris-saison-2",
+      "id": "cnc-talent-2024-09-18-saison-2-heiva-i-paris",
       "project_id": "",
       "commission_id": "cnc-talent-2024-09-18",
       "talent_raw": "Heiva i Paris par Ken Carlter",
+      "talent_person_id": "ken-carlter",
       "beneficiary_raw": "Ken CARLTER",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -122,6 +128,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-09-18",
       "talent_raw": "Donato Sansone",
+      "talent_person_id": "donato-sansone",
       "beneficiary_raw": "Autour de Minuit",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -129,10 +136,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2024-09-18-lor-du-commun",
+      "id": "cnc-talent-2024-09-18-l-or-du-commun",
       "project_id": "",
       "commission_id": "cnc-talent-2024-09-18",
       "talent_raw": "Or Périph",
+      "talent_person_id": "or-periph",
       "beneficiary_raw": "Or Périph",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -144,6 +152,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-09-18",
       "talent_raw": "Benzprod",
+      "talent_person_id": "benzprod",
       "beneficiary_raw": "Benz Productions",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -155,6 +164,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-09-18",
       "talent_raw": "Cyrielle Thepaut",
+      "talent_person_id": "cyrielle-thepaut",
       "beneficiary_raw": "Cyrielle Thepaut",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -166,6 +176,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-09-18",
       "talent_raw": "Anatole Chouard",
+      "talent_person_id": "anatole-chouard",
       "beneficiary_raw": "Anatole Chouard",
       "amount": 26200,
       "aid_section": "aide_creation",
@@ -173,10 +184,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2024-09-18-ceux-dapres",
+      "id": "cnc-talent-2024-09-18-ceux-d-apres",
       "project_id": "",
       "commission_id": "cnc-talent-2024-09-18",
       "talent_raw": "Sorya Mesnage",
+      "talent_person_id": "sorya-mesnage",
       "beneficiary_raw": "Sorya  Mesnage",
       "amount": 5000,
       "aid_section": "aide_creation",
@@ -188,6 +200,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-09-18",
       "talent_raw": "Wladimir Autain",
+      "talent_person_id": "wladimir-autain",
       "beneficiary_raw": "David Tillault",
       "amount": 5000,
       "aid_section": "aide_creation",
@@ -199,6 +212,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-09-18",
       "talent_raw": "Alexandre DUBOSC",
+      "talent_person_id": "alexandre-dubosc",
       "beneficiary_raw": "Alexandre DUBOSC",
       "amount": 5000,
       "aid_section": "aide_creation",
@@ -210,6 +224,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-09-18",
       "talent_raw": "Timothée MARTIN",
+      "talent_person_id": "timothee-martin",
       "beneficiary_raw": "Timothée MARTIN",
       "amount": 5000,
       "aid_section": "aide_creation",
@@ -221,6 +236,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-09-18",
       "talent_raw": "Alexandre SERVAGE",
+      "talent_person_id": "alexandre-servage",
       "beneficiary_raw": "Alexandre SERVAGE",
       "amount": 5000,
       "aid_section": "aide_creation",
@@ -232,10 +248,11 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-09-18",
       "talent_raw": "Margorito",
+      "talent_person_id": "margot-spindler",
       "beneficiary_raw": "Margot Spindler",
       "amount": 3000,
       "aid_section": "aide_creation",
-      "aid_type": "bourse_encouragement",
+      "aid_type": "standard",
       "result": "accepted"
     },
     {
@@ -243,10 +260,11 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-09-18",
       "talent_raw": "Emmanuel MAYEMBA",
+      "talent_person_id": "emmanuel-mayemba",
       "beneficiary_raw": "Emmanuel MAYEMBA",
       "amount": 3000,
       "aid_section": "aide_creation",
-      "aid_type": "bourse_encouragement",
+      "aid_type": "standard",
       "result": "accepted"
     },
     {
@@ -254,17 +272,19 @@
       "project_id": "",
       "commission_id": "cnc-talent-2024-09-18",
       "talent_raw": "Punchologue",
+      "talent_person_id": "ryan-mahieddine",
       "beneficiary_raw": "M. Ryan Mahieddine",
       "amount": 3000,
       "aid_section": "aide_creation",
-      "aid_type": "bourse_encouragement",
+      "aid_type": "standard",
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2024-09-18-le-reglement-episodes-71-75",
+      "id": "cnc-talent-2024-09-18-le-reglement",
       "project_id": "",
       "commission_id": "cnc-talent-2024-09-18",
       "talent_raw": "Le Règlement",
+      "talent_person_id": "maxime-braud",
       "beneficiary_raw": "BURBANK MEDIASARL",
       "amount": 50000,
       "aid_section": "aide_chaine",
@@ -272,10 +292,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2024-09-18-tout-nest-pas-foutu",
+      "id": "cnc-talent-2024-09-18-tout-n-est-pas-foutu",
       "project_id": "",
       "commission_id": "cnc-talent-2024-09-18",
       "talent_raw": "Le Média Positif",
+      "talent_person_id": "le-media-positif",
       "beneficiary_raw": "Boost Production",
       "amount": 25000,
       "aid_section": "aide_chaine",

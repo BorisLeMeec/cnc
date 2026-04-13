@@ -2,60 +2,61 @@
   "id": "cnc-talent-2018-03-19",
   "fund_name": "CNC Talent",
   "date": "2018-03-19",
-  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-19-mars-2018_759076",
+  "source_url": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-13-decembre-2018_939596",
   "jury": [
     {
-      "person_id": "",
+      "person_id": "jr",
       "raw_name": "JR",
       "role": "président"
     },
     {
-      "person_id": "",
+      "person_id": "lorenzo-benedetti",
       "raw_name": "Lorenzo Benedetti",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "florent-bernard",
       "raw_name": "Florent Bernard",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "cyprien-iov",
       "raw_name": "Cyprien Iov",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "barbara-israel",
       "raw_name": "Barbara Israël",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "salam-jawad",
       "raw_name": "Salam Jawad",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "ina-mihalache",
       "raw_name": "Ina Mihalache",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "margaux-missika",
       "raw_name": "Margaux Missika",
       "role": "membre"
     },
     {
-      "person_id": "",
+      "person_id": "axelle-tessandier",
       "raw_name": "Axelle Tessandier",
       "role": "membre"
     }
   ],
   "grants": [
     {
-      "id": "cnc-talent-2018-03-19-leffondrement",
+      "id": "cnc-talent-2018-03-19-effondrement",
       "project_id": "",
       "commission_id": "cnc-talent-2018-03-19",
       "talent_raw": "Les Parasites",
+      "talent_person_id": "les-parasites",
       "beneficiary_raw": "Synchrone Medias",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -67,6 +68,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-03-19",
       "talent_raw": "VALD",
+      "talent_person_id": "valentin-le-du",
       "beneficiary_raw": "A TRAVERS LE MIROIR",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -78,6 +80,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-03-19",
       "talent_raw": "PV Nova",
+      "talent_person_id": "pierre-valentin-nova",
       "beneficiary_raw": "La Crémerie",
       "amount": 14000,
       "aid_section": "aide_creation",
@@ -85,10 +88,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2018-03-19-miss-book-passe-ton-bac",
+      "id": "cnc-talent-2018-03-19-miss-book-passe-bac",
       "project_id": "",
       "commission_id": "cnc-talent-2018-03-19",
       "talent_raw": "Nawal STOULI",
+      "talent_person_id": "nawal-stouli",
       "beneficiary_raw": "STOULI Nawal",
       "amount": 17000,
       "aid_section": "aide_creation",
@@ -107,10 +111,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2018-03-19-langlais-explique-par-un-americain",
+      "id": "cnc-talent-2018-03-19-anglais-explique-americain",
       "project_id": "",
       "commission_id": "cnc-talent-2018-03-19",
       "talent_raw": "Sebastian Marx",
+      "talent_person_id": "sebastian-marx",
       "beneficiary_raw": "Corpito",
       "amount": 10000,
       "aid_section": "aide_creation",
@@ -122,6 +127,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-03-19",
       "talent_raw": "Martial LOMBARD",
+      "talent_person_id": "martial-lombard",
       "beneficiary_raw": "Lombard Martial",
       "amount": 5000,
       "aid_section": "aide_creation",
@@ -133,6 +139,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-03-19",
       "talent_raw": "SUPERFLAME",
+      "talent_person_id": "superflame",
       "beneficiary_raw": "SoundLife Production",
       "amount": 25000,
       "aid_section": "aide_creation",
@@ -140,10 +147,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2018-03-19-wtfake-wtfaq-aude-contre-les-fake-news",
+      "id": "cnc-talent-2018-03-19-wtfake-wtfaq",
       "project_id": "",
       "commission_id": "cnc-talent-2018-03-19",
       "talent_raw": "Aude Favre",
+      "talent_person_id": "aude-favre",
       "beneficiary_raw": "Zebra Production",
       "amount": 10000,
       "aid_section": "aide_creation",
@@ -155,6 +163,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-03-19",
       "talent_raw": "Appelle-Moi Poésie",
+      "talent_person_id": "appelle-moi-poesie",
       "beneficiary_raw": "Appelle-Moi Poésie",
       "amount": 10000,
       "aid_section": "aide_creation",
@@ -162,10 +171,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2018-03-19-indecis-a-la-rencontre-de-la-politique",
+      "id": "cnc-talent-2018-03-19-indecis-rencontre-politique",
       "project_id": "",
       "commission_id": "cnc-talent-2018-03-19",
       "talent_raw": "Indécis - Chaine d'interview politique",
+      "talent_person_id": "indecis",
       "beneficiary_raw": "Une grosse boîte américaine",
       "amount": 15000,
       "aid_section": "aide_creation",
@@ -177,6 +187,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-03-19",
       "talent_raw": "Tommy-Lee BAÏK",
+      "talent_person_id": "tommy-lee-baik",
       "beneficiary_raw": "BAÏK Tommy-Lee",
       "amount": 30000,
       "aid_section": "aide_creation",
@@ -184,10 +195,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2018-03-19-balade-mentale-petit-cabinet-de-curiosites-modernes",
+      "id": "cnc-talent-2018-03-19-balade-mentale-cabinet-curiosites",
       "project_id": "",
       "commission_id": "cnc-talent-2018-03-19",
       "talent_raw": "Balade Mentale",
+      "talent_person_id": "theo-drieu",
       "beneficiary_raw": "EEMC",
       "amount": 15000,
       "aid_section": "aide_chaine",
@@ -199,6 +211,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-03-19",
       "talent_raw": "Julien Menielle",
+      "talent_person_id": "julien-menielle",
       "beneficiary_raw": "TALENT WEB",
       "amount": 50000,
       "aid_section": "aide_chaine",
@@ -210,6 +223,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-03-19",
       "talent_raw": "Stupid Economics",
+      "talent_person_id": "stupid-economics",
       "beneficiary_raw": "Accromédias SAS",
       "amount": 36000,
       "aid_section": "aide_chaine",
@@ -221,6 +235,7 @@
       "project_id": "",
       "commission_id": "cnc-talent-2018-03-19",
       "talent_raw": "ET BIM",
+      "talent_person_id": "et-bim",
       "beneficiary_raw": "Jeff et Octave",
       "amount": 30000,
       "aid_section": "aide_chaine",
@@ -228,10 +243,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2018-03-19-partager-cest-sympa",
+      "id": "cnc-talent-2018-03-19-partager-sympa",
       "project_id": "",
       "commission_id": "cnc-talent-2018-03-19",
       "talent_raw": "Partager c'est Sympa",
+      "talent_person_id": "partager-cest-sympa",
       "beneficiary_raw": "Partager c'est Sympa",
       "amount": 25000,
       "aid_section": "aide_chaine",
@@ -239,10 +255,11 @@
       "result": "accepted"
     },
     {
-      "id": "cnc-talent-2018-03-19-maud-bettina-marie-portraits-de-familles",
+      "id": "cnc-talent-2018-03-19-maud-bettina-marie-portraits-familles",
       "project_id": "",
       "commission_id": "cnc-talent-2018-03-19",
       "talent_raw": "MAUD BETTINA-MARIE",
+      "talent_person_id": "maud-bettina-marie",
       "beneficiary_raw": "KHOJANDI PRODUCTIONS",
       "amount": 31000,
       "aid_section": "aide_chaine",
